@@ -1,6 +1,6 @@
 import sys
-print(sys.path)
 sys.path.append('C:\\users\\jmmag\\appdata\\local\\programs\\python\\python310\\lib\\site-packages')
+import numpy as np
 
 #We define a ChessBoard as the elements in an FEN:
 # a position, the marker of whether it is white or black to play, whether there are castling rights, if there is an en-passantable

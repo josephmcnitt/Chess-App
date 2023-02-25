@@ -3,8 +3,11 @@ sys.path.append('C:\\users\\jmmag\\appdata\\local\\programs\\python\\python310\\
 import torch
 import torch.nn as nn
 from transformers import BertModel, BertTokenizer
+from torch.utils.data import DataLoader
 
-with open('sample.pgn') as f:
+
+
+with open('output.txt') as f:
     positions = [line.strip() for line in f]
 
 class FENTransformer(nn.Module):
@@ -20,24 +23,39 @@ class FENTransformer(nn.Module):
         pooled_output = outputs[1]
         pooled_output = self.dropout(pooled_output)
         logits = self.classifier(pooled_output)
-        outputs = (logits,) + outputs[2:]
         if labels is not None:
             loss_fct = nn.CrossEntropyLoss()
             loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1))
-            outputs = (loss,) + outputs
-        return outputs
+            return loss, logits
+        else:
+            return logits
+
 
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 model = FENTransformer(num_labels=2)
-# Tokenize the positions
+
+# Set batch size
+batch_size = 2
+
+# Create dataset from positions and tokenize them
 inputs = tokenizer(positions, padding=True, truncation=True, return_tensors='pt')
+dataset = torch.utils.data.TensorDataset(inputs['input_ids'], inputs['attention_mask'], inputs['token_type_ids'])
+
+# Create data loader with specified batch size
+data_loader = DataLoader(dataset, batch_size=batch_size)
 
 # Make predictions with the model
 outputs = model(**inputs)
 
 # Extract the predicted probabilities
-probs = torch.softmax(outputs.logits, dim=1)
-loss, logits = outputs[:2]
+probs = torch.softmax(outputs[0], dim=0)
+loss, logits = outputs[1:]
 
-print(loss)
-print(logits)
+output_file = "output_guesses.txt"
+
+with open(output_file, "w") as f_out:
+    f_out.write(str(outputs))
+    f_out.write(str(probs))
+    f_out.write(str(loss))
+    f_out.write(str(logits))
+
