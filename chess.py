@@ -1,10 +1,12 @@
-import math
+import sys
+print(sys.path)
+sys.path.append('C:\\users\\jmmag\\appdata\\local\\programs\\python\\python310\\lib\\site-packages')
 
 #We define a ChessBoard as the elements in an FEN:
 # a position, the marker of whether it is white or black to play, whether there are castling rights, if there is an en-passantable
 # square, halfmove clock, and the fullmove number.
 class ChessBoard:
-    def __init__(self, fen=None, spot=None):
+    def __init__(self, fen=None):
         starting_position = [
             ['r', 'n', 'b', 'q', 'k', 'b', 'n', 'r'],
             ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'],
@@ -106,13 +108,52 @@ class ChessBoard:
     }
 
 class ChessMoves:
+    # position is a tuple
     def __init__(self, board, position):
-        self.piece = board[position]
-    def pawn_moves():
+        self.piece = board[position[0]][position[1]]
+        self.moves = []
+    def pawn_moves(self, board, position, moves):
+        i = position(0)
+        j = position(1)
+        sgn = board.letters_to_matrix(self.piece) #This gives the sign to multiply for black vs white
+        start = 3.5 - 2.5*sgn
+        if i == start:  
+            moves.append((i+1*sgn, j))
+            moves.append((i+2*sgn, j))
+        elif i > start:
+            moves.append((i+1*sgn, j))
+    def knight_moves(board, position, moves=[]):
+        i = position(0)
+        j = position(1)
         1
-    def knight_moves():
+    def bishop_moves(board, position, moves=[]):
+        i = position(0)
+        j = position(1)
         1
-    def bishop_moves():
+    def rook_moves(self, position: tuple[int, int], board, moves):
+        for i, j in [(1, 0), (-1, 0), (0, 1), (0, -1)]:
+            x, y = position
+            while True:
+                x += i
+                y += j
+                if not self.is_valid_square((x, y)):
+                    break
+                piece = board[x][y]
+                if piece == ".":
+                    moves.append(f"{position[0]}{position[1]}{x}{y}")
+                elif piece.isupper() != board[position[0]][position[1]].isupper():
+                    moves.append(f"{position[0]}{position[1]}{x}{y}")
+                    break
+                else:
+                    break
+        return moves
+    def queen_moves(board, position, moves=[]):
+        i = position(0)
+        j = position(1)
+        1
+    def king_moves(board, position, moves=[]):
+        i = position(0)
+        j = position(1)
         1
     
     def generate_moves(board, position):
