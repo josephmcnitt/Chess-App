@@ -1,0 +1,639 @@
+[Event "CRO-Ch 2018"]
+[Site "Pozega"]
+[Date "2018.04.18"]
+[Round "2.3"]
+[White "Saric, Ivan"]
+[Black "Saric, Ante"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2677"]
+[BlackElo "2541"]
+[Annotator "MyPrecious"]
+[PlyCount "67"]
+[EventDate "2018.??.??"]
+[WhiteClock "1:30:00"]
+[BlackClock "1:30:00"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 {The Rossolimo has practically became the mainline
+nowadays. Rarely anyone dares to play 3 d4 here.} g6 4. Bxc6 bxc6 (4... dxc6 {
+Has lost on popularity recently, due to the set-up used by Black in this game
+after 4... bxc6}) 5. O-O Bg7 6. Re1 Nh6 {Black intends to play f5 in the
+future if White doesn't react} 7. c3 (7. h3 O-O 8. c3 f5 $5 {Is one of the
+points, with complicated struggle}) 7... O-O 8. d4 {It seems strange to open
+up the position for the bishops and ondouble the pawns, but White wants to
+achieve central control at all costs} cxd4 9. cxd4 d5 10. e5 f6 11. e6 $5 {
+This is highly commital and double edged move, typical for Saric} (11. h3 {
+Preventing Bg4, would have been more timid. After} fxe5 12. Bxh6 $5 (12. Nxe5
+Nf5 {Is inferior} 13. Nxc6 Qb6 14. Nxe7+ Nxe7 15. Rxe7 Bxd4 {When Black is
+fine after} 16. Be3 Qd6 17. Qxd4 Qxe7 18. Qxd5+ Be6 19. Qe5) 12... Bxh6 13.
+Nxe5 Qb6 14. b3 {But it is doubtful whether White has any advantage whatsoever}
+) 11... Nf5 (11... Qd6 {Attacking e6 immediately, is also possible, flirting
+with c5} 12. Qe2 c5 (12... Rb8 13. b3) 13. dxc5 Qxc5 {And this seems playable
+for Black.}) 12. Nc3 Qd6 13. Qe2 Qb4 (13... c5 {Is similar to the previously
+examined position}) 14. a3 Qb3 15. h4 {Saric is playing very attacking chess
+and posing some problems to his opponent, although Black should objectively be
+fine here} a5 16. Bf4 Ba6 17. Qd2 h5 18. Rac1 Rfc8 19. Ne2 a4 20. Rc3 Qb6 21.
+Ng3 Nxg3 22. Bxg3 Bc4 $2 {A very serious mistake, underestimating the danger
+in the position and allowing White to develop a decisive initiative} (22... Kh7
+{A quiet move with the king was required. Than after} 23. Qc2 Qb5 24. Bf4 {
+Black remains under some pressue, but at least he is not completely lost}) 23.
+Qc2 Kh7 24. Bf4 $2 {Missing the chance} (24. Re5 {Immediately was possible.
+After} fxe5 25. Ng5+ Kh6 26. Nf7+ Kh7 27. Bxe5 {The events unfold similarly as
+in the game} Rg8 28. Ng5+ Kh6 29. Rg3 Bxe5 30. Nf7+ Kh7 31. Qd2 {With crushin
+attack}) 24... c5 $2 {Returning the favour and allowing the sacrifice once
+again} (24... Bb3 25. Qb1 Rf8 26. g4) (24... Bh6 {Was the only chance} 25. Bxh6
+Kxh6 26. g4 {Although Black's position is still highly unpleasant, he has
+chances of surviving after the best move} Rg8) 25. Re5 $3 {A fantastic blow,
+winning for White} fxe5 (25... f5 26. Rxf5 {Doesn't help, really}) 26. Ng5+ Kg8
+(26... Kh6 27. Rg3 {All is over} e4 28. Nxe4+ Kh7 29. Nf6+ Bxf6 30. Qxg6+ Kh8
+31. Qxh5#) 27. Bxe5 $3 Rf8 28. Qxg6 Rf6 29. Bxf6 exf6 30. Qf7+ Kh8 31. Qxh5+
+Kg8 32. Qf7+ Kh8 33. e7 fxg5 34. hxg5 {And the final blow is delivered by the
+rook sitting quietly on c3. Fantastic sacrifical win which could have as well
+been included in the brilliancies part.} 1-0
+
+[Event "CRO-Ch 2018"]
+[Site "Pozega"]
+[Date "2018.04.18"]
+[Round "2.6"]
+[White "Jovanovic, Zoran"]
+[Black "Palac, Mladen"]
+[Result "1-0"]
+[ECO "B51"]
+[WhiteElo "2536"]
+[BlackElo "2551"]
+[Annotator "MyPrecious"]
+[PlyCount "103"]
+[EventDate "2018.??.??"]
+[WhiteClock "1:27:00"]
+[BlackClock "1:30:00"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 7. Nc3 {
+This has been seen on the top level many many times} Rc8 $6 {A somewhat
+strange move that is probably not going to establish itself in the opening
+theory} (7... e5 {Is the theoretical continuation.}) 8. e5 $5 {Immediately
+emphasizing the drawback of the Black's 7th move} dxe5 9. Nxe5 Nf6 10. Bf4 $5 {
+All the pieces are now coordinated and Black has some difficulties in
+completing his development} Bb5 (10... e6 {Is met with the} 11. O-O-O {And
+Black is in huge trouble}) (10... Bc6 {Was nevertheless better} 11. Qxd8+ (11.
+Qa7 {Is an amazing suggestion by the engine, but who would play that?}) 11...
+Rxd8 12. Nxc6 bxc6 13. Ke2 {And the same endgame as in the game has been
+reached, with the a-pawn on a2, which should be in White's favour I guess}) 11.
+Qxd8+ $5 {Quite simple} (11. Nxb5 {Was kinda strong here, but it is really not
+a human way to play} axb5 12. Qa7 {Once again this idea. Now things start
+getting really complicated after} Qc7 {Virtually the only move} 13. Ng6 Qc4 14.
+Nxh8 Qxf4 15. Qxb7 {And it is unclear whether White is that much better - the
+knight on h8 is probably bound to fall}) 11... Rxd8 12. a4 Bc6 (12... Bd7 13.
+O-O-O {Is uncomfortable}) 13. Nxc6 bxc6 14. Ke2 $5 {White has obtained a
+slight advantage out of the opening. It doesn't seem like much, but just look
+how Jovanovic proceeds to outplay his formidable opponent.} e6 15. Rhd1 Nd5 16.
+Nxd5 $1 {Great judgement and a counterintuitive solution - White improves his
+opponent's pawn structure, but he has a concrete idea behind it.} cxd5 17. c4
+$1 {The point - d5 gets undermined immediately. White retains a slight edge}
+Bd6 {The best move in the position} (17... Be7 18. cxd5 exd5 19. Rac1 {Is
+advantageous for White}) (17... dxc4 18. Rxd8+ Kxd8 19. Rd1+ Ke8 20. Rd4 c3 21.
+bxc3 {Is also a much better endgame for White}) 18. Bxd6 {There is no choice}
+Rxd6 19. cxd5 exd5 20. b4 $5 {Another unpleasant move. Moving the rook to the
+c-file is automatic} (20. Rac1 {But then after} Kd7 21. Rd4 Rb8 22. b4 {The
+rook isn't doing anything and White has essentialy lost an important tempo,
+for instance} Re6+ 23. Kd3 Kd6 24. Rc5 Rxb4 {With equality}) 20... Kd7 21. Rd4
+Ke6 (21... Rb8 {Was arguably better. Yet, after} 22. Kd3 {Black doesn't have
+time to put his king to d6 and has to defend passively}) (21... Re6+ 22. Kd3 (
+22. Kf1 {Is arguably better}) 22... Kd6 {Might have been better} 23. Kc3 Rc8+
+24. Kb3 Re5 {And Black is probably fine}) 22. Rc1 Rb8 23. Rc5 Rdb6 $2 {Palac
+probably loses his patience and decides to enter one of the standard endgames
+with 3v3 on the kingside and an outside passed pawn.   Still, it was probably
+better just to sit and wait} (23... g5) (23... h5 {Just gaining some space and
+waiting to see White's plan, was probably safer}) 24. Rcxd5 Rxb4 25. Rd6+ Ke7 (
+25... Kf5 {Was probably more active}) 26. Rxb4 Rxb4 27. Rxa6 {The endgame has
+been reached. This is a very favourable version for White (I think) due to the
+fact none of the kingside pawns have moved} Rb2+ (27... g5 {It might have been
+better to try and gain some space on the kingside. Who knows. I should
+probably study these types of endgame more.}) 28. Ke3 Rb3+ 29. Kf4 Rb2 30. Kg3
+Rb3+ 31. f3 Ra3 32. h4 Ra2 (32... h5 {Once again came into consideration}) 33.
+h5 h6 34. Kh3 Ra3 35. Kg4 Ra2 36. g3 Ra3 37. Kf4 Rb3 38. g4 {The situation has
+improved for White a lot. Now the next stage follows - advancing the a-pawn
+and combining it with the threats on the kingside} Rb4+ 39. Ke5 Rb3 40. Ra7+
+Ke8 41. f4 Re3+ 42. Kf5 Re6 43. a5 Kf8 44. Rb7 Ra6 45. Rb5 g6+ 46. Ke4 f5+ $2 {
+A final mistake in a lost position} 47. gxf5 gxh5 48. f6 $1 Kf7 (48... Rxf6 49.
+Rf5 {Wins}) 49. Rb7+ $1 {Arguably missed by Palac} Ke8 (49... Kxf6 50. Rb6+ {
+Is over}) 50. Kf5 h4 51. Kg6 h3 52. Kg7 {And here Palac resigned. An
+impressive technical performance by Jovanovic.} 1-0
+
+[Event "CRO-Ch 2018"]
+[Site "Pozega"]
+[Date "2018.04.20"]
+[Round "4.3"]
+[White "Bosiocic, Marin"]
+[Black "Stevic, Hrvoje"]
+[Result "0-1"]
+[ECO "D20"]
+[WhiteElo "2605"]
+[BlackElo "2587"]
+[Annotator "MyPrecious"]
+[PlyCount "58"]
+[EventDate "2018.??.??"]
+[WhiteClock "1:30:00"]
+[BlackClock "1:30:00"]
+
+1. d4 d5 2. c4 dxc4 {The most amazing thing is the fact Stevic has a rather
+narrow opening repertoire. He almost exclusively plays the Queen's Gambit
+accepted.} 3. e4 {The most ambitious try} Nf6 (3... e5 {Is the alternative}) 4.
+e5 Nd5 5. Bxc4 Nb6 6. Bd3 Nc6 7. Ne2 (7. Nf3 {Is met with the} Bg4 8. Be3 Bxf3
+9. Qxf3 (9. gxf3 e6 {Is even worse}) 9... Nxe5 10. dxe5 Qxd3 11. Qxb7 {And
+Black is fine}) 7... Bg4 8. Be3 Qd7 9. Nbc3 O-O-O {On the first sight this
+looks rather risky for Black, but it is perfectly playable} 10. O-O {The only
+way of fighting for the opening advantage} (10. Be4 Bf5 {Leads to almost
+immediate equality} 11. Bf3 Bg4 12. Be4 Bf5) (10. Bc2 e6 11. O-O Kb8 {And
+Black has no problems}) 10... Nxe5 (10... e6 {Is once again probably playable,
+but White hasn't lost a tempo on the retreat of the bishop} 11. Rc1 Kb8 (11...
+Nxe5 $6 {Is now even more risky} 12. Nb5 Nc6 13. Bf4)) 11. Bb5 Nc6 12. f3 Bf5 (
+12... Be6 $5 {With the control of d5 and c4, comes into consideration} 13. Rc1
+Bc4) 13. Rc1 a6 14. Bxc6 Qxc6 15. Bf4 {White is threatening Ne4} Rd7 $3 {To my
+mind, simply a stunning and extremely deep move. Defending the c7 pawn just
+like that and preparing a queen sacrifice} (15... h6 $2 {In order to
+illustrate the threat} 16. Ne4 Bxe4 17. fxe4 {And Black is lost}) 16. Ne4 Bxe4
+17. Rxc6 (17. fxe4 {Now doesn't work - the c7 pawn is defended} g5) 17... Bxc6
+{Objectively speaking, position is balanced, but I guess the sacrifice shocked
+Bosiocic to an extent. Moreover, it is somewhat easier to play as Black here.}
+18. Qd3 $6 {Probably not the best move} (18. Qb3) (18. Re1 {Seem more normal}
+g5) 18... Bb5 19. Qd2 $2 {And this is already a mistake, after which the
+position becomes very difficult for White.} (19. Qe4 {For better or for worse,
+this had to be played. It looks very strange, but it prevents the shot that
+appeared in the game.} f5 {For instance, doesn't achieve anything due to} 20.
+Qe5 {When White gains the upper hand} Nd5 21. Bg3) 19... e5 {An amazing shot,
+that practically wins the game for Black} 20. Bg3 {The best defence} (20. Bxe5
+Nc4 {And the Queen doesn't have a decent square} 21. Qf4 (21. Qc2 Ne3) (21. Qe1
+Nxe5 22. dxe5 Bc5+ 23. Kh1 Rhd8 {White is completely dominated}) 21... f6 22.
+Bxf6 gxf6 {And Black is winning}) 20... exd4 21. Rc1 d3 {And here already it
+is extremely difficult to defend} 22. Nf4 $2 {The final mistake} (22. Nd4 {
+White already had to rely on tactical measures to save the game} Bc4 (22... Nc4
+23. Qxd3) 23. Nb3 Bxb3 24. axb3 Be7 {And Black is better, but there is still a
+lot to play for}) 22... Nc4 $1 {Now the game is virtually over} 23. Qc3 d2 24.
+Rd1 Bd6 25. a4 Be5 {Black's pieces are wonderfully coordinated} 26. Qb4 Bxa4
+27. b3 Bxb3 28. Qxb3 Nb2 29. Nd5 Bd4+ {What a brutal and crushing win by
+Stevic!} 0-1
+
+[Event "CRO-Ch 2018"]
+[Site "Pozega"]
+[Date "2018.04.21"]
+[Round "5.6"]
+[White "Kovacevic, Blazimir"]
+[Black "Saric, Ivan"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "2493"]
+[BlackElo "2677"]
+[Annotator "MyPrecious"]
+[PlyCount "109"]
+[EventDate "2018.??.??"]
+[WhiteClock "1:30:00"]
+[BlackClock "1:30:00"]
+
+1. d4 Nf6 2. Nf3 c6 {Ivan plays the King's Indian much more often, but he has
+also become a regular Slav player in recent years.} 3. e3 {Blaz often plays
+"unpretentiously", but we all know these quiet set-ups can be quite venomous.}
+g6 4. c4 Bg7 5. b4 a5 {The first strange moment} (5... d5 {Seems much more
+normal}) 6. b5 c5 $6 {But this is already slightly dubious.} 7. Be2 d5 {The
+center will be opened, but I am not sure it is in Black's favour} 8. Bb2 (8.
+dxc5 Ne4) 8... dxc4 (8... O-O 9. dxc5) 9. Na3 $1 c3 10. Bxc3 Nd5 (10... cxd4 {
+Would be principled, but after} 11. Bxd4 {Black has a passive position}) 11.
+Bb2 O-O 12. Nc4 Bf5 $2 {But this is probably a serious mistake} (12... cxd4 {
+Was probably better. After} 13. Bxd4 Nc3 $1 14. Qd2 Bxd4 15. Nxd4 Nxe2 16. Qxe2
+{White is better, of course, but Black's position is solid}) 13. Rc1 (13. dxc5
+{Was also possible. After} Bxb2 14. Nxb2 Nc3 15. Qd4 Qxd4 16. Nxd4 {White is
+almost winning}) 13... a4 (13... cxd4 {Is now annoying} 14. Bxd4 {And there is
+no Nc3}) 14. O-O Bd7 15. Nce5 a3 {Black is virtually lost right out of the
+opening.} 16. Ba1 cxd4 17. Bxd4 e6 18. Bc4 Re8 19. Qb3 Nb6 20. Rfd1 Nxc4 21.
+Nxc4 Bxd4 22. Rxd4 Qc7 23. Rdd1 {Threatening to take on a3. You can see how
+much the knight on b8 and bishop on d7 are bothered by the pawn on b5.} Rc8 24.
+Qb1 Qd8 25. Nce5 $2 {Letting Black of the hook a bit} (25. Nfe5 {Was actually
+stronger, retaining the option of jumping to d6} Rc7 26. Nd6 Rxc1 27. Rxc1 {
+And White is winning}) 25... f6 26. Rxc8 Qxc8 27. Nxd7 $2 {A very strange
+decision, allowing Black to develop completely and losing a large portion of
+the advantage} (27. Nxg6 {Was perfectly playable}) (27. Ng4 {Was also better -
+why exchange pieces?}) 27... Nxd7 28. Qb4 Nf8 (28... Qf8 {Is indicated almost
+immediately by the computer. If knight gets to c5, Black is probably safe} 29.
+Qc4 Nc5 30. Nd4 Qd6 {And nothing terrible for Black is apparent.}) 29. h3 {The
+best indication White has lost the thread} (29. Nd4) 29... Qc2 30. Rd2 Qc1+ 31.
+Kh2 Qc7+ 32. g3 e5 33. Kg2 Qf7 34. Rc2 Ne6 {Black is still under some pressure,
+but his position is much, much better than it could have been} 35. b6 Nd8 36.
+Nd2 Nc6 37. Qc4 {The critical moment of the entire game} Rd8 $2 {After this
+move, things start to go wrong for Black once again.} (37... Qxc4 38. Nxc4 (38.
+Rxc4 Ra6 {The point - Black can develop the rook via the a-file as well}) 38...
+Kf8 {And nothing terrible for Black is apparent}) (37... f5 {Preventing Ne4,
+was also better than the game move}) 38. Ne4 {Now the knight is activated and
+Black is on the defensive} Qxc4 39. Rxc4 Ra8 $2 {A final blunder in an
+unpleasant position} (39... f5 {For better or for worse, this had to be played}
+40. Nc5 Ne7 41. Nxb7 Rb8 42. Nd6 (42. Rc7 Nd5) 42... Rxb6 43. Nc8 Nxc8 44.
+Rxc8+ Kf7 45. Ra8 {With an unpleasant rook endgame, but at least Black retains
+some practical chances}) 40. Nxf6+ Kf7 41. Rxc6 $1 {The knockout blow. Now the
+game is over} Rd8 (41... bxc6 {And White wins} 42. Nd7 $1) 42. Rc7+ Kxf6 43.
+Rxb7 Rd2 44. Rxh7 {This endgame is a trivial win for White} Rxa2 45. Ra7 Rb2
+46. Rxa3 Rxb6 47. h4 Rc6 48. g4 Rb6 49. Kg3 Rc6 50. Ra7 Rc1 51. g5+ Kf5 52.
+Rf7+ Ke4 53. Rf6 Rg1+ 54. Kh2 Rd1 55. Kg2 {A shocking game. But I guess even
+European Champions sometimes have a day off.} 1-0
+
+[Event "CRO-Ch 2018"]
+[Site "Pozega"]
+[Date "2018.04.23"]
+[Round "7.6"]
+[White "Saric, Ivan"]
+[Black "Bosiocic, Marin"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2677"]
+[BlackElo "2605"]
+[Annotator "MyPrecious"]
+[PlyCount "91"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 {No Berlin} Bc5 5. Nbd2 O-O 6. O-O d6 7.
+c3 a6 8. Bxc6 bxc6 {A fairly standard Ruy Lopez - Berlin defence position.} 9.
+Qc2 {A semi-waiting move. White waits with the central advance} (9. d4 {Is
+probably premature. After} exd4 10. cxd4 Bb6 11. Re1 Bg4 12. Qc2 c5 {And Black
+is allright. Moreover, the play is much more straightforward}) 9... Bb6 10. a4
+Re8 11. a5 Ba7 12. Re1 {Objectively speaking, White can't claim a serious
+advantage. But this is a game} Bg4 $6 {This is questionable - why commit the
+bishop so early} (12... Rb8) (12... h6) 13. h3 Bh5 $6 {And here the bishop
+will be somewhat sidelined} (13... Bd7) (13... Be6) 14. Qa4 c5 (14... Qd7 {Not
+allowing the queen to reach c6, was arguably better. Than the plan pursued in
+the game is still possible}) 15. Qc6 Qc8 (15... Qd7 {Was probably better,
+although after} 16. Qxd7 Nxd7 17. g4 Bg6 {Despite the computer's optimism, I
+think White's position is easier to play}) 16. Nh4 Rb8 17. Nc4 {The knights
+gain some nice outposts} Re6 {A very good move, intending d5 or Rb5} 18. Nf5 {
+Preventing d5 indirectly} (18. Ne3 Rb5 {And it is not clear what is happening}
+19. Nhf5 {Preventing d5 in an indirect way} Kf8 20. Nd5 Nxd5 21. Qxd5 f6) (18.
+Qa4 {Might be the best move, moving the queen away and intending to continue
+with the knight jumps. For instance} Re8 19. Bd2 h6 20. Rab1 Rb5 21. Ne3 {And
+White has the edge}) 18... Kh8 {Now d5 is a threat} (18... d5 {Is a huge
+blunder} 19. exd5 Rxc6 20. Ne7+ Kf8 21. Nxc8) 19. Qa4 Qd7 {But this is
+slightly confusing. If Black intended to exchange the queens, why not doing it
+before the knight reached f5} (19... h6 {With the knight already on f5, Black
+can consider retreating the bishop on g6} 20. Nce3 (20. Nh4 Qd8 21. Ne3 Nh7 22.
+Nhf5 Nf6 {And the position is probably equal}) 20... Bg6) 20. Qxd7 Nxd7 21. g4
+Bg6 22. Nh4 f6 23. Nxg6+ hxg6 24. f4 {Now White has a very favourable endgame
+- more space, better bishop and better pawn structure} Rb5 (24... exf4 {Is
+ugly, but maybe better} 25. Bxf4 g5 26. Bg3 Kh7 27. Kg2 Kg6 28. Reb1 Ree8 {And
+here it is not so easy to arrange b4, since after} 29. b4 cxb4 30. cxb4 Ne5 {
+Black may even be the better side here}) 25. f5 gxf5 26. gxf5 Re7 27. Be3 {Now
+the e5 square is unavailable to the knight forever} Bb8 28. Reb1 c6 29. b4 cxb4
+30. cxb4 Bc7 31. Na3 {Not at all clear what White should do. Saric tries to
+gain space on both flanks} Rb7 32. h4 (32. Rc1 Nb8 33. Rab1 {Is similar to the
+game in the end}) 32... Kg8 33. h5 {Once again, it is not clear whether this
+pawn is a source of strength, or a liability} Kf7 34. Kg2 Re8 35. Rc1 Nb8 (
+35... Rxb4 {Would be disastrous} 36. Rxc6 Rb7 37. Nc4) 36. Rab1 Rh8 37. Rh1 Ke8
+38. Kf3 d5 $5 {Trying to create some counterplay} (38... Kf7 {If Black does
+nothing, than gradual pressure on b6 and c6 is going to lead somewhere} 39. Kg4
+Ke8 40. Rhc1 Kf7 41. Bf2 Re8 (41... Ke8 42. Nc4 Nd7 43. Nb6) 42. Nc4 Rh8 43.
+Bb6) 39. exd5 cxd5 40. b5 {The drawback of the previous move} Kd7 $2 {And on
+move 40, here comes a decisive mistake} (40... axb5 {Was the only move} 41.
+Nxb5 Kd7 42. Rhg1 Rh7 43. Nxc7 Rxb1 44. Rxb1 Kxc7 {And although the endgame is
+unpleasant, Black has some drawing chances}) 41. Rhg1 {Now everything is over}
+Rh7 42. bxa6 Rxb1 43. a7 $1 {Probably missed by Bosiocic in time trouble} Nc6
+44. a8=Q Rb8 45. Qa6 Rb2 46. Rc1 {A very difficult game to analyze. It is
+extremely hard to pinpoint the exact moment in which Bos went wrong. It seems
+he got outplayed little by little and in the end cracked under the tension. An
+important win for Saric.} 1-0
+
+[Event "CRO-Ch 2018"]
+[Site "Pozega"]
+[Date "2018.04.24"]
+[Round "8.1"]
+[White "Kuljasevic, Davorin"]
+[Black "Bosiocic, Marin"]
+[Result "0-1"]
+[ECO "E17"]
+[WhiteElo "2538"]
+[BlackElo "2605"]
+[Annotator "MyPrecious"]
+[PlyCount "84"]
+[EventDate "2018.??.??"]
+[WhiteClock "1:29:00"]
+[BlackClock "1:30:00"]
+
+1. d4 {Kuljasevic is an extremely solid grandmaster who almost always opens
+with d4} Nf6 {As far as I am aware, Bos plays the Nimzo Indian and the Queen's
+Indian on a regular basis} 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ {The full
+name of this line is Queen's Indian Defense: Fianchetto. Check Variation
+Intermezzo Line.} 6. Bd2 Be7 {The point of the variation is to force the
+bishop on the inferior d2 square. Black loses a tempo in the process, but
+White will also lose a tempo to redeploy this piece.  Incidentally, Veselin
+Topalov scored some fantastic victories in these lines.   Probably most famous
+is his game against Aronian from the Corus Chess Tournament in 2006.} 7. Nc3 {
+Topalov played 7 Bg2 and followed it up with 8 Bc3 later.} (7. Bg2 c6 8. Bc3 d5
+9. Ne5 {Topalov - Aronian, Corus, 2006}) 7... d5 8. cxd5 exd5 {This is
+extremely solid for Black. If you don't believe me, ask any White opponent of
+Sergey Karjakin.} 9. Bg2 O-O 10. O-O Bb7 11. Bc1 {Here we see the bishop going
+to b2.} Nbd7 12. Bb2 Re8 13. Rc1 a6 14. e3 {The play in these positions is
+rather slow and ragged. White's plan is to create some pressure on the
+queenside and in the center. Black, on the other hand, may consider counter
+attacking on the kingside. We will actually see Bosiocic doing exactly that
+here.} Bd6 15. Nd2 {Fighting against Ne4 jump} (15. Qc2 Ne4 16. Nxe4 dxe4 17.
+Nd2 {Is quite similar}) 15... Ne4 (15... Rc8 {Perhaps Black could have changed
+track and waited with the jump a bit}) 16. Ncxe4 dxe4 17. Nc4 Bd5 18. Qc2 (18.
+Nxd6 {Came into consideration, with a small but stable edge} cxd6 19. Qd2 {
+When the queen is better placed on d2 than on c2}) 18... Nf6 19. Rfd1 b5 20.
+Na5 (20. Nxd6 cxd6 21. Bf1 (21. Qd2 {Comes too late} a5) 21... b4) 20... Qd7
+21. Qd2 Rac8 22. Rc2 h5 $1 {Very strong play by Bosiocic. White was very slow
+in building up his initiative on the queenside and he gets punished on the
+other wing} 23. Bc3 (23. h4 $5 {Is not a move one wants to make, but still, it
+was maybe playable}) 23... c6 (23... h4 {Was more prudent} 24. Bb4 h3 25. Bf1
+Nh7 {And with the knight coming to f3, it will be very unpleasant} 26. Be2 Ng5
+27. Bxd6 cxd6 28. Rdc1 Nf3+ 29. Bxf3 exf3 {Black is better here}) 24. Bb4 Bb8 (
+24... Bxb4 {Is probably objectively better, but Black bishop is important
+piece in the attack}) 25. Qe2 h4 26. Qf1 $2 {A mistake. White plays too
+passively} (26. Rdc1 {Came into consideration} h3 27. Bf1 Ba7 (27... Nh7 {Now
+doesn't work due to} 28. Qh5) 28. Bc5 Bb8 29. Ba3 Ba7 {With equality}) 26...
+Nh7 $1 {Now Black's attack starts rolling} 27. Bh3 f5 28. gxh4 g5 $1 {Another
+strong move opening the king. You can see how White's pieces are stuck on the
+other side of the board and unable to rescue the king.} 29. hxg5 Nxg5 30. Qg2
+Kh8 31. Kf1 (31. Qxg5 {Is the first suggestion of the engine, which tells you
+a lot about White's position}) 31... Rg8 32. Ke2 Qh7 33. Be7 Qh5+ 34. Bg4 fxg4
+{And it is all over. What a brilliant attack by Bosiocic.} 35. Kd2 Nf3+ 36. Kc1
+Qh3 37. Qh1 Bxh2 38. Kb2 Bb8 39. Rdc1 Qxh1 40. Rxh1+ Kg7 41. Rhc1 Kf7 42. Bb4
+Rg6 {It is amazing to see how quickly White's position went downhill.} 0-1
+
+[Event "CRO-Ch 2018"]
+[Site "Pozega"]
+[Date "2018.04.25"]
+[Round "9.5"]
+[White "Saric, Ivan"]
+[Black "Jovanovic, Zoran"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[WhiteElo "2677"]
+[BlackElo "2536"]
+[Annotator "MyPrecious"]
+[PlyCount "115"]
+[EventDate "2018.??.??"]
+[WhiteClock "1:27:00"]
+[BlackClock "1:30:00"]
+
+1. e4 g6 {The Modern!} 2. d4 c6 {Jovanovic is a specialist of these types of
+openings. He played the Old-Indian, the Philidor Defence and all sorts of
+Modern Defences his whole life} 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 dxe4 6. Nxe4 Nf6 7.
+Nxf6+ exf6 {Objectively speaking, it is hard to play for the win as Black here.
+But I think in this game, Jovanovic didn't count on playing for the win} 8. Qd2
+$5 {Principled, but risky.} (8. Be2 O-O 9. O-O {Is more solid, but also less
+dangerous for Black}) 8... O-O 9. O-O-O Bg4 10. Kb1 Nd7 (10... Bxf3 11. gxf3
+Nd7 12. h4 {Is in White's favour}) 11. h3 Be6 (11... Bxf3 {Is once again
+dangerous, despite the tempo} 12. gxf3 f5 13. h4 Nf6 14. Bc4 {And White will
+have some  real attacking chances on the kingside}) 12. c4 a5 13. g4 Nb6 (13...
+a4 14. d5) 14. Qc2 a4 15. a3 Qd7 16. Bd3 Nc8 {A very strong series of moves by
+Jovanovic. Black has forced the a3 concession, now takes a step back with the
+knight in order to  play b5} 17. g5 (17. h4 {Is impossible}) (17. Rhe1 {Is
+safer} b5 18. d5 cxd5 19. cxb5 {And now the Na7 idea doesn't work} Na7 20. b6
+Nb5 21. Qc5) 17... b5 18. gxf6 (18. d5 cxd5 19. cxb5 fxg5 20. Nxg5 Na7 {Is
+highly unclear.} 21. b6 Nb5 22. Qc5 Bf5 {The g5 advance makes all the
+difference in the world. Black is better here}) 18... Bxf6 19. Ne5 (19. Be5 {
+Is safer, but White can say goodybe to any advantage he intended to have})
+19... Qxd4 {Seemingly risky, but perfectly playable} 20. Be4 Qc5 21. Nxc6 $6 {
+But this is a mistake - now Black can enter a highly favourable endgame} (21.
+cxb5 {Would have mantained the balance} Qxc2+ 22. Kxc2 $1 {The best way} Bb3+
+23. Kb1 Bxd1 (23... Bxe5 24. Bxe5 Bxd1 25. Bxc6 Ra5 26. Rxd1 {With sufficient
+compensation for the exchange}) 24. Nd7 $1 {The key move to see} Bg7 25. Rxd1
+Rd8 26. Bxc6) 21... Qxc4 22. Qxc4 bxc4 {White is now a pawn down and his
+compensation is debatable.} 23. h4 Ra6 24. Nb4 Rb6 25. Be3 Rb5 (25... Rd6 $5)
+26. Bc6 Ra5 27. Nd5 Bxd5 {Not the best decision} (27... Bg7 {Would have
+retained the pressure}) 28. Rxd5 Rxd5 (28... Ra6 29. Bb5 Rd6 30. Rhd1 {Is even
+worse}) 29. Bxd5 Nd6 30. Bc5 (30. Bg5 {Is an engine suggestion. It seems crazy,
+but there is a concrete idea behind it - removal of the attack on b2 in order
+to win the a4 pawn} Kg7 31. Bxf6+ Kxf6 32. Bc6 Rc8 33. Bxa4 Ra8 34. Bc6 Ra6 35.
+Bg2 {And White will be fine}) 30... Rd8 31. Bb4 (31. Bxd6 Rxd6 32. Bxc4 Rd2 {
+Is, of course, terrible, despite the opposite coloured bishops}) 31... h5 32.
+Rh3 Kg7 33. Ka2 Rc8 34. f4 (34. Bxd6 Rd8 35. Bxc4 Rxd6 {Is very unpleasant})
+34... Nf5 35. Bb7 Rc7 36. Ba6 Nd4 (36... Nxh4 {I don't quite understand why
+Black refused to take a pawn}) 37. Bc3 Rc6 38. Bb7 Rc7 39. Ba6 Rc6 40. Bb7 Rc5
+41. Be4 Ne2 42. Bb4 Rc7 (42... Rb5 {Retaining the rook on the 5th rank,
+preventing f5, was better}) 43. f5 {Now White exchanges a pair of pawns and
+makes his defence easier} c3 44. bxc3 Bxc3 {Letting White escape} (44... Nxc3+
+$5 {I am not 100 % sure, but it would appear this wins for Black} 45. Bxc3 Rxc3
+46. Rxc3 (46. Rh1 Rc4) 46... Bxc3 47. fxg6 fxg6 48. Bc6 Bf6 49. Bxa4 Bxh4 50.
+Kb3 g5 {And isn't Black just winning here?}) 45. Re3 Nc1+ 46. Kb1 Bxb4 47. axb4
+Nb3 48. Bd5 {The worst is over for White} Nd2+ (48... gxf5 {The rook endgame
+was the last chance} 49. Bxb3 axb3 50. Rxb3 f4 {And the evaluation is unclear.}
+) 49. Ka2 Rc2+ 50. Ka3 Nb1+ 51. Kxa4 Nc3+ 52. Rxc3 Rxc3 53. fxg6 fxg6 54. b5
+Rc5 (54... Rh3 55. b6 Rxh4+ {Also leads to a draw - White is just in time after
+} 56. Ka5 Rf4 57. b7 Rf8 58. Be6 Rb8 59. Bc8 h4 60. Kb6 Kf6 61. Ka7 Rxb7+ 62.
+Kxb7 Ke5 63. Kb6 Kf4 64. Kc5 g5 65. Kd4 g4 66. Kd3 Kf3 67. Bxg4+ Kxg4 68. Ke2
+h3 69. Kf2) 55. Bb3 Rc8 56. b6 Kf6 57. Kb5 Rb8 58. Kc6 {And here a draw was
+agreed. A game that will probably haunt Jovanovic for quite some time - a
+golden opportunity to become the Croatian Champion was gone.} 1/2-1/2
+
+[Event "CRO-Ch 2018"]
+[Site "Pozega"]
+[Date "2018.04.26"]
+[Round "10.5"]
+[White "Kozul, Zdenko"]
+[Black "Martinovic, Sasa"]
+[Result "0-1"]
+[ECO "D30"]
+[WhiteElo "2611"]
+[BlackElo "2594"]
+[Annotator "MyPrecious"]
+[PlyCount "156"]
+[EventDate "2018.??.??"]
+[WhiteClock "1:29:00"]
+[BlackClock "1:30:00"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 e6 5. Bd3 Bd6 6. O-O O-O 7. Nbd2 c5 {The
+early advance of the c- pawn is somewhat risky} (7... Nbd7 {For instance, is
+more solid}) 8. dxc5 Bxc5 9. a3 a5 10. Qc2 dxc4 11. Nxc4 Nbd7 12. e4 $6 {But
+this decision is also premature.} (12. Rd1 b5 13. Nce5) (12. Bd2 {A quiet
+developing move was much less commital. For instance} b5 13. Nxa5) 12... b5 $1
+{Is now playable.} 13. Ncd2 $2 {Slightly too passive} ({After} 13. Nce5 Nxe5
+14. Nxe5 Bd6 {Black is perfectly fine} 15. Nf3 Bb7) 13... Bb7 $1 {Great play
+and a very dynamic pawn sacrifice!} 14. Bxb5 {Very principled decision, but
+now Black gets enormous compensation for the pawn} Rc8 15. Qd3 Qc7 16. Qe2 Rfd8
+17. Ba6 $6 {This is positionaly desirable, but White is too underdeveloped for
+it.} (17. Nb3 {Returning the pawn at once was arguably the best policy} Bxe4
+18. Bg5 {When White is slightly worse, but at least all his pieces are in play}
+) 17... Bxa6 18. Qxa6 Ng4 $1 {A disaster is coming on f2} 19. Qe2 a4 $2 {Not
+the most accurate move, but we can't really blame Sasa for missing the
+strongest continuation} (19... Bxf2+ {Immediate sacrifice was crushing,
+although it is extremely difficult to calculate} 20. Rxf2 Nc5 21. Rf1 Nd3 {And
+White is paralyzed. The threat of Qc5 is too strong, for instance} 22. g3 Qc5+
+23. Kh1 Qe3 $3 24. Qxe3 Nxe3 {And Black wins. Fantastic variation}) 20. h3 (20.
+b4 {Is the amazing computer resource. The point is that White controls c5
+after it} axb3 21. Nxb3 Bxf2+ 22. Rxf2 Nxf2 23. Qxf2 {And now there is no Nc5.
+Perhaps Black can maintain the balance with} Qc3 {But it is a completely
+different game}) 20... Nxf2 21. Rxf2 Bxf2+ 22. Kxf2 Nc5 $1 {A familiar idea}
+23. Ne1 {The only defence} Rd4 24. Ndf3 (24. Nf1 {Preventing the knight from
+jumping to g3, was the most accurate defence, but is it extremely unpleasant
+to play this position as White}) (24. Kg1 Qd7 {And White is too tied to do
+anything}) 24... Nxe4+ 25. Kg1 Ng3 26. Qf2 Rd1 27. Bf4 Rxe1+ 28. Rxe1 Qxf4 29.
+Ne5 Qxf2+ 30. Kxf2 Nf5 {The dust has settled and Black has reached a endgame
+with an extra pawn. I will give the remainder of the game without commentary,
+as Sasa displayed excellent technique in converting his advantage.} 31. Re4
+Rc2+ 32. Re2 Rc5 33. Nd3 Rd5 34. Nb4 Rd1 35. Na2 Rd4 36. Nc3 Nd6 37. Ke1 Kf8
+38. Re5 Nc4 39. Rb5 Ne3 40. Ra5 Nxg2+ 41. Ke2 Nf4+ 42. Ke3 Rc4 43. Ne4 Nd5+ 44.
+Kd3 Rc6 45. Rxa4 f5 46. Ra8+ Ke7 47. Ng5 h6 48. Nf3 Rd6 49. Kc2 Nb6 50. Rg8 Kf7
+51. Rh8 Nd7 52. Rd8 Ke7 53. Rg8 Kf7 54. Rd8 Ke7 55. Rg8 Kf6 56. Nd2 e5 57. a4
+e4 58. a5 Ne5 59. Rf8+ Kg5 60. Re8 Kf4 61. Nb1 Nc6 62. Nc3 Nxa5 63. b4 Nc6 64.
+Kb3 e3 65. b5 Nd8 66. Kc4 Kf3 67. b6 Rc6+ 68. Kd3 Rd6+ 69. Kc4 f4 70. Nb5 Rd7
+71. Nc3 g5 72. Re5 Rd6 73. Rb5 e2 74. Rb1 Rc6+ 75. Kd3 Rd6+ 76. Kc2 Rxb6 77.
+Re1 Rc6 78. Kd2 Rxc3 0-1
+
+[Event "CRO-Ch 2018"]
+[Site "Pozega"]
+[Date "2018.04.27"]
+[Round "11.4"]
+[White "Saric, Ivan"]
+[Black "Fercec, Nenad"]
+[Result "1-0"]
+[ECO "C95"]
+[WhiteElo "2677"]
+[BlackElo "2446"]
+[Annotator "MyPrecious"]
+[PlyCount "93"]
+[EventDate "2018.??.??"]
+[WhiteClock "1:28:00"]
+[BlackClock "1:30:00"]
+
+1. e4 {As you might have noticed, Ivan is exclusively an e4 player.} e5 2. Nf3
+Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 {
+The Breyer variation, introduced by the hypermodernist Gyula Breyer way back
+in the 1920s (?). It is known for it's solidity and was championed by a number
+of strong players (Magnus Carlsen being one of them).} 10. d4 Nbd7 11. Nbd2 Bb7
+12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15. a4 Rb8 {Everything up to this point has
+been played before, even this strange looking rook move} (15... c5 {Is the
+main continuation here}) 16. b3 (16. b4 {Seems principled - preventing c5.
+Someone once said the Ruy Lopez is the game of pawn advances and breaks.})
+16... Bg7 17. d5 Nc5 {I am not sure about this move. Black's play in this
+phase looks slightly suspicious} (17... h6) (17... Ra8 {I know this sounds
+dumb, but after d5 I think this rook belongs to the a-file}) 18. Be3 (18. axb5
+axb5 19. b4 Ncd7 20. Ra5 {And with the open a-file, the weakness on b5, White
+has to be better. Black can't play c6 due to} c6 21. dxc6 Bxc6 22. Qxd6 {And
+White wins a pawn}) 18... c6 (18... Qc8 $5 {Is a deep Breyer move, preparing c6
+} 19. axb5 axb5 20. b4 (20. Ra7 $5) 20... Ncd7 21. Ra5 c6 22. dxc6 Qxc6 {And
+Black is okay}) 19. axb5 cxb5 20. Qd2 Rc8 21. c4 $1 {Still, White has managed
+to stabilize the center and isolate the a-pawn, which will present a real
+target} bxc4 22. bxc4 Nfd7 23. Reb1 {White definitely has the initiative on
+the queenside - quite surprising consider Black usually plays on that side of
+the board in the Spanish.} Qc7 24. Ba4 {A surprising decision, but this bishop
+is severely restricted by the White's pawn chain} (24. Ne2 $5) 24... Nxa4 25.
+Rxa4 Ra8 (25... Nc5 26. Bxc5 dxc5 27. d6) 26. Rab4 Bc8 27. Bb6 $2 {The moment
+in which White relinquishes his advantage} (27. Qa2 {Might have been better,
+not exchanging the dark squared bishop} a5 28. Ra4) 27... Nxb6 28. Rxb6 Bf8 29.
+Qa2 a5 30. Ne2 a4 31. Nc3 Bd7 {Now Black should be fine} 32. Rb7 Qc8 33. Qa3
+Rd8 34. R1b4 Ra5 35. Nd2 Bh6 36. Rb8 $6 {Embarking on a combination that is
+ultimatively going to win the game, but that is not fully correct.} Bxd2 $2 {
+The fatal mistake} (36... Qxb8 37. Rxb8 Rxb8 38. Qxd6 Rb7 39. Qf6 Ra8 {And
+suddenly, White is in trouble.} 40. c5 Bxd2 41. c6 Rbb8 42. Nxa4 Rxa4 43. cxd7
+{Although this line is pretty computerish and unclear.}) 37. Rxc8 {Now White
+simply wins} Rxc8 38. Rb7 Be8 39. Nb5 Bxb5 40. cxb5 Bc1 41. Qxd6 a3 42. Rb8
+Rxb8 43. Qxb8+ Kg7 44. Qxe5+ Kg8 45. Qc3 Rxb5 46. Qc8+ {A final touch} (46.
+Qxc1 $4 {It is never too late to fuck things up in chess. This would have led
+only to a draw}) 46... Kg7 47. Qxc1 {Now after a2 there is a check on a1. Thus,
+not without some help of his opponents, Saric demonstrated his class and won
+yet another title.} 1-0
+
+[Event "CRO-Ch 2018"]
+[Site "Pozega"]
+[Date "2018.04.27"]
+[Round "11.6"]
+[White "Brkic, Ante"]
+[Black "Jovanovic, Zoran"]
+[Result "1-0"]
+[ECO "B15"]
+[WhiteElo "2596"]
+[BlackElo "2536"]
+[Annotator "Vjekoslav Nemec"]
+[PlyCount "187"]
+[EventDate "2018.??.??"]
+[WhiteClock "1:30:00"]
+[BlackClock "1:30:00"]
+
+1. e4 g6 2. d4 c6 3. Nc3 d5 4. e5 f6 5. f4 Nh6 6. Nf3 Bg4 7. h3 Bxf3 8. Qxf3
+Nf5 9. Ne2 fxe5 10. dxe5 e6 11. Bd2 Nd7 12. O-O-O Nc5 13. g4 Nh4 14. Qe3 Ne4
+15. Be1 Bc5 16. Nd4 O-O 17. c3 Qe7 18. Rh2 Rf7 19. Bd3 Raf8 20. Bxe4 dxe4 21.
+Bg3 Nf3 22. Rf2 g5 23. fxg5 Bxd4 24. cxd4 Nxg5 25. Rf6 h6 26. h4 Nh7 27. g5
+hxg5 28. hxg5 Rg7 29. Bf4 c5 30. dxc5 Rc8 31. Kb1 Qe8 32. Rh6 Nf8 33. Rf6 Qh5
+34. Rf1 Rd8 35. Qxe4 Rd1+ 36. Bc1 Rxf1 37. Rxf1 Rd7 38. c6 bxc6 39. Qxc6 Qg6+
+40. Qc2 Qxc2+ 41. Kxc2 Rd5 42. Rf3 Rxe5 43. Rc3 a5 44. Rc7 Rd5 45. Bd2 Nh7 46.
+g6 Nf8 47. Bh6 Rh5 48. Bxf8 Kxf8 49. g7+ Kg8 50. Kb3 Rb5+ 51. Ka3 Rb4 52. b3
+Re4 53. Ra7 e5 54. Rxa5 Kxg7 55. b4 Re1 56. Ka4 e4 57. Rf5 Kg6 58. Rf8 Ra1 59.
+a3 Kg5 60. b5 e3 61. Re8 Kf4 62. b6 Rb1 63. Ka5 Kf3 64. a4 e2 65. Ka6 Rb4 66.
+Rxe2 Kxe2 67. a5 Kd3 68. b7 Kc4 69. Ka7 Kb5 70. b8=Q+ Kxa5 71. Qd8+ Kb5 72.
+Qd5+ Ka4 73. Ka6 Ka3 74. Ka5 Ra4+ 75. Kb5 Rb4+ 76. Kc5 Rb2 77. Qd3+ Rb3 78.
+Qa6+ Kb2 79. Kc4 Rc3+ 80. Kd4 Rb3 81. Qa5 Rb8 82. Kc4 Rg8 83. Qe5+ Kc2 84. Qe2+
+Kc1 85. Qe6 Rg2 86. Qe3+ Kb2 87. Qe5+ Ka2 88. Kc3 Rb2 89. Qa5+ Kb1 90. Qa4 Rf2
+91. Qd1+ Ka2 92. Qd5+ Kb1 93. Qb7+ Ka1 94. Qa7+ 1-0
+
+[Event "CRO-Ch 2018"]
+[Site "Pozega"]
+[Date "2018.04.26"]
+[Round "10.3"]
+[White "Palac, Mladen"]
+[Black "Saric, Ivan"]
+[Result "1/2-1/2"]
+[ECO "E71"]
+[WhiteElo "2551"]
+[BlackElo "2677"]
+[Annotator "MyPrecious"]
+[PlyCount "102"]
+[EventDate "2018.??.??"]
+[WhiteClock "1:16:00"]
+[BlackClock "1:30:00"]
+
+1. d4 Nf6 2. c4 g6 {Once again, Ivan chooses his favourite King's Indian,
+instead of the Slav defence} 3. Nc3 Bg7 4. e4 d6 5. h3 Nbd7 6. Be3 e5 7. d5 Nc5
+8. Qc2 {I don't know anything about this variation.} a5 9. Nge2 {I think I can
+assume the idea is to push the fast g4-f3 and put the knight on g3.} c6 10. g4
+cxd5 11. cxd5 Bd7 12. Ng3 Rc8 $6 {So far, both sides have played very
+logically. At this point, I think Ivan got slightly overoptimistic.} (12... O-O
+{Vacating the square e8 for the knight, looks safer and is more typical of
+these structures.}) 13. g5 {Of course!} Nh5 (13... Ng8 {Is ugly, but probably
+playable}) 14. Nxh5 gxh5 15. Bb5 (15. Nb5 {Inserting the knight on b5 was
+interesting} Qb6 16. a4 O-O 17. Rc1 {With an edge. Although things do get a
+bit complicated after the f-pawn advance} f6 {And the position is unclear})
+15... Bxb5 (15... O-O {Was perhaps more logical, not helping the knight to
+reach b5}) 16. Nxb5 a4 {Now Black is forced to make this concession} 17. Nc3 $1
+{Immediately going for the pawn} O-O {Black is forced to give up material} (
+17... Qa5 {Loses the pawn all the same} 18. Bxc5 Rxc5 19. Qxa4+ Qxa4 20. Nxa4
+Rc2 {And although Black is quite active here, his bishop on g7 is a sorry
+piece and he will obviously suffer in this endgame.}) 18. Nxa4 Ne6 {The point
+of Black's play - the knight reaches d4} 19. Nc3 Nf4 $6 {But this came as a
+big surprise to me} (19... Nd4 {Seems very natural} 20. Qd3 f5 {When Black has
+compenastion for the pawn, but no more}) 20. h4 b5 21. a3 Qd7 22. Kd2 $1 {An
+excellent move. White recognizes his king will be unsafe on the both sides of
+the board - so he chooses to keep him in the center} Rc4 (22... f6 {Is
+dangerous for Black now} 23. gxf6 Bxf6 24. Rag1+ Kh8 25. Qb3 {And the opening
+of the f and g files helps White more than Black}) 23. Qb3 Rfc8 24. Rac1 $2 {
+Not the best move in this extremely difficult and complicated position} (24. f3
+{Defending the e4 pawn, preventing Qg4 and threatening to take on b5, was
+quite strong} b4 {Now doesn't work} (24... f5 {Is what Black probably has to
+play, but...}) 25. axb4) 24... Qg4 (24... b4 {Was interesting now} 25. axb4 Qg4
+{With the huge threat of taking on c3} 26. Qd1 Rxb4 27. Qxg4 Rxb2+ 28. Rc2
+Rxc2+ 29. Kxc2 hxg4 {And Black is fine}) 25. Rhg1 (25. Qxb5 {The point is that
+Black can't take on c3 now - the queen is eyeing the e2 square. The
+complications seem to favour White, but who would have gone for it?}) 25...
+Qxh4 26. Nxb5 Rxc1 27. Rxc1 Rb8 $2 {Also a mistake} (27... Rxc1 28. Kxc1 Bf8 {
+Very cool-headed. Black has enough counterplay here} (28... Qh1+ {Is not as
+clear} 29. Qd1 Qxe4 30. Nxd6 Qxd5 31. Qxd5 Nxd5 {And White is playing for two
+results here})) 28. a4 {It is extremely difficult to figure out what is
+happening here} (28. Qc4 {Seems more precise, moving the queen out of the pin}
+Ng2 (28... Nh3 29. Nxd6 Rxb2+ 30. Rc2) 29. Qc7 Rxb5 30. Qd8+ Bf8 31. Rc8 {
+White wins}) 28... Qg4 29. Qc4 Bf8 30. b4 h4 31. a5 {Black seems to be losing
+the race} Ra8 $2 (31... h3 {Is more resistant. After} 32. a6 Ng2 33. a7 Ra8 34.
+Qc6 Rxa7 35. Nxa7 h2 {White is up a rook, but he has to be precise} 36. Nb5 (
+36. Qc2 {Is not so clear-cut} Nxe3 37. fxe3 Qg2+ 38. Kc3 h1=Q 39. Rxh1 Qxh1 40.
+Nc6 Qe1+ {Although even here White wins - the bishop on f8 is a sorry sight})
+36... Nxe3 37. fxe3 Qg2+ 38. Kd3 h1=Q 39. Rxh1 Qxh1 40. Nc3 {And wins}) 32. Na7
+$5 {A very surprising way of going for the win, but one that works as well.
+The knight is headed to c6} h3 33. b5 h2 34. b6 Nh3 35. b7 Rb8 36. Qc8 $4 {But
+just as he was close to reaping the rewards of his play, Palac makes a fatal
+oversight} (36. a6 {Was crushing} Ng1 37. Nc6 h1=Q 38. Nxb8 {And believe it or
+not, White is compltely winning here. Say after} Qgxe4 39. Qxe4 Qxe4 40. Rxg1
+Qxd5+ 41. Ke2 {The pawns are just too strong and the bishop on f8 is still dead
+}) 36... Qxe4 $1 {Palac must have missed this brilliant defence} 37. Qxb8 (37.
+Qxh3 Rxb7) 37... Qb4+ {Now Black has at least a perpetual} 38. Kc2 Ng1 (38...
+Qa4+ {Leads to perpetual}) 39. Nc6 Qa4+ 40. Kb2 Qb5+ 41. Ka3 h1=Q 42. Ne7+ Kg7
+43. Nf5+ Kg6 44. Ne7+ Kh5 45. Qxf8 Qxa5+ 46. Kb3 Qb5+ 47. Ka3 Qa6+ 48. Kb3
+Qxb7+ 49. Ka3 Qa6+ 50. Kb3 Qb5+ 51. Ka3 {Now Black has to accept the perpetual.
+} Qa5+ {A fascinating end to a fascinating struggle and the best example of
+the good, old "A good chess player is always lucky" quote.} (51... Qe4 {Would
+lose after} 52. Qh6+ Kg4 53. Rxg1+ Kf3 54. Qh5+) (51... Qg2 {Allows White to
+draw} 52. Qxf7+ Kg4 53. Rxg1 Qxg1 54. f3+ Kg3 55. Bxg1 {And here, once again,
+Black has to go for the draw}) 1/2-1/2
+

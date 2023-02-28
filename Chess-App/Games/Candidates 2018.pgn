@@ -1,0 +1,1143 @@
+[Event "Round 1"]
+[Site "?"]
+[Date "2018.03.11"]
+[Round "?"]
+[White "Aronian, Levon"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "A18"]
+[PlyCount "43"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.03.11"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 {
+[pgndiagram] Well known position on GM level. Aronian played it as black in
+2014 against Grischuk and it ended 1:0. It has many similarities with this
+game.} b6 {7... e5 and c5 are the main lines here, but I guess we could write
+a good book about this opening anyway} 8. h4 $5 {The idea of Garry Kasparov
+from the Sinquefield Rapid and Blitz 2017. It is amazing that Gazza's ideas
+are topical well after his retirement. Pushing flank pawns was always a
+favourite idea of his.   This move is objectively not the strongest , but
+black has to play precisely. It's clear that this position Aronian had on his
+board at some point while preparing for the game since this move was played
+instantly.} Bb7 9. Bg5 {The point - White intends to gain a few tempi chasing
+the queen away.  It also includes a pawn sacrifice} Qf5 10. Bd3 Qa5 {Most
+logical and best moves.} 11. Kf1 $1 {[pgndiagram] While this move might not be
+quite obvious (especially to newer players) it's kinda logical. It's moving
+king from e1 do a5 diagonal stoping the potencial check after Qc3, defending
+pawn on g2 and moving the king from centre.} (11. Ne2 {Would simply lose the
+g2 pawn} Bxg2) 11... Nc6 $1 {A very good decision by Ding} (11... Qxc3 {Was
+incredibly risky and more importantly, Aronian certainly prepared for it.} 12.
+Ne2 {And the queen is lacking good squares, for instance} Qb4 (12... Qa5 13. c5
+{With the threat of Bd2} Ba6 {The only move} 14. Bd2 Qa3 15. Be4 c6 16. Rh3 {
+[pgndiagram] And White has a huge lead in development}) 13. Rh3 {Taking
+"worthless" pawn on c3 is not worth the time it gives white to develop. And
+once again Black's position is incredibly shaky - all White pieces are
+participating in the game}) 12. Rb1 {Insisting on a pawn sacrifice, but maybe
+it is not required} (12. Ne2 {Was safer}) 12... f6 $1 {Kicking the bishop away
+and preparing for e5} (12... Qxc3 {Now Black might have taken the pawn,
+because after} 13. Ne2 Qa3 14. Rh3 h6 $1 {[pgndiagram] There is no Be4 move in
+the position. Still, White does have compensation for the pawn}) (12... h6 $6 {
+Is inferior} 13. Bd2 O-O-O {And White is better - f6 is definitely more useful
+for Black}) 13. Bd2 O-O-O 14. a4 e5 {[pgndiagram] Critical moment in the game.}
+15. c5 $1 {Maybe slightly optimistic, but typical for Aronian} (15. Rh3 {Would
+enter a long and forced variation} exd4 16. cxd4 Bb4 17. d5 Bxd2 18. Rb5 Qa6 (
+18... Qc3 19. Ne2) 19. dxc6 (19. Qxd2 Ne5 {Is worse}) 19... Bxc6 20. Qxd2 Qxa4
+(20... Bxb5 21. axb5 Qa1+ 22. Qe1) 21. Rb1 Qxc4 22. Ne2 Be4 23. Bxc4 Rxd2 24.
+Rc1 {[pgndiagram] And after all the fireworks, White remains a piece up. Still,
+this endgame is far from won - three connected passed pawns are dangerous}) (
+15. Ne2 {Was probably the safest way} Qa6 16. Qc2 Na5 17. c5 Nc4 {When White
+retains some advantage}) 15... Bxc5 $1 {[pgndiagram] Exclamation mark is not
+for this obvious capture, but for the follow up} (15... bxc5 16. Ne2 {Gives
+White a strong attack - Qb3 is a huge threat} (16. Qb3 Ba6 17. Qe6+ Rd7) 16...
+Be7 17. Qb3 Ba6 18. Qe6+) 16. Rb5 Qa6 17. Rh3 Bxd4 $1 {Fantastically
+calculated piece sacrifice - Black is fighting for the initiative} 18. Be2 {
+[pgndiagram] Best moves from both players.} (18. cxd4 Rxd4 {Gives Black plenty
+of compensation for the piece} 19. Ra5 (19. Ne2 Qxa4 20. Qxa4 Rxa4 $15 {Black
+has 4 pawns for a bishop. He's slightly better and it's easier to play this
+position as black.}) 19... Nxa5 20. Bxa6 Bxa6+ 21. Ke1 Rhd8 $19 {[pgndiagram]
+And Black, despite having only a rook and three pawns for the queen, has a
+decisive initative}) 18... Rd6 $2 {a mistake} (18... Ba8 {Was the best move
+here - which would put Aronian in a rather tough spot} 19. cxd4 Nxd4 20. Rb2
+Qb7 {[pgndiagram] The point - Black queen can retreat to b7. The position is
+double edged, but I think it is easier to play the Black pieces and all three
+results are very much possible}) (18... Bxc3 {Does not work} 19. Rxc3 Nd4 20.
+Rbc5 {And wins}) 19. Rb1 $2 {Aronian fails to exploit his chance. Nerves
+possibly?} (19. Rb2 {Defending d2, was quite strong} Qa5 20. cxd4 Qd5 21. dxe5
+Nxe5 22. Nf3 Rhd8 $16 {[pgndiagram] This was the best way to play for a win.})
+19... Qa5 20. Rb5 (20. cxd4 {Is now impossible} Qd5 21. dxe5 Nxe5 {[pgndiagram]
+And both d2 and g2 are hanging - Black is almost winning here}) 20... Qa6 21.
+Rb1 Qa5 22. Rb5 {[pgndiagram] Game ended by repetition.} 1/2-1/2
+
+[Event "Candidates Round Two"]
+[Site "Berlin GER"]
+[Date "2018.03.11"]
+[Round "2"]
+[White "Alexander Grischuk"]
+[Black "Wesley So"]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2767"]
+[BlackElo "2799"]
+[PlyCount "87"]
+[EventDate "2018.03.10"]
+[SourceDate "2018.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 {Nowadays, this is
+the main move in the Ruy Lopez. White players have swiched to it in order to
+avoid Marshall attack} b5 7. Bb3 d6 8. c3 O-O 9. h3 Bb7 {More or less standard
+Spanish position has arisen} 10. Nbd2 Re8 {[pgndiagram] I thought Black should
+play this only after Ng5 has been ruled out} (10... h6 {Is more typical}) 11.
+Ng5 Rf8 {The drawback of the previous move. I guess Black argues he will gain
+a tempo on h6} (11... d5 {I one of Ivanchuk's masterclasses, I have seen him
+talking about his game about Vugar Gashimov. He mentioned Ng5 is often met by
+d5, but here it doesn't work (it didn't work for Ivanchuk as well)} 12. exd5
+Nxd5 13. Nxf7 Kxf7 14. Qf3+ {[pgndiagram] And Black is busted} Ke6 15. c4 {And
+here the only move is} (15. a4 {Simply increasing the pressure, might be even
+stronger}) 15... Nd4 16. cxd5+ Bxd5 17. Qh5 {[pgndiagram] But Black can't
+survive with a king like that}) 12. Re1 (12. f4 {Another thing I thought about
+Ng5 is that it can be followed up by f4. Alas, it seems I was wrong} exf4 13.
+Rxf4 h6 {This is the problem. White can't take with the bishop on f4, so his
+rook will be sidelined} 14. Ngf3 g5) 12... d5 {When I was streaming, I was
+critical of this move, and it seems not without reason. So opens the positions
+too late and gains the inferior version of the open Italian} (12... h6 {Was
+more consistent} 13. Ngf3 Na5 14. Bc2 c5 {[pgndiagram] And Black has a normal
+position}) 13. exd5 Nxd5 14. Ndf3 $1 {[pgndiagram] Grischuk didn't like this
+move, but the computer approves of it} Qd7 $6 (14... h6 {Was once again more
+consistent. After} 15. Ne4 Nf6 16. Nxf6+ Bxf6 17. Be3 {[pgndiagram] Black has
+inferior, but defensible position}) 15. d4 $1 {Another strong move, striking
+in the center instantly} (15. Nxe5 {Is of course stupid due to} Nxe5 16. Rxe5
+f6) (15. a4 {Was interesting, but after} f6 16. Ne4 Na5 {White loses part of
+his advantage}) 15... exd4 16. cxd4 $6 {The first slight inaccuracy by
+Grischuk.} (16. Qd3 {Gaining a tempo first, was possibly more accurate. The
+play continues} Nf6 17. cxd4 Nb4 18. Qb1 $1 {[pgndiagram] Possibli this idea
+was missed by Grischuk. White still has the Nxf7 threat}) 16... h6 {Now Black
+managets to get this move and is able to offer some exchanges} 17. Ne4 Rfe8 $2
+(17... Nf6 {Was possible, but So was probably worried about the d5 advance} 18.
+d5 Na5 19. Ne5 {And Black is also in trouble}) (17... Rad8 {Not removing the
+defender of the f7 square, was probably the most precise move in the position})
+18. Bd2 $5 {Simply developing and anticipating Black's next move} Nf6 19. Rc1
+$1 {[pgndiagram] Strong play by Grischuk. The rook joins the game with almost
+decisive effect. Just look at the subsequent pendulum via c5} Nxe4 {There is
+nothing else} (19... Nxd4 20. Bxf7+) 20. Rxe4 Bf6 21. Rg4 $1 {[pgndiagram] One
+of the best Grischuk games I have seen. Suddenly White has threats on the
+kingside} Kh8 (21... h5 22. Rf4 {And White is threatening an exchange
+sacrifice on f6, and f7 pawn. Say after} Rad8 23. Ng5 {He is already winning} (
+23. Rc5 {Is also strong})) (21... Rad8 {Trying to get the d4 pawn, was
+possible. After} 22. Bxh6 Nxd4 23. Nxd4 Bxd4 24. Qd2 {[pgndiagram] White has
+the better chances, but Black is alive and kicking}) 22. Rc5 $1 {Creating the
+idea of Rh5 with decisive threats} Rad8 $2 {The final mistake, but it is
+already hard to offer the alternative} (22... Ne7 {Is the computer defence -
+trying to get the knight to the defence of the king and creating the threat of
+taking on f3. It could have made White's life more difficult} 23. Qc1 $1 {All
+the same} Bxf3 24. gxf3 Nf5 25. Bxh6 $1 {[pgndiagram] Still works, but it is
+much harder to calculate} gxh6 26. Rd5 $1 {Inducing the queen to go to e6
+first!! Amazing geometry} (26. Rxf5 Re1+) 26... Qe6 (26... Qc8 27. Qf4) 27.
+Rxf5 (27. Qf4 $4 {It is never too late to lose a game of chess} Qe1+ 28. Kg2
+Re2 $1)) 23. Qc1 $1 {[pgndiagram] This is decisive} Nxd4 24. Nxd4 Re4 (24...
+Bxd4 25. Bxh6 {And wins}) (24... Be4 25. Bxh6 Qxd4 26. Be3 {And wins}) 25. Rxc7
+Qxd4 26. Be3 {[pgndiagram]} Rxg4 27. hxg4 Qe4 28. f3 {[pgndiagram] The only
+move, but sufficient. The rest is, as they say, matter of technique} Qb4 29.
+Rxb7 Bxb2 30. Qf1 f6 31. Qf2 Be5 32. f4 Bd6 33. g5 Qe4 34. Qf3 Qb1+ 35. Qf1 Qe4
+36. Qf3 Qb1+ 37. Kf2 Bb4 38. Qe2 Qe4 39. Qf3 Qb1 40. Kg3 fxg5 41. Kh2 Qf5 42.
+Rf7 Qg6 43. fxg5 Bd6+ 44. Kh3 {[pgndiagram] A fantastic game by Grischuk and a
+terrible start to the tournament by Wesley So.} 1-0
+
+[Event "World Championship Candidates"]
+[Site "0:32:33-0:18:33"]
+[Date "2018.03.12"]
+[Round "3"]
+[White "Levon Aronian"]
+[Black "Vladimir Kramnik"]
+[Result "0-1"]
+[ECO "C65"]
+[PlyCount "62"]
+[EventDate "2018.03.10"]
+[SourceDate "2018.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Qe7 7. h3 {
+[pgndiagram] There is no doubt that Levon expected the quiet Spanish game.} (7.
+Nbd2 {Had he known what awaits him, he would have possible waited a bit} Rg8 {
+Now doesn't quite work} 8. Nc4 Bd6 9. Be3 Nh5 10. Nfxe5) 7... Rg8 $1 {
+[pgndiagram] A strong strong move from Kramnik. It seems that the addition of
+Anish Giri in his team has made him even more lethal in the opening. This move
+is extremely hard to meet over the board and it virtually "refutes" the whole
+7 h3 system} 8. Kh1 {Aronian tries to play it cautiously} (8. Nbd2 {Is now too
+late} g5 9. Nc4 g4 {And Black has a strong attack}) 8... Nh5 (8... h6 {My
+engine prefers to start with h6, but please stop me from being pretentious -
+Kramnik must have known what he is doing}) 9. c3 {Consistent in a way -
+meeting the flank attack with a central breakthrough. Still, White is too slow}
+(9. Bg5 {Is what engine is insisting on} f6 10. Bd2 {And now Black can't go g5
+immediately due to Nxe5} Qf7 {He might prepare it first, but still} (10... g5
+11. Nxe5) 11. Nc3 g5 {[pgndiagram] And Black has a strong attack and a
+position that is easy to play}) 9... g5 10. Nxe5 $1 {[pgndiagram] The point of
+Aronian's play, but this is met with a strong riposte} (10. d4 exd4 11. cxd4
+Bb6 {Is highly problematic for White - Black's attack is coming}) 10... g4 $3 {
+A fantastic move - Black has strong mating threats and White (already) has to
+find the only moves to survive} 11. d4 (11. hxg4 {White can't really take on g4
+} Qh4+ 12. Kg1 Ng3 {With checkmate on the next move}) (11. Nxg4 Bxg4 12. hxg4
+Qh4+ 13. Kg1 Ng3) 11... Bd6 12. g3 {Once again the only move} (12. Nxg4 Bxg4
+13. hxg4 Qh4+ 14. Kg1 Qh2#) 12... Bxe5 13. dxe5 Qxe5 {[pgndiagram] Black has
+regained his pawn and still has attacking chances} 14. Qd4 {The only move,
+defending the e4 pawn. White would very much like to exchange queens here} Qe7
+{I don't care about the engine suggestions, but only a madman would exchange
+the queens here} (14... Qxd4 15. cxd4 gxh3 {Is the engine suggestion, but it
+would be a great relief for White to reach this position}) 15. h4 (15. Be3 {
+Was possibly more resistant, preventing c5 and trying to develop. After} gxh3
+16. Nd2 Be6 {[pgndiagram] White might have chances to survive}) 15... c5 $1 {
+Dislodgind the queen} 16. Qc4 {White pins the f pawn and prevents black from
+putting the bishop on the long diagonal} (16. Qe3 {Is met strongly by} b6 {And
+e4 will fall}) (16. Qd3 Bd7 {And the bishop comes to c6} 17. Bg5 f6) 16... Be6
+$1 (16... Bd7 {Now didn't work due to} 17. Bg5 {And the f pawn can't move}) 17.
+Qb5+ $6 {The start of the wrong plan. White wants to block the long diagonal,
+but he misses Black's other response} (17. Qd3 Bd7 {And Black will get the
+bishop to c6 anyway, though}) 17... c6 18. Qa4 $2 {[pgndiagram] Putting the
+queen too far away} ({Preventing f5 for the moments, was nevertheless better.
+After} 18. Qd3 Rd8 19. Qe3 Bc4 (19... f5 {Now doesn't work} 20. exf5 Bd5+) 20.
+Re1 Rd3 {[pgndiagram] Black is winning}) 18... f5 $3 {A deadly move that costs
+White the game} 19. Bg5 (19. exf5 Nxg3+ {Is the point of Black's play} 20. fxg3
+Bd5+ 21. Kg1 Qe2 {[pgndiagram] And Black wins} 22. Rf2 Qe1+) 19... Rxg5 $3 {
+[pgndiagram] One sacrifice after another. My friend agadmator christened this
+as "The Immortal Berlin game" and he may well be right} 20. hxg5 f4 {Black
+simply has a decisive attack} 21. Qd1 Rd8 22. Qc1 fxg3 23. Na3 Rd3 24. Rd1 Bd5
+{[pgndiagram] And this is simply a flashy finish} 25. f3 gxf3 26. exd5 Qe2 27.
+Re1 g2+ {[pgndiagram] And here Levon resigned, as after} 28. Kg1 f2+ 29. Kh2
+g1=Q+ 30. Rxg1 f1=Q+ 31. Kh1 Qeg2# {[pgndiagram] He gets checkmated in a
+spectacular fashion. What a game by Vladimir Kramnik!!} 0-1
+
+[Event "Candidates Round 5"]
+[Site "0:57:33-0:09:33"]
+[Date "2018.03.15"]
+[Round "5"]
+[White "Levon Aronian"]
+[Black "Alexander Grischuk"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[PlyCount "83"]
+[EventDate "2018.03.10"]
+[SourceDate "2018.03.11"]
+
+1. d4 Nf6 2. c4 g6 {This wasn't expected. As far as I know Grischuk is not a
+Grünfeld player. But did he really want to go for the King's Indian?} 3. f3 {
+Aronian doesn't ask that question and goes for early f3.} c5 (3... d5 {Would
+go to Grünfeld}) (3... Bg7 {Would lead to King's Indian Sämisch}) 4. d5 d6 5.
+e4 {So in the end, some sort of Benoni with f3 has arisen} e6 {[pgndiagram]
+And after this, we will definitely have a Benoni} 6. Nc3 exd5 7. cxd5 Bg7 8.
+Nge2 Nbd7 {[pgndiagram] A logical move, but also the first novelty of the game.
+} (8... a6) (8... O-O) (8... Nh5 {Have all been played before}) 9. Ng3 h5 {
+Typical idea when White plays Ng3} 10. Be2 Nh7 {Not sure how deeply Grischuk
+prepared, but this look seemingly violated all opening principles, moving the
+same piece twice, etc. However, there is a concrete idea behind it - Black
+prevents Bg5} (10... O-O 11. Bg5) (10... h4 11. Nf1 Nh5 {With a similar idea,
+seems more consistent, but Grischuk arguably looked at this line before. For
+instance the computer suggest} 12. g4 {Which might be very strong}) 11. Bf4 (
+11. O-O {Seems more natural, but it loses material} Bd4+ $1 {And now White has
+to give up the exchange since} 12. Kh1 h4 {And there is no typical Nh1 move.
+White is lost}) 11... Qe7 12. Qd2 h4 13. Nf1 {[pgndiagram] Ideally, White
+would want to send this knight on the h1-f2-d3/g4 route, but Grischuk's
+cunning Nh7 has prevented him from carrying it out} g5 14. Be3 Ne5 {Great play
+by Black so far - now he has secured the e5 for the knight as well. He can
+consider f5 in the future} 15. g3 $5 {Immediately breaking the structure} Bd7
+$2 (15... g4 $1 {Pointed out by computer, is more energetic, but it is not
+clear whether it is better than the move in the game} 16. f4 Nf3+ 17. Bxf3 gxf3
+18. e5 dxe5 19. d6 Qd7 20. fxe5 Bxe5 21. O-O-O {[pgndiagram] And the position
+is incredibly complex, but Black has some difficulties with development, so I
+guess White's chances are preferable.  If you are Alpha Zero}) 16. gxh4 {Now,
+suddenly, White createst a strong initiative} gxh4 $2 (16... g4 {Is again
+computer's suggestion, but it seems it was better to play it on the previous
+move, if Black wanted to}) 17. Rg1 f5 18. f4 $1 {[pgndiagram] Amazingly, it
+would appear Black is already close to being lost. Such is the price of a
+wrong move in a Benoni} Ng4 19. e5 dxe5 20. d6 Qe6 {Preventing Nd5, but
+allowing Nb5} (20... Qf7 {Would be met by} 21. Nd5 exf4 22. Bxf4 {And Black is
+clearly worse} (22. Nc7+ {Might be even stronger})) 21. Nb5 $1 {Exploiting the
+fact that the queen is on e6} (21. Nd5 {Would be now met by} Qxd6) 21... Rc8
+22. Nc7+ Rxc7 23. dxc7 $1 {[pgndiagram] Now Aronian should be winning, but
+amazing things start to happen} exf4 24. Rd1 (24. O-O-O {Was mentioned as the
+best move, but it is really hard to tell the difference - the lines are
+incredibly complicated} fxe3 25. Nxe3 (25. Qxd7+ {Now, this doesn't work, as}
+Qxd7 26. Bb5 Bxb2+ $3 {Turn the tables}) 25... Bh6 26. Bb5 $3 {[pgndiagram] A
+key move White had to envision - Black is simply busted. Say after} Bxb5 (26...
+Bxe3 27. c8=Q+ Kf7 28. Qxh8 Bxd2+ 29. Rxd2 Bxb5 30. Qxh7+ {[pgndiagram] Is
+also winning for White}) 27. Qd8+ Kf7 28. Qxh8) (24. Bxf4 {Would also probably
+retain the advantage - sometimes playing prosaically is quite appropriate.})
+24... Ng5 $1 {An amazing resource, that works in Black's favour - all because
+the king is on e1} (24... fxe3 25. Qxd7+ Qxd7 26. Bb5 {And now the bishop
+can't take on b2}) 25. c8=Q+ Bxc8 26. Qd8+ Kf7 27. Qc7+ $2 {[pgndiagram]
+Aronian has clearly lost the thread of the game, and makes a move that for the
+first time, changes the evaluation in Black's favour} (27. Qxg5 {What can be
+more natural than taking the piece?} fxe3 28. Rxg4 $1 {A key move that leads
+to a draw} (28. Bxg4 fxg4 29. Qf4+ Ke8 {Is not so clear cut}) 28... fxg4 29.
+Qf4+ {[pgndiagram]And despite being three pawns up, Black can't avoid the
+perpetual} Ke7 (29... Ke8 30. Bb5+ {Would even lose} Ke7 31. Qc7+) ({Or} 29...
+Qf6 30. Bc4+ Ke8 31. Bb5+ Kf7) 30. Qg5+ Kf7 31. Qf4+) 27... Kg8 $2 {An
+inexplicable blunder, that might have cost Grischuk the game} (27... Qe7 28.
+Bc4+ Kf6 29. Qxe7+ Kxe7 30. Bxc5+ Ke8 {[pgndiagram] And only Black can play
+this position for the win}) 28. Rd6 $1 {[pgndiagram]Now Black loses the bishop
+on c8 - or does he?} (28. Rxg4 {According to Aronian, was easier win - and he
+might well be right} fxg4 29. Rd6 Qf5 30. Bd3 {[pgndiagram] And wins}) 28...
+Qf7 29. Qd8+ $4 {The most inexplicable move in the game at first glance.
+However, at the press conference, it was explained that White can win only in
+study like fashion} (29. Qxc8+ Kh7 30. Qxc5 Ne4 {And here Aronian couldn't
+find a move Peter Svidler found in his live analysis of the game. Are you
+ready?} 31. Rxg4 $3 {Simply magical} Nxc5 32. Rxh4+ Kg8 33. Rd8+ Bf8 34. Rxh8+
+Kxh8 35. Bxc5 {[pgndiagram] And Black wins}) 29... Qf8 30. Bxf4 (30. Qxg5 {Was
+still possible} Qxd6 31. Bc4+ Kh7 32. Rxg4 fxg4 33. Qh5+ Bh6 34. Qf7+ Bg7 {
+[pgndiagram] And things end in a perpetual check}) 30... Ne6 {[pgndiagram] And
+now suddenly Black is very much in the game} 31. Bc4 {Forced} Qxd8 32. Rxd8+
+Kh7 33. Rxh8+ Bxh8 34. Bd6 Ng5 35. Rg2 Ne4 36. Bb8 Bd4 37. h3 Ne5 38. Bd5 Nd3+
+39. Ke2 {[pgndiagram] And in this exciting position, player unfortunately went
+for the three-fold repetition. In the chessbrah live stream, Yasser Seirawan
+repeatedly stated how regretable that is - he was rather curious whether Black
+would go for the b2 or h3 pawn} Nc1+ 40. Kd1 Nd3 41. Nd2 Nf6 42. Bf3 {
+[pgndiagram] And in this exciting position, players mentaly agreed to a draw
+unfortunately went for the three-fold repetition. In the chessbrah live stream,
+Yasser Seirawan repeatedly stated how regretable that is - he was rather
+curious whether Black would go for the b2 or h3 pawn A fantastic, mind
+boggling encounter} 1/2-1/2
+
+[Event "Round 4"]
+[Site "?"]
+[Date "2018.03.14"]
+[Round "?"]
+[White "Grischuk, Alexander"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[PlyCount "102"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.03.11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 {Allowing the
+Anti-Moscow gambit. Grischuk once said he is addicted to this gambit.} dxc4 7.
+e4 g5 8. Bg3 b5 9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. Nxf7 {[pgndiagram]
+This has been played in a historic encounter Topalov - Kramnik, Corus, 2008,
+in which Bulgarian star won the game. In the interview right after the game,
+Grischuk said: " Nf7 is an idea of Alpha 0, stockfish says it's very stupid.
+Black is in big danger here. "} Kxf7 13. e5 Nd5 14. Ne4 Qb6 15. Nd6+ Ke7 16. a4
+(16. Bg4 {Has been played by Kramnik, but since then, remedies have been found}
+) 16... Raf8 17. Bf3 a6 18. Bxd5 cxd5 19. axb5 axb5 20. Kh1 Bc6 {[pgndiagram]
+Up to this moment, Grischuk was still in his preparation. He expected Ding to
+play Ba6 following with Qc2.} (20... Ba6 {Might be indeed better. After} 21. f4
+b4 {White has a number of ideas - fxg5 or Qe2}) 21. f4 $5 {A strong move} gxf4
+$2 {[pgndiagram]  Already a decisive mistake. This is the cricital moment in
+the game. Grischuk can win on spot.} (21... h5 {Was interesting, but White has
+the strong} 22. Be1 $1 (22. f5 h4 23. Be1 b4 {Is the wrong move order} 24. Qc2
+(24. f6+ Nxf6 25. exf6+ Bxf6) 24... Bxe5) 22... b4 23. Qc2 {[pgndiagram] And
+Black can't take the d4 pawn. Despite being a full piece up, his position is
+hard to play}) 22. Rxf4 $2 {Grischuk returns the favour} (22. Bh4+ {Was now
+simply winning. The lines are long, but forced, and we will reproduce them
+without further comments} Nf6 (22... Bf6 23. Qg4 Qxd4 (23... Rhg8 24. exf6+
+Kxd6 25. Qxf4+ e5 26. dxe5+ Nxe5 (26... Kc7 27. e6+ Kb7 28. f7 Rg7 29. e7) 27.
+Rfe1 Re8 28. f7) 24. Bxf6+ Nxf6 25. Qg7+ Kd8 26. exf6 Qxf6 27. Nb7+ {
+[pgndiagram] While calculating 21...g:f4, Ding missed Nb7, after which he can
+only resign since mate is unstoppable} Bxb7 28. Qxb7) 23. Qg4) 22... Rxf4 23.
+Bxf4 Kd8 (23... Rf8 {It's a bit more precise to attack white's bishop first.}
+24. Bg3 (24. Qg4 {Is now not possible due to} Qxd4 25. Qxg7+ Kd8 26. Bxh6 Qxb2
+{[pgndiagram] And Black is much better}) 24... Kd8 25. Qg4 Kc7 {[pgndiagram]
+And Black is doing fine}) 24. Qg4 Rf8 25. Bd2 Kc7 26. h3 (26. Ba5 Qxa5 27. Rxa5
+Rf1#) (26. Ne8+ {Was possible, diverting the rook} Rxe8 27. Ba5 Qxa5 28. Rxa5 {
+[pgndiagram] But Black has three pieces for the queen and his position is
+easier to play}) 26... b4 27. Qxg7 Qxd4 28. Bxb4 Qxb2 29. Ba5+ Kb8 {
+[pgndiagram] Here Grischuk said he though he would be able to deal with the g2
+pawn} 30. Rg1 $1 {A very precise move - defending g2} (30. Re1 {Would be losing
+} c3 31. Qe7 d4 {And White has to lose another tempo which proves to be crucial
+} 32. Rg1 Qa2) 30... c3 (30... Qxe5 {Is not to be recommended} 31. Rb1+ Ka7 32.
+Qxe5 Nxe5 33. Bc7 {[pgndiagram] And Black's king is in trouble}) 31. Qe7 c2 32.
+Bd2 Qxe5 33. Bxh6 Rg8 34. Nf7 Qc3 (34... Qf6 {[pgndiagram] After many great
+moves from both sides, this is first inperfect in a while. Qf6 forces white to
+exchange queens and to go in worse endgame.} 35. Qb4+ Kc8 36. Qd6 e5 37. Qxf6
+Nxf6 38. Nxe5 {[pgndiagram] Although it is doubtful how series Black's chances
+are}) 35. Qd6+ Kb7 36. Qxe6 d4 {[pgndiagram] The players find the correct
+moves until the end and the draw is the most fair result} 37. Nd6+ Kb6 38. Ne4
+Nc5 39. Qxg8 Nxe4 40. Kh2 d3 41. Be3+ Kb5 42. Qb8+ Kc4 43. Qc7 Qf6 44. Rf1 Qd6+
+45. Qxd6 Nxd6 46. Rf6 Kd5 47. Rxd6+ Kxd6 48. Kg3 Kd5 49. Kf2 Kc4 50. Bd2 Kb3
+51. Ke3 Bxg2 {[pgndiagram] A mind-boggling encounter. Great game played really
+well by both players!} 1/2-1/2
+
+[Event "Round 6"]
+[Site "?"]
+[Date "2018.03.16"]
+[Round "?"]
+[White "So, Wesley"]
+[Black "Aronian, Levon"]
+[Result "*"]
+[ECO "C88"]
+[PlyCount "155"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O {
+[pgndiagram] In today's time most GM's think that black can easily drawn in
+Marshall Attack ( So-Ding 3rd round of 2018. Candidates ). Accordingly,
+strongest players are switching to 8.a4 since it's more ambitious than
+Marshall for white.} 8. a4 (8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6)
+8... b4 (8... Bb7 {Also a possibility, thou 8...b4 is more critical this days.}
+9. d3 d6 10. Nc3 Na5 11. Ba2 b4 12. Ne2 c5 13. Ng3) 9. a5 d6 10. d3 Be6 (10...
+Bg4 11. Nbd2 Nd4 {Is also playable, say} 12. Ba2 c5 13. h3 Bh5) 11. Bxe6 fxe6
+12. Nbd2 Rb8 13. Nb3 Qc8 {[pgndiagram] While black has clear idea of
+repositioning his knight to push c5, white can play this position in more than
+one way.} 14. h3 (14. Qe2 Nd8 15. d4 exd4 16. Nbxd4 c5 17. Nb3 e5 18. Nbd2 {
+Caruana- Carlsen St. Louis 2017. White's plan is to reposition his knight on
+c4, pressuring d6 pawn and to develop his dark square bishop.}) (14. d4 {
+Immediate push in the center is probably not that critical} exd4 15. Nbxd4 Nxd4
+16. Nxd4 c5 17. Nf3 {And Black should be fine}) 14... Nd8 15. Be3 c5 16. Nbd2 {
+Moving the knight to c4 - the defensive duty on b3 has been fullfilled} Nc6 17.
+c3 {[pgndiagram] At this point, Levon is most likely out of his preparation
+and he decides to go for the most logical and natural option} Rb5 18. d4 (18.
+Nc4 Nd7 {With the idea of pushing d5.}) 18... exd4 {Slight mistake by Aronian.
+In general it's better to exchange as many pawns as possible in this type of
+position.} (18... bxc3 19. bxc3 exd4 20. cxd4 c4 {[pgndiagram] Black threatens
+to play d5} 21. e5 $5 {Entering a maelstorm of complications} (21. Nxc4 Nxe4
+22. Nb6 Qe8 23. d5 Nc3 24. Qd3 Nxd5 25. Nxd5 Rxd5 26. Qxa6 Bf6 {[pgndiagram]
+And although White's a-pawn looks dangerous, Black can deal with it and should
+be fine. Of course, it is hard to calculate and evaluate all this during the
+game}) 21... dxe5 22. Nxc4 exd4 23. Nxd4 Nxd4 24. Qxd4 Bc5 {With completey
+equality}) 19. cxd4 Nxa5 {For the price of pawn, white desynchronized black's
+pieces what will at the end cost Aronian the game.} 20. dxc5 dxc5 21. Ra2 {So
+played this move instantly, it's safe to assume his preparation went this far.}
+(21. Qc2 {White would like to exchange knights on c4 and pressure black's weak
+pawns, but this is met tactically with} c4 22. Nd4 b3 23. Qd1 Bb4 24. Nxb5 axb5
+$11 {After this line, black is down an exchange but his pawns are not weak
+anymore and he has great d3 outpost for his nights}) 21... Qb7 22. b3 {
+[pgndiagram] While objectively this position is balanced, it's much easier to
+play White.} Kh8 $6 (22... Nxe4 {Is ill advised} 23. Nxe4 Qxe4 24. Bg5 Qb7 25.
+Rd2 $18 {[pgndiagram] And White is close to winning} Bxg5 (25... Qa7 {Seems
+like the only move}) 26. Nxg5) (22... Nd7 {Immediately might be more precise.
+A loss of tempo is critical}) 23. Qc2 Nd7 24. Rea1 Bd8 25. Nc4 {All White's
+pieces occupy ideal posts} Nxc4 26. Qxc4 Bf6 27. Rd1 Qc6 28. Rad2 {[pgndiagram]
+White is better, despite the missing pawn. The price of one loss of tempo in a
+2800 game} Nb6 (28... Ne5 29. Nxe5 Bxe5 30. f4 Bc7 31. Rd7 $16) 29. Qc2 Qc7 $2
+{[pgndiagram]Unfortunately for Aronian this was in practical terms, mistake
+that lost him game. It was important to leave a queen on a protected square.} (
+29... Qc8 30. e5 Be7 31. Bg5 (31. Nd4 {Is now not possible, of course}) 31...
+Qe8 32. Bxe7 Qxe7 33. Rd6 Nd5 $14) 30. e5 Be7 {It is still impossible to take
+on e5} (30... Bxe5 31. Ng5) 31. Nd4 $5 {A strong rejoinder, winning an exchange
+} Rc8 (31... Qxe5 {Offered better practical chances.} 32. Nxb5 axb5 33. Re2 Qc3
+34. Qe4 Qxb3 35. Ree1 $18 {[pgndiagram] Athough even here, Black has a
+difficult time holding. White has many threats, the key one being Qb7}) 32.
+Nxe6 $5 {I think it is very unpleasant to deal with such a move} (32. Nxb5 {
+Would have eased Black's play, although this might be the strongest}) 32...
+Qxe5 {[pgndiagram]} 33. Nf4 (33. Rd6 $3 {Was an amazing possibility. Craziest
+engine move i have seen in a long time.} Bxd6 (33... c4 {The only move} 34. Bd4
+{Only move} Qxd6 35. Bxg7+ Kg8 36. Rxd6 Bxd6 37. Qd1 Rd5 38. Bd4 {Only move
+again.} Kf7 39. Ng5+ {And again.} Rxg5 40. Bxb6 Ke7 41. Qf3 {It turns out
+after this quiet move, black pieces are badly positioned. While this position
+is objectively winning for white there would still be quite a lot of technique
+needed to win it.}) 34. Ng5 {The point - the bishop is diverted and Black
+can't defend both Nf7+ and Qxh7 mate} Qh2+ 35. Kf1 g6 {[pgndiagram] And here,
+there is a good question - what next.} 36. Rxd6 Qh1+ 37. Ke2 Qa1 38. Qd2 {
+[pgndiagram] And despite being an exchange down - White has a winning attack
+here. Some lines go} c4 39. Rd8+ Kg7 (39... Rxd8 40. Qxd8+ Kg7 41. Qe7+ Kg8 42.
+Qxh7+ Kf8 43. Qf7#) 40. Rxc8 Nxc8 41. Qd7+ Ne7 42. Qxe7+ Kh6 43. Qxh7#) 33...
+Rf8 $2 {[pgndiagram] The losing mistake} (33... Kg8 {Best move. Stops many
+tactics white has in this position.} 34. Re2 Bf8) (33... c4 34. bxc4 Nxc4 {Is
+not possible due to} 35. Qxc4) 34. Re2 Qc3 $2 {Mistakes often come in pairs} (
+34... Bf6 {Was still better , although after} 35. Qa2 Ra8 36. Bd4 Qxf4 37. Qxa6
+{Tactics work in White favour}) 35. Qb1 $6 (35. Qa2 {Was stronger. Quite
+unexpected that So missed this move. After this black can resign on spot.} a5 (
+35... Ra8 36. Ne6 {Is incredibly strong} Ra7 37. Bf4 {Black's position is in
+ruins}) 36. Bc1 Qf6 37. Re6 Qf7 38. Qe2 {[pgndiagram] And Black loses material}
+) 35... Qf6 36. Bc1 c4 $2 {A final mistake in a difficult position} 37. bxc4
+Nxc4 {[pgndiagram] Nd5 and Qe4 also wins.} 38. Re6 Qg5 39. Ng6+ Qxg6 40. Rxg6
+hxg6 41. Qe4 {[pgndiagram] The rest is, as they say, matter of technique} Bf6 (
+41... Ne5 42. f4 Bc5+ 43. Kh1 Nf7 44. Qxg6 {Clear ideas here are Bb2 and Rd5
+to finish the game.}) 42. Qxc4 b3 43. Ba3 Rfb8 44. Rb1 b2 45. h4 Ra5 46. Qd3
+Rd8 47. Qb3 Rc8 48. Qb7 Rd8 49. Qb3 Rc8 50. Qb4 Rb5 51. Qg4 Rc3 52. Bxb2 Rxb2
+53. Rxb2 Rc1+ 54. Kh2 Bxb2 55. Qxg6 {[pgndiagram] Unfortunately for black weak
+king, awkwardly placed pieces and 3 white pawns are too much for him to handle.
+} Ra1 56. g4 a5 57. Qh5+ Kg8 58. Qb5 Ba3 59. Qe5 Rd1 60. Qe6+ Kh7 61. Qe4+ Kh8
+62. Qa8+ Kh7 63. Qxa5 Bd6+ 64. Kg2 Rd4 65. Qf5+ Kh8 66. Qh5+ Kg8 67. g5 Kf8 68.
+Qg6 Be7 69. Qf5+ Ke8 70. Kh3 Rd6 71. Qh7 Kf7 72. f4 Rd4 73. Qf5+ Ke8 74. Qe5
+Rb4 75. Kg4 Kf8 76. Qf5+ Ke8 77. Qe6 Rd4 78. Qe5 {Amazing game by So ! From
+opening preparation to endgame technique. For Aronian, on the other hand, this
+game probably means the end of his hopes in this tournament.} *
+
+[Event "World Championship Candidates"]
+[Site "0:00:33-0:01:33"]
+[Date "2018.03.18"]
+[Round "7"]
+[White "Aronian"]
+[Black "Caruana"]
+[Result "*"]
+[ECO "D39"]
+[PlyCount "74"]
+[EventDate "2018.03.10"]
+[SourceDate "2018.03.11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 {A brave opening choice by
+Caruana and correct psychological decision - playing for the win against a
+player who is out of form in this tournament} 6. Bg5 h6 {[pgndiagram] Playable,
+but risky} (6... c5 {Is the main line}) 7. Bxf6 Qxf6 8. Bxc4 c5 9. O-O cxd4 10.
+e5 Qd8 11. Ne4 {Levon is also playing ambitiously} (11. Nxd4 O-O 12. Rc1 Bd7 {
+Is safer for White, although Black's position is quite solid}) 11... O-O 12.
+Qe2 Be7 13. Rad1 Qc7 14. Bd3 {Indicating he is only interested in attack} (14.
+Rxd4 Nc6 15. Rd2 Nxe5) (14. Ng3 {With the intention of taking on d4, or with
+some Nh5 ideas, might be playable}) 14... Nd7 (14... Nc6 15. Ng3 {Is inferior})
+15. Rc1 $6 {[pgndiagram] Probably too risky} (15. Ng3 Nc5 {The point of
+development to d7} 16. Nxd4 Nxd3 17. Rxd3 {With a level game.}) 15... Qa5 $1 {
+Now White loses another pawn} 16. g4 $2 {But this is simply not justified} (16.
+Ned2 Nc5 $1 (16... Qxa2 17. Qe4 g6 18. Qxd4 {Might be better for White}) 17.
+Bb1 d3 18. Qe3 Rd8 {With a complex, double-edged position}) 16... Nxe5 {Now
+Black simply picks up another pawn} 17. Nxe5 Qxe5 18. f4 Qa5 19. g5 {
+[pgndiagram] Of course, Caruana has to be careful - White's attack is not
+without venom. But if Black defends correctly, he can deal with it without
+problems} Qd8 $2 {An inaccuracy} (19... g6 {Immediately was maybe more precise}
+20. gxh6 (20. h4 Bd7 (20... h5 $5) 21. gxh6 Rac8 {And Black is now fully
+developed}) 20... Kh7 {And h4 is not possible}) 20. h4 Bd7 21. gxh6 g6 (21...
+Bxh4 22. hxg7 {Is just losing}) 22. h5 {[pgndiagram] Now White manageds to
+break the structure with the help of this move} Kh8 (22... Kh7 {Is now worse}
+23. Qg2 Rc8 24. Nf6+ Bxf6 25. hxg6+) 23. Kh2 $2 (23. Qg4 {Or}) (23. hxg6 {Was
+enough to maintain the balance}) 23... Bc6 24. Rf3 $2 {[pgndiagram] The losing
+mistake - White simply wants too much out of position} (24. hxg6 fxg6 25. Qg4
+Bxe4 26. Bxe4 Rf6 {And Black would retain some advantage, but opposite
+coloured bishops and Black's weak king give White some hope}) (24. Rf2 Qd5)
+24... Bd6 $6 {Once again not the best} (24... Qd5 {Was the strongest, bringing
+the queen to the 5th file}) 25. Qf2 $6 (25. Nxd6 {It was better to get rid of
+this bishop} Qxd6 (25... Bxf3 26. Qe5+ f6 27. Qxe6 {But I guess it is very
+hard to evaluate the consequences here - White is fine})) 25... Bc7 26. Kh3 (
+26. hxg6 fxg6 {Is now not ideal}) (26. Qg3 {Would force Black to find the
+accurate} Qe7 27. hxg6 (27. Rf2 {Keeps the game going}) 27... fxg6 {And now
+White can't capture on g6 due to} 28. Qxg6 Bxf4+) 26... Qe7 27. Ng5 $2 {
+[pgndiagram] The final mistake} (27. Rg1 {Would maintain the balance} e5 (27...
+Rg8 {Might be better, retaining some chances}) 28. f5 g5 29. f6 Qe6+ 30. Rf5 {
+And White is fine}) 27... e5 $6 (27... gxh5 {Would win on the spot - White has
+no attack} 28. Qxd4+ e5) 28. Rxc6 bxc6 29. Nxf7+ Rxf7 30. hxg6 {A great
+conception by Aronian - offering some practical chances} Rf6 31. g7+ Kg8 32.
+Bc4+ $2 {[pgndiagram] A pity, after displaying some inventiveness and
+creativity, Aroian violates the "patzer sees a check, patzer gives a check"
+principle} (32. Qh4 {Immediately was stronger} e4 {Is now met with} (32... exf4
+33. Bc4+ Kh7 34. Bd3+) 33. h7+ Kxg7 34. Rg3+ Kh8 35. Rg8+ Rxg8 36. hxg8=Q+ Kxg8
+37. Bc4+ Kg7 38. Qg5+ Kh7 39. Qg8+ {[pgndiagram] And things end with a
+perpetual check}) 32... Kh7 33. Qh4 {Now White has nothing and can easily
+resign} e4 34. Rg3 Bxf4 35. g8=Q+ Rxg8 36. Bxg8+ Kh8 37. Rg7 Qf8 {[pgndiagram]
+A wonderful defensive effort by Caruana and another Candidates game in which
+Aronian's nerves failed to cope with the tension.} *
+
+[Event "Candidates Round 9"]
+[Site "0:00:33-0:08:33"]
+[Date "2018.03.20"]
+[Round "9"]
+[White "Fabiano Caruana"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[PlyCount "133"]
+[EventDate "2018.03.10"]
+[SourceDate "2018.03.11"]
+
+1. d4 Nf6 2. c4 e6 3. g3 {The Catalan is slowly becoming the main opening of
+this tournament} Bb4+ 4. Bd2 Be7 5. Bg2 d5 6. Nf3 O-O 7. O-O c6 8. Qb3 {
+[pgndiagram] Caruana already played this against Wesley So in early rounds} b6
+{So preferred Nbd7} 9. Nc3 Ba6 {The line chosen by Ding is less ambitious than
+So's play, but also more solid - White is forced to take on d5} 10. cxd5 cxd5
+11. Ne5 Bb7 {Covering the weak c6 square} (11... Nbd7 12. Nc6 {Is awkward} Qe8
+13. Nb5) 12. Rfc1 Nc6 $6 {Slightly provocative, but Ding played it quickly.
+Black tries to solve his opening problems directly} (12... Nfd7) (12... Nbd7 {
+Are probably both playable as well}) 13. Nxd5 $1 {[pgndiagram] Of course,
+Caruana plays the most testing continuation} (13. Nxc6 Bxc6 {Is just big
+nothing for White}) 13... Nxd4 {Entering tactical complications} 14. Nxe7+ Qxe7
+15. Qc4 Bxg2 16. Qxd4 Rfd8 $1 {A key move Black had to envision beforehand} 17.
+Qf4 $1 {[pgndiagram] Yet another correct decision} (17. Qb4 Qxb4 18. Bxb4 Bb7
+19. Rc7 Ba6 20. Rac1 (20. Nxf7 {Was amazingly, played before} Nd5 21. Nxd8 Nxc7
+22. Nc6 Bxe2 {And the game ended in a draw - Gleizerov - Farago, Oberwart, 1996
+}) 20... Nd5 21. Rxf7 Bxe2 {With equality} (21... Nxb4 22. Rcc7 {Is of course
+losing})) 17... Bb7 18. Bb4 Qe8 19. Rc7 Nd5 20. Qxf7+ Qxf7 21. Rxf7 Ba6 22. Ba3
+Bxe2 23. Rc1 {[pgndiagram] The forced variation that started with 12 .. Nc6
+ends here. White is slightly better, but more importantly, he can play on
+without any risk. Black's weak e6 pawn and White's active pieces are slightly
+problematic} Bh5 (23... h6 {Was arguably more prudent - it is not clear what
+White's next move is}) 24. Rb7 {The rook is annoying here} Be8 25. Kg2 a5 26.
+h4 Rdb8 27. Rxb8 Rxb8 28. g4 {[pgndiagram] Caruana imrpoves his position
+little by little} b5 29. b3 b4 {This seems so natural, but it might actually
+be stronger to wait with the queenside expansion} (29... h5 30. f3 Ra8 31. Bb2
+a4 {Might be the right way to go}) 30. Bb2 a4 31. h5 {Now White gains even
+more space on the kingside and restricts Black's bishop} Ra8 32. Kg3 Kf8 ({
+Black can't actually do anything along the a-file since} 32... axb3 33. axb3
+Ra2 34. Rc8 {Is actually losing} Kf8 35. Bd4) 33. Nf3 Bd7 34. Rc4 Kg8 35. Ne5
+Bb5 36. Rc5 Be8 37. Nc4 Bd7 38. Ne5 Be8 39. Bd4 Kf8 40. f3 {[pgndiagram] The
+position is still highly unpleasant for Ding. White has more active pieces,
+better structure and the pressure is mounting.} Ke7 41. Kh4 {Intending to
+provoke h6 in the future, though it is not clear whether White should do that}
+(41. Nd3 {White would like to get his knight to c5 somehow, but he can't do so
+directly} g6 42. hxg6 Bxg6) (41. Nc4 {Might be more subtle} g6 42. hxg6 Bxg6
+43. Rb5 axb3 44. axb3 Bc2 45. Rb7+ {And White has serious advantage now} Kd8
+46. Nd6 Bxb3 47. g5) 41... Kf8 42. Kg5 h6+ 43. Kh4 Kg8 44. Kg3 Kh7 {The Black
+king feels safe on h7} 45. Nd3 Kg8 46. Rc1 axb3 47. axb3 Kh7 48. Nc5 $1 {
+[pgndiagram] Still, Caruana has definitely made some progress and now his
+knight is a beast. The next stage is to push the kingside pawns even further
+and to try reaching either g7 or e6 pawns} Bf7 49. Re1 Ne7 50. Bb2 (50. Nxe6 {
+Would be maybe too hasty} Re8 51. Bc5 Nc6 52. Nf8+ Kg8 53. Rxe8 Bxe8 {And it
+is unclear whether White's extra pawn is enough}) 50... Nc6 (50... Ra2 $5 {
+Comes to the same} 51. Nd3 (51. Re2 Nc6 52. f4 {Also maintains the pressure}))
+51. f4 {Maybe it was better to wait with this move} Ra2 52. Nd3 $6 {
+[pgndiagram] And here, it was arguably wiser to avoid e5 alltogether} (52. Re2)
+(52. Ba1) 52... e5 $5 {This trade seems favourable for Black - he gets rid of
+one weakness and creates a passed pawn of his own} 53. fxe5 Bxb3 54. e6 Ra7 $2
+{[pgndiagram] Amazingly enough, this might be the losing move} (54... Ne7 {
+Blocking the pawn with the knight and maintaining the active rook, seems better
+} 55. Rc1 $5 {A tricky try} Bxe6 $1 56. Rc7 Rxb2 57. Nxb2 Nd5 {[pgndiagram]
+And Black shouldn't lose this position}) (54... Bc4 {Is probably also enough
+for a draw} 55. e7 Nxe7 56. Rxe7 Bxd3 57. Rxg7+ Kh8 58. Bd4 b3 59. Rb7+ Kg8 60.
+Rxb3 {[pgndiagram] And Black probably shouldn't lose this position, although
+Whtie can try}) 55. Nc5 $1 {Now Black is in dire straits once again} Bc4 (55...
+Ba2 {GM Bojkov claims this was the only defence} 56. Nd7 Ra8 57. Rf1 Nd8 (57...
+Bxe6 {Loses to} 58. Nf8+ Rxf8 59. Rxf8 {And with the bishop targeting the g7
+pawn, Black is unable to hold, in contrast to the previously examined position
+where he had a knight (see note to Black's 54 move)}) 58. e7 Nf7 {[pgndiagram]
+Here he stops his analysis, but let's continue it further} 59. Ne5 $1 Kg8 60.
+Ra1 $1 {A key move, with the threat of Rxa2, forcing b3 and blockade of the
+bishop} b3 (60... Bd5 61. Rxa8+ Bxa8 62. e8=Q+) 61. Rd1 Re8 62. Nc6 {With the
+threat of Rd8} Ng5 63. Kf4 $1 Kf7 64. Kf5 {And Black is losing. The threats
+are Rd8 and Bxg7} Ne6 65. Ne5+ Kg8 (65... Kxe7 66. Ba3+ {Is the beautiful point
+}) 66. Kxe6) 56. Nd7 Bb5 57. Nf8+ $2 {[pgndiagram] Missing the win} (57. Re3 {
+Is a very hard move to find. The idea is to transfer the rook to the f-file}
+Bc4 58. Rf3 Bb5 59. Nf8+ Kg8 60. Ng6 {[pgndiagram] And White will win}) 57...
+Kg8 58. Ng6 Ne7 $2 {Returning the favour} (58... Ra8 {Preventing all the
+backrank ideas, was sufficient.} 59. Rd1 Rd8 {[pgndiagram] And Black is in
+time to hold this position}) 59. Ra1 $1 {[pgndiagram] Ding said he missed this
+and that he was lucky to have Nc6 in the position} Nc6 (59... Rxa1 60. Nxe7+
+Kf8 61. Ng6+) 60. Rd1 {The point - White has gained time to transfer the rook
+to the d-file} Kh7 61. Rd5 Ba4 (61... Bc4 62. Rc5) 62. Kf4 $2 {[pgndiagram]
+The final miss of the game} (62. Rd2 $3 {Caruana missed this fantastic move,
+leading to a study-like win} Bb5 (62... Bb3 63. Rf2 Bxe6 64. Nf8+ Kg8 65. Nxe6
+{Is a familiar idea}) (62... Ne7 63. Nf8+ Kh8 64. Rd8 {Also wins}) 63. Rf2 Bd3
+64. Nf8+ Kg8 65. Nd7 Bc4 66. Rf8+ Kh7 67. Re8 {[pgndiagram] And the knight
+will return to g6}) (62. Rd3 Bc2 {Is not as effective}) 62... Bc2 63. Rc5 Ba4
+64. g5 hxg5+ 65. Rxg5 Nd8 66. Re5 Be8 67. e7 {Thus, Ding managed to retain his
+'perfect' score, but in this game he came very close to losing. Caruana has
+been incredibly consistent throughout the event, but in the next round he
+faces Mamedyarov with Black and he might regret dearly the chances he missed
+in this one} 1/2-1/2
+
+[Event "World Championship Candidates"]
+[Site "Berlin GER"]
+[Date "2018.03.19"]
+[Round "8.2"]
+[White "Alexander Grischuk"]
+[Black "Vladimir Kramnik"]
+[Result "1-0"]
+[ECO "D26"]
+[WhiteElo "2767"]
+[BlackElo "2800"]
+[PlyCount "181"]
+[EventDate "2018.03.10"]
+[SourceDate "2018.03.11"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 c5 5. e3 dxc4 6. Bxc4 a6 {A fairly
+standard position of the Queen's Gambit accepted has arisen} 7. Bb3 (7. a4 {
+Was played in the past automatically, but ever since, White players have
+switched to the preemptive retreat of the bishop - it doesn't weaken the b4
+square}) (7. e4 cxd4 8. Nxd4 {And here Black doesn't go b5, as in the game,
+but rather} Bd6 {Preventing e5}) 7... b5 8. e4 {[pgndiagram] The point of the
+move order} cxd4 9. Nxd4 Bb7 {Slightly provocative. If allowed, Black would
+like to continue with Nc6} (9... Nbd7 {Is safer.}) 10. e5 $1 {Of course} Ne4 $6
+{But this looks counterintuitive. It is not easy to criticize the play of
+Vladimir Kramnik in the opening, but still this is not principled} (10... Nfd7
+11. O-O {Seems more logical} Nc6 (11... Nxe5 12. Bxe6 {Is very dangerous} fxe6
+13. Qh5+ Ng6 14. Nxe6) 12. Nxc6 (12. Bxe6 {Now doesn't work} Nxd4) 12... Bxc6
+13. Bf4 Nc5 14. Bc2 Qxd1 15. Rfxd1 Be7 {[pgndiagram] With merely slightly
+inferior endgame}) 11. O-O $6 (11. Nxe4 $1 {Might be the best. After} Bxe4 12.
+O-O Nc6 13. Nxc6 Bxc6 14. Be3 {White obviously has much better version of the
+endgame} Qxd1 15. Rfxd1 Be7 16. Rac1 Rc8 17. f4 {[pgndiagram] And White is
+playing for two results, as they say}) 11... Nxc3 {Now Black manages to create
+some pawn weaknesses} 12. bxc3 Nc6 13. a4 $5 Bc5 $2 (13... Nxd4 14. cxd4 (14.
+Qxd4 Qxd4 15. cxd4 b4 {And once again, the endgame is favourable for Black})
+14... b4 15. a5 Be7 {Seems more reasonable, since} 16. Ba4+ Kf8 17. Be3 h5 {Is
+actually very good for Black}) 14. axb5 {[pgndiagram] Now White simply has no
+problems} axb5 15. Rxa8 Bxa8 16. Nxb5 O-O $6 {Not sure why Kramnik refrained
+from pawn recapture} (16... Nxe5 {Was still possible though} 17. Qxd8+ Kxd8)
+17. Qxd8 Rxd8 18. Bf4 {[pgndiagram] Now White is simply a pawn up, although
+Black's activity more than compensates} h6 19. h4 Ne7 20. Rd1 Rb8 21. Bc4 Bc6
+22. Nd4 Be4 23. h5 Nd5 24. Bxd5 Bxd5 25. Be3 Rc8 26. Re1 Bc4 27. Nf3 Ba3 28.
+Bd4 Bd3 29. Nd2 Bb2 30. Nf1 Rc4 31. Re3 Bf5 $6 {[pgndiagram] The first refusal
+of the draw} (31... Bxc3 {Would lead to complete equality} 32. Bxc3 Rxc3 {
+Kramnik probably feared the pin, but White is unable to take advantage of it}
+33. f3 g6 34. hxg6 fxg6 {[pgndiagram] And now whenever White moves his king,
+Black has a move} 35. Kf2 (35. Kh2 Rc1 $1) 35... Rc2+) 32. Ng3 Bh7 33. Kh2 {
+Now White manages to extricate his king and can start playing for the win more
+seriously} Bc1 34. Re2 Bf4 35. Kh3 Ra4 36. Kg4 Bc1 37. Kf3 Bd3 38. Re1 Bb2 39.
+Ke3 Bc2 40. Kd2 Bb3 41. Rb1 Ra2 42. Kd3 Ba4 43. Ne4 {[pgndiagram] Grischuk has
+obviously improved his position} Ba3 44. Ke3 (44. Rb8+ {Was maybe worth
+including} Kh7 45. Nd6 $1 {Forcing Black to find the move} Bd1 $1 {[pgndiagram]
+A fantastic move with a very deep idea} (45... f5 {Doesn't quite work} 46. Nf7
+g5 47. Rb7) 46. f3 (46. Rb7 $1 Kg8 (46... Bxh5 47. Ra7) 47. Ra7 Be2+ 48. Ke4
+Bxh5 49. c4 {And Black still has some difficulties to solve} Re2+ 50. Kd3 Bb4
+51. c5 Bxc5 52. Bxc5 Rxe5 {[pgndiagram] Athough here, his compensation for the
+piece might be sufficient}) 46... f5 47. Nf7 g5 48. Rb7 Be2+ 49. Ke3 Bc1+ 50.
+Kf2 Ba6+) 44... Bc2 45. Re1 (45. Rb8+ {Again ignoring this check}) 45... Bb3
+46. g4 Bd5 47. Kd3 Be7 48. Rb1 Ra8 49. f4 Bh4 {[pgndiagram] Deciding to wait
+further} (49... g6 {Was better than it looks} 50. hxg6 fxg6 51. Nf6+ Bxf6 52.
+exf6 Rc8 {And Black can probably hold this position}) 50. Rh1 Bd8 51. Rb1 Bc7 (
+51... Bh4 $5) 52. Ke3 Kh7 53. Nd6 Kg8 54. Rb5 Bc6 55. Rb4 Bd8 56. Bb6 Bh4 57.
+Bd4 Bg2 58. Rb2 Bc6 59. Rb6 Bg2 60. Rb2 Bc6 61. Rb3 Bg3 62. c4 Bh2 63. f5 exf5
+$6 (63... Kf8 {It was maybe better to avoid exchaning on f5}) 64. Nxf5 (64.
+gxf5 $5 {was also possible} f6 65. Rb6 $1 Ra3+ (65... fxe5 66. Rxc6) 66. Kd2
+Bf4+ 67. Kc2 Bf3 68. exf6 gxf6 69. c5 Bxd6 70. Rxd6 {And White has some
+practical chances}) 64... Kh7 {Now Black is solid enough} 65. Bb2 Re8 (65...
+Ra4 {Would lead to immediate equality} 66. Nd6 Bd7 67. Nxf7 Rxc4 68. g5 hxg5
+69. Nxg5+ Kh6 70. Nf3 Bf4+ {[pgndiagram] And Black can't lose this}) 66. Nd6
+Re7 67. Rb8 f6 $6 {[pgndiagram] Seems logical, but not the best} (67... Bxe5 $1
+68. Bxe5 Rxe5+ 69. Kd4 f6 {[pgndiagram] Was sufficient, but psychologicaly
+unpleasant - what if the c-pawn becomes dangerous} 70. Nf7 Re8 71. Rxe8 Bxe8
+72. Nd6 Bd7 {But Black has it all under control}) 68. Rc8 Bh1 $2 {The key
+mistake of the game} (68... Bd7 69. Rc7 fxe5 {Looked unpleasant, but Black is
+perfectly fine} 70. c5 e4 71. c6 Bg1+ 72. Kd2 $6 {It is risky to play for the
+win} (72. Kf4 {White should best take the draw} Bh2+ 73. Ke3) 72... e3+ 73. Kc1
+{(Avoiding all light squares)} e2 74. Bc3 Be3+ 75. Kc2 Bf5+ 76. Nxf5 Rxc7 77.
+Nxe3 Rxc6 78. Ng2 Rc4 {[pgndiagram] And only Black can win here}) 69. Nf5 Rb7 (
+69... Re6 70. Nh4 {With the threat of Ng6 was very annoying} fxe5 71. Ng6 Rxg6
+72. hxg6+ Kxg6 73. c5 {[pgndiagram] And White is most probably winning}) 70.
+exf6 $2 {Missing the chance} (70. e6 Rb3+ (70... Rxb2 71. e7) 71. Bc3 Bb7 72.
+e7 Bxc8 73. e8=Q Bxf5 74. gxf5 Rxc3+ 75. Kd4 {And White has to be winning here}
+) 70... Rb3+ 71. Bc3 gxf6 72. Kd2 Bf4+ {[pgndiagram] Now Black should safely
+draw, but this is not the end of the miracles} 73. Kc2 Rb8 74. Rxb8 Bxb8 75.
+Ne7 Be4+ 76. Kd2 Bf4+ $2 {[pgndiagram] The final mistake of the game - an
+amazing one} (76... Bf3 77. Nd5 Kg7 78. Nxf6 Bf4+ 79. Ke1 Kf7 {[pgndiagram]
+And as long as Black keeps the g-pawn under surveillance, White can't move his
+knight. And it is hard to see how White can improve}) 77. Ke2 {Now there is no
+hope - f6 or h6 are falling} Kg7 78. Nf5+ Kf7 79. Bd2 Be5 80. Bxh6 Ke6 81. Be3
+Bxf5 82. gxf5+ Kxf5 83. h6 Kg6 84. c5 f5 85. Kf3 Kf7 86. Bf4 Bd4 87. c6 Ke7 88.
+c7 Kd7 89. h7 Kc8 90. Ke2 Kd7 91. Kd3 {[pgndiagram] A tragic and amazing loss
+for Kramnik, who has been always regarded as a great technician. IT is not
+clear why he continued to play for so long in this position.} 1-0
+
+[Event "World Championship Candidates"]
+[Site "0:45:33-0:30:33"]
+[Date "2018.03.22"]
+[Round "10"]
+[White "Shakhriyar Mamedyarov"]
+[Black "Fabiano Caruana"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[PlyCount "115"]
+[EventDate "2018.03.10"]
+[SourceDate "2018.03.11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 {Another Catalan in this tournament.} dxc4 {
+And yet another new continuation. Previously, Caruana employed a sharp
+variation with the exchange sacrifice.} 5. Bg2 Nc6 $5 {[pgndiagram] The most
+common follow up to the early taking on c4. Black intends to play Rb8-b5 if
+allowed. The text move also eyes the e5 square} 6. O-O $5 {A relatively rare
+continuation} (6. Qa4 {Is where the main battles take place} Bb4+ 7. Bd2 Nd5 {
+Etc}) 6... Rb8 {Black is continuing with his plan} 7. e3 Be7 {Deviating
+nevertheless} (7... b5 {Is perfectly playable, although early advance of the
+b-pawn makes it a target} 8. a4 b4 9. Nbd2 Ba6 {Was nevertheless possible,
+with complex battle}) 8. Nfd2 $1 {[pgndiagram] The only way - White needs to
+get rid of the c pawn. Any other move would have allowed b5} (8. Nbd2 b5) (8.
+Qe2 b5) 8... e5 {Perhaps a bit risky, but playable nevertheless} (8... O-O {
+Was safer} 9. Nxc4 b5 $1 10. Bxc6 (10. Ncd2 Na5) 10... bxc4 {And Black should
+most probably be able to equalize}) 9. Bxc6+ bxc6 10. dxe5 Ng4 {It is not
+clear whether Caruana was still in his preparation, or whether this is over
+the board improvisation.} (10... Nd5 $5 {Is preferred by the engine - not
+blocking the way of the bishop to h3} 11. Nxc4 Bh3 12. Re1 Nb4 {With
+reasonable compensation for the pawn}) 11. Nxc4 Be6 12. Nbd2 h5 {[pgndiagram]
+Only this might be an inaccuracy} (12... Qd3 {Maybe it was better to plant her
+Majesty at the heart of White's position} 13. b3 h5 {And only then advance the
+h-pawn}) 13. f3 Qd3 $6 (13... Rb4 {IS the engine preferrence} 14. fxg4 Bxc4 15.
+Nxc4 Qxd1 16. Rxd1 Rxc4 17. gxh5 Rxh5 {With sufficient compensation for the
+pawn}) 14. fxg4 Bxc4 15. Nxc4 Qxc4 16. gxh5 {[pgndiagram] Now Black loses
+another pawn. True, White's pawn structure is incredibly ugly, and Black will
+probably get some material back, but it is a question whether White can use
+the time usefully in the meantime} Qe6 17. Qf3 Rb5 18. Qf5 (18. Bd2 $5 {Was
+interesting} Rxe5 19. Rac1 Bc5 20. g4 O-O 21. Kh1 {But here as well it is hard
+for White to count on something serious}) 18... Rxe5 19. Qxe6 Rxe6 20. Rf5 Rd6
+21. Kg2 Rd1 22. b3 g6 23. Re5 $6 {Now Caruana is able to equalize completely} (
+23. Rf2 Rxh5 24. Bb2 {And White is only slightly better, due to Black's pawn
+structure}) 23... c5 (23... Rxh5 {Is also sufficient} 24. Rxe7+ Kxe7 25. Ba3+
+Rd6 26. Rc1 Kd7 27. Bxd6 cxd6 {And we have a dead draw on the board}) 24. hxg6
+fxg6 25. e4 {[pgndiagram] Threatening Rxe7 and Bg5+.} Rh7 {The only move to
+defend against the threat, but sufficient} 26. h4 Rf7 27. Kh3 Rff1 28. Bg5 {
+[pgndiagram] Shark really goes all out in this game, but he is unable to shake
+the equilibrium} Rxa1 29. Rxe7+ Kf8 30. Rxc7 {Despite sacking an exchange,
+White is not risking very much - Black has to be precise} Rxa2 31. Be7+ Kg8 32.
+Rc8+ Kg7 33. Bxc5 Re2 34. e5 Rd1 {[pgndiagram]} (34... Rxe5 {Would be, of
+course, quite terrible, due to} 35. Bd4) 35. Re8 Rd5 36. Bd6 Re3 37. Re7+ Kg8
+38. Re8+ Kf7 39. Re7+ Kg8 40. b4 {Playing on for the win} Rdd3 41. Kg4 Rxg3+
+42. Kf4 Rgf3+ 43. Ke4 Rfe3+ 44. Kf4 Rf3+ 45. Kg5 Rf7 $1 {Another very precise
+move, after which White also needs to be slightly careful not to overextend}
+46. e6 (46. Kxg6 {Was also sufficient} Rg3+ (46... Rxe7 47. Bxe7 {Is losing})
+47. Kh6 Rxe7 48. Bxe7 Kf7 {With equality}) 46... Rd5+ {A practical decision} (
+46... Rxe7 {Is also sufficient, but why allow the activation of the White king?
+} 47. Bxe7 Kh7 48. Kf6 Rf3+ 49. Ke5 Kg7 50. Kd5 {Of course, this is also dead
+equal, but still}) 47. Kxg6 Rxd6 48. Rxf7 Rxe6+ 49. Rf6 Re4 {[pgndiagram] And
+at this particular moment, a draw could have been easily agreed.} 50. b5 Rxh4
+51. Ra6 Rh7 52. b6 Rg7+ 53. Kh6 Rh7+ 54. Kg5 Rg7+ 55. Kf5 axb6 56. Rxb6 Rf7+
+57. Rf6 Rxf6+ 58. Kxf6 {A high quality, tense encounter between the leaders of
+the tournament, that did nothing to resolve the status quo at the top.} 1/2-1/2
+
+[Event "Candidates Tournament 2018 R11"]
+[Site "?"]
+[Date "2018.03.23"]
+[Round "?"]
+[White "Ding, Liren"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D40"]
+[PlyCount "192"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.03.11"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. e3 e6 5. d4 d5 {Symmetrical semi-Tarrasch
+defense} 6. a3 dxc4 {[pgndiagram] This move screams: "I want to win this one".
+Before this round, Grischuk was 3rd, 1 point behind Caruana and 0,5 behind
+Mamedyarov.} (6... a6 7. dxc5 Bxc5 8. b4 Bd6 9. Bb2 O-O 10. Qc2 Qe7 {Game
+beetwen Anand and Kramnik in 2013, was played in this line. Kramnik won
+quickly in only 27 moves.}) 7. Bxc4 a6 (7... cxd4 8. exd4 Be7 9. O-O O-O {
+Another route black could take. White has space advantage for the price of an
+isolated pawn.}) 8. O-O b5 9. Ba2 Bb7 10. Qe2 Qc7 11. Bd2 (11. d5 exd5 12. Nxd5
+Nxd5 13. Bxd5 Be7 14. e4 $11) 11... Be7 12. Rac1 c4 {[pgndiagram] While c4
+blocks white's bishop and rook it's also reducing pressure on d4 pawn.} 13. e4
+Rd8 {Pressuring d4 pawn again.} 14. Be3 (14. e5 Nd5 15. Bb1 Na5 16. Bc2 Nxc3
+17. Bxc3 Bd5 $11) 14... Ng4 15. e5 (15. h3 Nxe3 16. fxe3 O-O 17. e5 f5 18. exf6
+Bxf6) 15... Na5 $2 {[pgndiagram] First mistake in the game. By playing Na5
+white is free to move his bishop away from d4 pawn. Instead black should have
+castle and force white to waste a move and play h3 before taking the bishop on
+e3.} 16. Bf4 {Night on g4 looks totaly lost.} Qb6 17. Rcd1 h5 18. h3 Nh6 19.
+Bb1 {Ding is not playing anything spectacular, just following general advice-
+in the middlegame reposition your pieces on better squares.} Nb3 20. Be3 Qc7 (
+20... Bd5 21. Nxd5 exd5 22. Rfe1 Ng8 23. Ng5 $16) 21. Rfe1 Kf8 (21... O-O 22.
+d5 exd5 23. Qc2 g6 24. Bxh6 $16) 22. d5 $1 {[pgndiagram] This shows how chess
+is sometimes simple. White's pieces are perfectly placed and the most logical
+thing is to open centre and attack black king.} exd5 23. e6 {Key move in the
+position. While it's not strongest move according to engine it gives black
+most trouble in practical game.} (23. Nd4 Qxe5 24. Nxb3 cxb3 25. Qd2 Ng4 26.
+Bf4 Qf6 27. Bg3 d4 28. Ne4 Bxe4 29. Rxe4 $16) 23... fxe6 24. Ng5 Qd7 (24...
+Bxg5 25. Bxg5 Re8 26. Nxd5 Bxd5 27. Rxd5 $16) 25. Bg6 {White is 2 pawns down
+but he's absolutely winning. Black's pieces are not doing anything and his
+king is weak.} Bf6 26. Bb6 $1 {[pgndiagram] Exploiting black's weak 8th rank.}
+Rc8 (26... Bxg5 27. Bxd8 Bxd8 28. Qxe6 Qxe6 29. Rxe6 Be7 30. Nxd5 Bxd5 31. Rxd5
+{White threatens Rd8 and after bishop takes Re8 mate} Nf7 32. Rd7 Nc5 33. Rexe7
+Nxd7 34. Rxd7 $18 {It's all over. Black can't defend mate and save all of his
+pieces.}) 27. Nxe6+ Kg8 28. Nxd5 Bxd5 {[pgndiagram] Critical moment. After
+next move black can only resign.} 29. Nf4 $2 {It was quite surprising that
+Ding missed both Nd8 and Rd5. They aren't too complicated compared to many
+variants in this game. Probably the combination of nerves and not having
+enough time got better of him. Even after this move, white is still much
+better.} (29. Nd8 Rxd8 30. Rxd5 Qxd5 31. Qe8+ Rxe8 32. Rxe8#) (29. Rxd5 Qxd5
+30. Nd8 {Black simply can't defend mate on 8th rank.}) 29... Nc1 {It's always
+interesting to see Grischuk play on 30 seconds. According to many top
+Grandmaster's he's still making best moves although he has little or no time.
+Unsurprisingly he has won World Blitz Championship 3 times ( 2006, 2012 and
+2015 ).} 30. Qxh5 (30. Rxc1 Bf7 31. Rcd1 Qc6 32. Ba5 Qc5 33. Bxf7+ Nxf7 34. Qe6
+$18 {Maybe Ding should have gone for this variation purely from practical side.
+While it's not the strongest it's much easier to play.}) 30... Nd3 31. Nxd5 Nf7
+32. Qe2 $2 (32. Nxf6+ gxf6 33. Bxf7+ Qxf7 34. Qg4+ Kh7 35. Qf5+ Kg7 36. Re4 $18
+{Another variation that wins the game missed by Ding.}) 32... Nfe5 33. Be4 Rh4
+{[pgndiagram] It's not that simple any more. White is still better but now
+black's pieces are dead any more.} 34. f4 Rxf4 35. Nxf4 Nxf4 36. Bh7+ Kh8 (
+36... Kxh7 37. Qe4+ Nfg6 38. Rxd7) 37. Qe4 Qc6 38. Bd4 (38. Be3 Qxe4 39. Bxe4
+Ned3 40. Bxf4 Nxf4 41. Rf1 $18 {White has one more pawn than in the game.})
+38... Nxh3+ 39. Kh2 Ng5 40. Qxc6 Rxc6 41. Bc2 Ngf7 {Weird and weak move. Black
+pieces are weaker than white's. Why would you give strong bishop for "double"
+night?} 42. Bxe5 $2 (42. Bc3 $18 {Stronger, simple move opening d file for rook
+}) 42... Nxe5 43. Rd5 Re6 44. Kh3 Kg8 45. b3 $2 {It's in black's favor to
+exchange as many pawns as possible. I can't find the reason why white would
+play this.} Kf7 46. bxc4 Nxc4 47. Rd7+ Be7 48. Rxe6 Kxe6 49. Ra7 Nxa3 50. Rxa6+
+$14 {[pgndiagram] Now it's clear that this position isn't winning for white
+any more. White still has some winning chances but objectively the position is
+draw.} Kd5 51. Bh7 Nc4 52. Kg4 Bf6 53. Ra7 Kd4 54. Bg8 Nd6 55. Kf3 Kc5 56. Ra8
+b4 57. Ke2 Bc3 58. Kd3 Kb6 59. Ke3 Kc6 60. Kf4 Nb7 61. Kf5 Nc5 62. g4 Kb5 63.
+g5 b3 64. Kg6 Kb4 65. Bd5 Bd4 66. Kh7 Kc3 67. g6 b2 68. Ba2 Kc2 69. Rb8 Ne4 70.
+Rb4 Nc3 71. Be6 Kc1 72. Bf5 Be5 73. Rb7 b1=Q 74. Bxb1 Nxb1 75. Rxg7 Nc3 (75...
+Bxg7 $4 76. Kxg7 Nc3 77. Kf8 {That would be horrible way to lose a game.}) 76.
+Re7 Bd4 77. Rd7 Be5 78. Kh6 Kc2 79. Kg5 Kb3 80. Kf5 Bh8 81. Rb7+ Kc2 82. Rh7
+Bd4 83. Ke6 Kb3 84. Rd7 Bh8 85. Rd8 Bg7 86. Kf7 Be5 87. Re8 Bd4 88. Rb8+ Kc2
+89. Rb7 Be5 90. Rb6 Bd4 91. Rf6 Bxf6 92. Kxf6 Nd5+ 93. Kf7 Ne3 94. Kf6 (94. g7
+Nf5 95. g8=Q Nh6+ 96. Kf8 Nxg8 97. Kxg8) 94... Nd5+ 95. Kf7 Ne3 96. g7 Nf5 {
+Crazy game ! Watching it was like being on a roller coaster ride. Ding can
+really be sad that he didn't win this one but I think he'll have an
+opportunity to learn quite a lot from this game specially from the
+psychological aspect. Grischuk can be happy he miraculosly saved this game and
+still has good chances for the first 3 places.} 1/2-1/2
+
+[Event "World Championship Candidates"]
+[Site "0:44:33-0:48:33"]
+[Date "2018.03.24"]
+[Round "12"]
+[White "Sergey Karjakin"]
+[Black "Fabiano Caruana"]
+[Result "1-0"]
+[ECO "C42"]
+[PlyCount "95"]
+[EventDate "2018.03.10"]
+[SourceDate "2018.03.11"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 $5 {In previous rounds,
+Kramnik and So have played 5 Qe2 here, but Karjakin chooses the most topical
+continuation} (5. Qe2) 5... Nxc3 (5... Nf6 {There is something to be said
+about this move as well}) 6. dxc3 Nc6 7. Be3 Be7 8. Qd2 Be6 9. O-O-O Qd7 (9...
+Bxa2 {Taking the a-pawn is not to be recommended} 10. b3 a5 11. Kb2 a4 12. Ra1
+axb3 13. cxb3 Bxb3 14. Rxa8 Qxa8 15. Kxb3 {[pgndiagram] And although I have
+lost something similar in blitz many times, White should be objectively much
+better here}) 10. a3 {[pgndiagram] Many moves have been played here. The
+modest advance of the a-pawn was essayed by Caruana's second, Rustam
+Kasimdzhanov} (10. h3) (10. h4) (10. Kb1) 10... h6 {This is I think a waiting
+move - inviting White to declare his intentions} (10... O-O {Castling at once
+would have allowed white to go for the immediate push with} 11. h4 Bg4 12. Bd3
+{[pgndiagram] And this is dangerous for Black} Rae8 13. h5 h6 14. Kb1 Bf5 (
+14... Bxf3 {Is not really an option - opening the g-file}) 15. Bxf5 Qxf5 16.
+Rh3 {And White holds the initiative}) (10... O-O-O 11. Nd4 {Is now
+inconvinient - the weakness of a7 and g7} Nxd4 12. Qxd4 {[%csl Ra7,Rg7][%cal
+Rd4a7,Rd4g7]}) 11. Nd4 {Deviating from the Kasimdzhanov game. Former FIDE
+Champion chose the king move instead} (11. Kb1 Rg8 12. Bd3 O-O-O {Kasimdzhanov
+- Li,D, Chengdu, 2017}) 11... Nxd4 {Black virtually has no choice but to take
+on d4 - where will the light squared bishop go?} (11... Bg4 12. f3 Bh5 13. Nxc6
+Qxc6 14. Bd3 {Is much better for White - Black has trouble castling. Say} O-O-O
+(14... O-O 15. Bxh6 gxh6 16. Qxh6 {[pgndiagram] Is winning} Bg6 17. Bxg6 fxg6
+18. Qxg6+ Kh8 19. Rd4) 15. Rhe1 $1 {[pgndiagram]} (15. Bxa7 b6 16. Ba6+ Kd7 17.
+Qd3 Bg6 $1 {Is not so clear}) 15... Rhe8 16. Bf5+ Kb8 17. Qd4 {[pgndiagram]
+And already these brief variations show that Black has definite problems in
+similar lines.}) 12. Bxd4 (12. cxd4 {[pgndiagram] Seems more natural - after
+all, as beginners we are taught to undouble our pawns. So why did Karjakin
+refuse to do so? Well, this was a must win game for him, and going for
+symmetry eases Black's play} Bf5 13. Kb1 d5 {And it is hard to win this}) 12...
+Rg8 (12... O-O {Is probably playable, but with the pawn on h6, it is risky to
+castle in practical game - White has clear plan of pushing on the kingside})
+13. Be2 c5 {Taking care a7 will not be attacked after castling} 14. Be3 d5 {
+[pgndiagram] The opening is over. White is better developed and optically
+better, but can he really dream of breaching White's defences?} 15. f4 {A good
+move, gaining some space and preparing to pressure the center} O-O-O 16. Bf3
+Bg4 $6 {With hindisght, this is an oversight, but what could be more natural
+than the bishop exchange?} (16... g5 {Is the combative option - Black wants to
+fight for the share in the center as well. Still after} 17. g3 f5 18. Bg2 Kb8
+19. Rhe1 {[pgndiagram] He is definitely on the back foot}) (16... f5 {Was
+Caruana's suggestion. However, after} 17. Rhe1 Bf7 18. Bf2 b6 19. h3 {White
+retains some pressure}) 17. Bxd5 $1 {[pgndiagram] A staggering decision -
+White gives up an exchange for the pawn and the strong d5 bishop. Karjakin
+said he wasn't sure about the consequences, but decided to go so nevertheless.
+Putin's Minister of Defence proves he has nerves of steel.  Or balls.} Bxd1 18.
+Rxd1 Qc7 (18... c4 {Was an idea that went through my mind, but it is crap} 19.
+Qe2 (19. Bxa7 {Is also sufficient}) 19... b6 (19... b5 20. a4 a6 21. axb5 axb5
+22. Bb6)) 19. c4 {[pgndiagram] Of course, the exchange sacrifice is not
+winning by itself, but it sets White some serious issues} Rge8 20. Qf2 b6 21.
+g4 {White plans to push his kingside pawns, create some weaknesses and then
+penetrate the back ranks.} Bf6 22. Kb1 Rd7 23. Rd3 g5 $6 {[pgndiagram] This is
+probably the first move that helps White. Black creates an opening himself.} (
+23... Rde7 24. g5 (24. Qf3 {Of course, White can continue to increase the
+pressure instead of commiting the pawn to g5}) 24... hxg5 25. fxg5 Be5 {
+[pgndiagram] And now White has to find the accurate} 26. Bg2 Rd8 27. Qf5+ Rdd7
+28. Bh3 Kd8 29. Rxd7+ Qxd7 30. Qxd7+ Rxd7 31. Bxd7 Kxd7 32. h4 {[pgndiagram]
+Although still, Black should be able to hold}) (23... Ree7 24. Qg2) 24. Ka2
+Ree7 (24... Rde7 {I didn't quite understand why Black didn't want to double
+his rooks.} 25. fxg5 Bxg5 26. Qf5+ {[pgndiagram] But this check reveals it -
+Black loses another pawn} Kb8 27. Bxg5 hxg5 28. Qxg5 {[pgndiagram] And now
+White is probably close to winning - the tactics work in his favour} Qxh2 29.
+Bxf7 Rxf7 30. Rd8+ Rxd8 31. Qxd8+ Kb7 32. Qd5+ Kb8 33. Qxf7 {[pgndiagram] And
+White is winning}) 25. Qf3 Kd8 (25... Kb8 {Seems more logical, although after}
+26. fxg5 Bxg5 27. Bf2 Bf4 28. Bh4 Re8 29. h3 {[pgndiagram] White retains the
+pressure, but he hasn't yet won any material}) 26. Bd2 {[pgndiagram] Removing
+the bishop from attack} (26. fxg5 {Is once again indicated by the engine} Bxg5
+27. Bxg5 hxg5 28. Bc6 {And now Black is in trouble, since} Rxd3 29. Qxd3+ Kc8
+30. Qf5+ Kb8 31. Qxg5 {Is once again in White favour}) 26... Kc8 {Continuing
+to wait} 27. Qf1 $1 {[pgndiagram] Another strong move - Karjakin intends Rh3.
+A fantastic conception} Rd6 {Deciding to give up the pawn, but preventing Rh3}
+(27... Kd8 28. Rh3 Bg7 29. fxg5 Qe5 30. Qc1 Rxd5 31. cxd5 {And now, in
+contrast to Qb8 variation, Qxd5 is not possible} Qxd5+ 32. Kb1 hxg5 33. Bxg5 {
+[pgndiagram]And White wins} f6 34. Rd3) (27... Kb8 28. Rh3 Bg7 29. fxg5 Qe5 {
+Once again doesn't work, due to the simple} 30. Bf4) (27... Qb8 {Is the
+computer resource. The point is that after} 28. Rh3 Bg7 29. fxg5 Qe5 $1 {
+[pgndiagram] Retains the pawn} 30. Qc1 Rxd5 31. cxd5 Qxd5+ 32. Kb1 hxg5) 28.
+fxg5 Bxg5 29. Bxg5 hxg5 30. Qf5+ {[pgndiagram] Now it is almost all over - two
+pawns for the exchange} Rdd7 31. Qxg5 Qe5 32. Qh6 $1 {It is important to
+retain the queens} (32. Qxe5 {Would be a terrible decision} Rxe5 33. h4 Re2 34.
+Kb3 Rh2 {And Black is in time}) 32... Kd8 $2 {The decisive mistake - once
+White advances g5 everything is definitely over} (32... f6 {Was the last
+chance of creating some resistance}) 33. g5 {[pgndiagram] Now White will
+simply push his pawns. Black's pieces are quite horrible} Qd6 34. Qh8+ Re8 35.
+Qh4 Qg6 36. Qg4 Re5 37. h4 Ke7 38. Rd2 b5 39. Bxf7 {[pgndiagram] A very nice
+tactical finish} Qf5 40. Rxd7+ Kxd7 41. Qxf5+ Rxf5 42. g6 Ke7 43. cxb5 Rh5 44.
+c4 Rxh4 45. a4 Rg4 46. a5 Kd6 47. a6 Kc7 48. Kb3 {[pgndiagram] There is
+nothing Black can do against the advance of the White king, so Caruana
+resigned. A fantastic game by Sergey, which put him in the lead two rounds
+before the end. Moreover, at this point, he had better tiebreaks than Caruana,
+so in the event of them sharing the lead, he would be proclaimed as a winner. 
+Last two rounds will be once again incredibly dramatic and we can only thank
+FIDE they decided to supplement knock-out matches with a Candidates tournament.
+} 1-0
+
+[Event "Candidates Tournament 2018 (13)"]
+[Site "?"]
+[Date "2018.03.26"]
+[Round "?"]
+[White "Caruana, Fabiano"]
+[Black "Aronian, Levon"]
+[Result "*"]
+[ECO "C88"]
+[PlyCount "77"]
+[SourceDate "2018.03.11"]
+
+1. e4 {As we have just seen, in the previous round Caruana has suffered a
+devastating loss and in this game he basically had to win because his tiebreak
+was inferior to Karjakin's. It is interesting he decided to go 1 e4, but he
+was probably aware Aronian doesn't play the Berlin, but rather the Marshall} e5
+2. Nf3 Nc6 3. Bb5 a6 {Voila - no Berlin} 4. Ba4 Nf6 5. O-O Be7 (5... Nxe4 {It
+seems no body ventures to play the Open Ruy these days, but perhaps this is
+not the time and place to talk about that}) 6. Re1 b5 7. Bb3 O-O 8. d3 {And
+this has become a standard way of avoiding the Marshall these days} (8. h3 {
+Doesn't quite prevent the d5 advance} Bb7 9. d3 d5 {And Black has definite
+compensation. So's brilliant victory against Ivanchuk comes to mind}) (8. a4 {
+Is also playable, though. I am not sure about the state of theory regarding
+these two lines, but Caruana MIGHT have known a bit more than yours trully})
+8... d6 9. Bd2 $5 {[pgndiagram] And this is a very interesting move,
+preventing Na5 in the most direct and brutal fashion} (9. c3 Bb7 10. Nbd2 {
+Would lead to a more typical Ruy Lopez}) 9... Bg4 {Also quite logical - once
+Na5 is prevented, Nd4 is an option} 10. c3 {Preventing Nd4} d5 $6 {Perhaps
+this is a matter of taste, but I don't like this move. The old dogma says
+Black solves his problems once he carries out the d5 advance, but in the given
+instance, the symmetrical pawn structure doesn't lead to immediate equality} (
+10... Na5 11. Bc2 c5) 11. h3 (11. exd5 {Is alo playable} Nxd5 12. Qe2 Re8 {
+Although White's pieces do look a bit cumsy}) 11... Bh5 (11... Bxf3 {Was the
+alternative} 12. Qxf3 d4 13. Bd5 Qd7 14. Bxc6 Qxc6 15. cxd4 exd4 16. Rc1 Qb6 {
+[pgndiagram] With equality. Something similar is possible on Black's next move
+as well}) 12. Qe2 Rb8 (12... Bxf3 13. Qxf3 d4) 13. Bg5 {Forcing Black to
+declare his intentions, since White is threatening to take on f6 and then on d5
+} dxe4 (13... Bxf3 14. Qxf3 d4) (13... h6 14. Bxf6 Bxf6 15. exd5) 14. dxe4 h6
+15. Bc1 $1 {[pgndiagram] A great move - the bishop has fullfiled its role, and
+now gets out of the way for the remainder of the pieces to develop} Bg6 {
+Rushing to prepare the Nh5-Nf4 plan, but Black is not in time with this idea} (
+15... a5 {Is the suggestion of the engine - gaining space on the queenside . 
+It might be better than the text move} 16. Nbd2 a4 17. Bc2 Qc8 {And it is
+completely another game. Still, it seems it is favourable for Black to gain
+space on the queenside - in the game White undermined the structure on that
+side of the board as well.}) 16. Nbd2 Nh5 17. Nf1 {Just in time} Bc5 (17... Nf4
+18. Bxf4 exf4 19. Rad1 {Is simply better for White}) (17... Bd6 {Covering the
+e5 square in advance and insisting on Nf4 was playable} 18. a4 b4 19. Bc2 a5
+20. Qc4 {[pgndiagram] And once again White retains the initiative - Black's
+queenside structure is once again the key}) 18. g3 $5 {Not sure about validity
+of this move, but it won Caruana the game - the idea of Nh4 Nf5 is very potent}
+Kh7 $2 {[pgndiagram] I think this is too passive - From this moment Aronian's
+game starts going downhill} (18... Nf6 {Going for the e4 pawn once Ng3 is
+impossible, was more forcing, but also more direct} 19. Be3 Nxe4 (19... Bxe3
+20. Nxe3 Bxe4 21. Ng4 Bxf3 22. Qxf3 Nxg4 23. Qxc6 Nf6) 20. Rad1 Bd6 {And now}
+21. Bxh6 (21. Bd5 Ne7) 21... gxh6 22. Bd5 Nxg3 23. Nxg3 Ne7 {Is approximately
+equal}) 19. Kg2 Qe7 20. Bc2 Rfd8 21. b4 $1 {[pgndiagram] First shifting his
+intention toward queenside} Bb6 22. a4 Nf6 23. Nh4 $1 {[pgndiagram] Now the
+other side of the board!} (23. axb5 $1 {It was possible to take the pawn} axb5
+24. Qxb5 Bxf2 (24... Qe6 25. Qe2 {With clear plus}) 25. Qxc6 Bxe1 26. Nxe1 {
+[pgndiagram] And White's material means he has a clear advantage. Caruana
+prefers to increase the pressure}) 23... Qe6 24. Bd3 $6 {I am still not
+certain whether allowing the piece sacrifice was necessary or whether the
+sacrifice is fully correct} (24. Nxg6 {Was simpler - White retains a clear edge
+}) 24... Bh5 $5 {Going for an interesting piece sacrifice} (24... Qd7 25. Rd1
+Ne7 {Was the alternative, which also doesn't look quite rosy}) 25. g4 Bxg4 26.
+hxg4 {[pgndiagram] The g4 and f2 pawns are falling, but White is able to
+counter Black's idea with a knight jump to f5} Nxg4 (26... Qxg4+ {Doesn't
+really lead anywhere} 27. Qxg4 Nxg4 28. Be2 Nxf2 29. axb5 axb5 30. Bxb5 {
+[pgndiagram] And Black doesn't have sufficient compensation for the piece}) 27.
+Nf5 $1 Nxf2 28. Bc2 $1 {[pgndiagram] Another only move, but sufficient. N1e3
+is coming and Black's knight is stuck} g6 29. N1e3 gxf5 30. exf5 Qf6 (30...
+Rg8+ {Doesn't quite help} 31. Kf1 Qf6 32. Qxf2) 31. Qxf2 e4 $2 {[pgndiagram]
+This is the decisive mistake of the game and the best indication of Aronian's
+form in this tournament. Once agian in the critical moment he fails to find a
+tactical combination, in a position that usually suits his style} (31... Nxb4 {
+Amazingly, but it would appear that the sacrifice of another piece, deflecting
+the pawn on c3, would very much keep Black in the game} 32. cxb4 Rd4 {And it
+is hard to suggest White's next move. The engine plays the extraordinary} 33.
+Kh3 {But after} Qg5 {[pgndiagram] In practical game, it is incredibly hard to
+play the Black pieces. So it would appear it was wrong to allow the sacrifice
+and that Aronian's intuition didn't betray him.}) 32. Rh1 {[pgndiagram] Now
+White is safe and sound} (32. Bxe4 {Was also working}) 32... Rd6 33. Bxe4 Rg8+
+34. Kf1 Ne5 35. Qf4 c6 {This move speaks for itself} 36. axb5 Rg5 37. bxa6 Qd8
+38. f6+ Ng6 39. Rxh6+ {[pgndiagram] A beautiful finish to a very nervy
+encounter. But kudos to Caruana for bravery; after finding himself in a
+desperate situation, he managed to win 'to order' and now the pressure is on
+Karjakin who has the White pieces tomorrow. In any case, an extremely
+interesting final round awaits us tomorrow.} *
+
+[Event "World Championship Candidates"]
+[Site "0:09:33-0:14:33"]
+[Date "2018.03.27"]
+[Round "14"]
+[White "Alexander Grischuk"]
+[Black "Fabiano Caruana"]
+[Result "0-1"]
+[ECO "C43"]
+[PlyCount "138"]
+[EventDate "2018.03.10"]
+[SourceDate "2018.03.11"]
+
+1. e4 e5 2. Nf3 Nf6 {A somewhat surprising, but perfectly logical decision,
+considering the tournament situation. In contrast to the last round of the
+previous Candidates Tournament where he played the Rauzer Sicilain, Caruana
+opts for safety first and sticks to his guns. He decides to keep the game in
+safe waters and to see how the remaining games are going to unfold with a draw
+in his pocket.} 3. d4 $5 {For the first time in the tournament he has to face
+this continuation. Previously, everyone took on e5} Nxe4 4. dxe5 d5 5. Nbd2
+Nxd2 6. Bxd2 Be7 {[pgndiagram] I highly doubt this is the critical way of
+battling the Petroff, but then again, everything is playable these days} 7. Bd3
+c5 8. c3 Nc6 9. O-O Bg4 10. Re1 Qd7 {[pgndiagram] Okay, it is time to take the
+stop and consider the situation arising out of the opening. White has a pawn
+majority on the kingside, which he would very much like to advance, but it is
+very hard to achieve. His pawn on e5 gives him more space, but also needs some
+protection. Black on the other hand, can consider playing on the queenside,
+undermining the structure with a timely f6 or advancing the center with d4. It
+is hard to say whether anyone is better, but the position is not an automatic
+draw} 11. h3 Bh5 12. Bf4 {Overprotecting the e5 pawn. Nimzowitsch would be
+proud} Qe6 {Waiting for the moment to see what White will do and placing the
+queen on a defended square - very important.} (12... O-O {Castling gives White
+the option of} 13. Qc2 Bg6 (13... Bxf3 {Is not something to be recommended} 14.
+Bxh7+ Kh8 15. Bf5 Qc7 (15... Be4 16. Qxe4 dxe4 17. Bxd7) 16. gxf3 {With a
+clear plus}) 14. Bxg6 hxg6 15. Rad1 {With some advantage}) 13. a3 $6 {Deciding
+on a plan of the queenside expansion. It would appear that this selection of
+the plan was not the most accurate - it relinquished all the hopes of
+advantage White might have had.} (13. Be2 {Breaking the pin, is instead
+recommended by the engine. After} O-O (13... Bg6 {Is more prudent}) 14. Nd4 $5
+Bxe2 15. Nxe6 Bxd1 16. Nxf8 Bc2 17. Nd7 {[pgndiagram] White is an exchange up,
+but his knight is in trouble. The engine gives the eternal 0.0 evaluation, but
+in practical game it is hard as Black to go for this}) 13... O-O 14. b4 {
+[pgndiagram] Grischuk is consistent with his plan} (14. Qc2 {Is now met by}
+Bxf3 {Since} 15. Bxh7+ Kh8 16. Bf5 {Loses to} Be4 17. Bxe6 (17. Qxe4 dxe4 {
+[pgndiagram] And now we see the point of Qe6 - White is a piece down after} 18.
+Bxe6 fxe6) 17... Bxc2 18. Bxd5) 14... h6 15. Bg3 b6 {Not sure if it was
+required to go for the queen exchange} (15... Rad8 {Would prevent Nd4 and was
+arguably better. The point is that the d5 pawn is defended in advance - see
+the note to Black's 16th move} 16. Nd4 cxd4 17. Qxh5 dxc3) 16. Nd4 (16. Qc2 {
+Would maintain the tension}) 16... Bxd1 (16... cxd4 {Is now bad} 17. Qxh5 dxc3
+18. Bf5 g6 19. Bxe6 gxh5 20. Bxd5 $1) 17. Nxe6 fxe6 18. Raxd1 {[pgndiagram]
+Still, the position is complex - White's bishop pair is severely restricted by
+both pawn chains and it is not clear who is better} c4 $1 {A good move,
+closing the queenside} 19. Bc2 b5 20. a4 a6 21. f3 Bg5 (21... Nxb4 {
+[pgndiagram] Was a very interesting possibility, that might give Black the
+initiative. However, at this point, it was not yet neccessary to go all in, so
+Caruana decided to keep it safe}) 22. Bf2 Bf4 23. Bc5 Rfd8 24. Bd6 Bg3 25. Re2
+g5 {[pgndiagram] It is instructive how the maneouvre of the bishop to g3 in
+combination with g5 restricted White's kingside majority.} 26. Kf1 Kf7 27. Bc7
+Re8 28. Bd6 Rac8 29. Ra1 Red8 30. Bb1 $6 {[pgndiagram] The start of the wrong
+path. Objectively, if both sides keep shuffling, neither play can count on any
+advantage} (30. Rd1 {Preventing d4, was enough to maintain equality. I guess
+Grischuk's time trouble and ambition forced him to play for the win}) 30... Rd7
+31. Ra3 $6 {The second mistake, missing Black's strong reply} (31. axb5 axb5
+32. Ra6 {Was more prudent. Black can't get d4 now since} d4 33. Be4 d3 34. Bxc6
+Rxc6 35. Rxc6 dxe2+ 36. Kxe2 Ra7 {[pgndiagram] Doesn't bring him any advantage}
+) 31... d4 $1 {[pgndiagram] It is counter intuitive to open the position when
+White has the two bishops, but Black's pieces spring to life and White's
+bishops are out of play} 32. axb5 (32. cxd4 Nxd4 33. Rd2 Nc6 {And the e5 falls,
+since} 34. Re2 Nxe5) 32... axb5 33. cxd4 Nxd4 34. Rea2 Nc6 35. Be4 {
+[pgndiagram] Now e5 falls all the same, but at least White has managed to
+activate a bit} Bxe5 (35... Nxe5 36. Ra7 {Is inferior}) 36. Bxc6 Rxd6 37. Bxb5
+Rd1+ 38. Ke2 Rg1 39. Ke3 Rb1 40. Ra7+ {[pgndiagram] At this point, Caruana
+said he knew he was better, but not certain whether it was enough for win. I
+am not sure, but I think Mamedyarov's game had already finished (or finished
+very soon) so Caruana could basically offer a draw at any moment. Instead, he
+kept on playing for the win - a brave and courageous decision, displaying his
+character traits. Kudos!} Kf6 41. Bd7 Bf4+ 42. Ke2 Rd8 43. Rc2 Rxb4 44. Bc6 c3
+45. Rd7 Rc8 46. Be4 {[pgndiagram] Practically speaking, it is incredibly
+difficult to defend this position as White. Moreover, he has zero counterplay,
+which makes Caruana's decision to continue much more understandable.} h5 47.
+Kd3 Rb2 48. Ke2 h4 49. Rd1 Ke5 50. Ra1 Rd8 51. Rd1 Rdb8 52. Ra1 Bd2 53. Ra6 Rd8
+54. Rc6 Rb1 55. Kf2 Ra1 56. Rc4 Rd4 57. Rc8 Rb4 58. Ke2 $2 {[pgndiagram]
+Finally, Grischuk cracks under the pressure and commits a decisive mistake} (
+58. Bd3 {Would still allow him to hold, since after} Rb2 59. Rc4 Rxc2 60. Bxc2
+Ra2 61. Bb1 {Black can't make direct progress. So he has to shuffle some more})
+58... Kf4 $2 {[pgndiagram] Missing the best way} (58... Re1+ {Was immediately
+winning} 59. Kf2 Rbb1 60. Rc5+ Kf6 {[pgndiagram] Keeping the f4 square open
+for the bishop!} (60... Kf4 61. R2xc3) 61. R2xc3 (61. f4 g4 62. hxg4 Rxe4)
+61... Bf4 {[pgndiagram] With mate to follow}) 59. Kf2 (59. Kd3 {Was more
+resillient}) 59... Rbb1 60. Rf8+ Ke5 61. Bd3 Rb2 62. Ke2 Re1+ 63. Kf2 Rc1 64.
+Rxb2 cxb2 65. Rb8 Bc3 66. Be4 Bd4+ 67. Ke2 Kf4 68. Rb4 e5 69. Rb7 Kg3 {
+[pgndiagram] As it is, Grischuk resigned and there was a thunder of clapping
+among the spectators. At 25 years of age, Caruana finally managed to get
+through to the Candidates. Judging by the play in the tournament, he has
+completely deserved the shot at the title and I believe he will be definitely
+a worthy challenger.} 0-1
+
