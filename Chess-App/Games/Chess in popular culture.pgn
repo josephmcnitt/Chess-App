@@ -1,0 +1,111 @@
+[Event "?"]
+[Site "?"]
+[Date "2017.04.01"]
+[Round "?"]
+[White "Prof. Mcgonagall"]
+[Black "Ronald Wesley & Co."]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5r1k/1pN1R1pp/1Pb5/n1r1P1n1/7N/b2Q4/7P/1R4K1 b - - 0 1"]
+[PlyCount "7"]
+
+{[pgndiagram] This is the position Silman invented. In the given position,
+Harry is the bishop on a3, Hermione rook on f8 and Ron the knight on g5.} 1...
+Rc3 {A fully correct sacrifice that frees the c5 square for Harry the bishop.}
+2. Qxc3 {There is nothing better. Now comes the famous knight sacrifice that...
+turns out to be only the second best move in the position} Nh3+ {[pgndiagram]
+Ron sacrifices itself in order to allow Harry to mate and deserve all the
+glory. Nothing new under the sun.} (2... Bc5+ {Would actually mate one move
+faster, but if this move was made, Voldemort would probably never die. Because
+Harry, playing without the knight, wouldn't have survived the onslaught of the
+White queen, like Ron did.} 3. Qxc5 Nh3# {Is checkmate}) 3. Qxh3 Bc5+ 4. Qe3
+Bxe3# 0-1
+
+[Event "2001: A Space Odyssey"]
+[Site "?"]
+[Date "2017.04.03"]
+[Round "?"]
+[White "Frank Poole"]
+[Black "Hal 9000"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "Q4rk1/2p1bppp/p7/1p2n3/5n2/2Pq3b/PP1P1PPP/RNBB1RK1 w - - 0 0"]
+[PlyCount "10"]
+
+{[pgndiagram]} 1. Qxa6 Bxg2 2. Re1 Qf3 {[pgndiagram]  Here HAL9000 announces
+mate in two, when actually Frank could have stalled the mate for one move with
+a queen sacrifice} 3. Qc8 Rxc8 4. h3 Nxh3+ 5. Kh2 Ng4# 0-1
+
+[Event "From Russia with Love"]
+[Site "?"]
+[Date "2017.04.03"]
+[Round "?"]
+[White "Kronsteen"]
+[Black "McAdams"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3rnk1/ppp1qNp1/7p/4b3/5Q2/1B6/PP4PP/5RK1 w - - 0 1"]
+[PlyCount "11"]
+
+{[pgndiagram]} 1. Nxe5+ Kh7 (1... Ne6 {Would be more prudent}) 2. Qe4+ Kh8 (
+2... g6 3. Rf7+) 3. Rxf8+ $1 {[pgndiagram]} Qxf8 (3... Rxf8 4. Ng6+ Kh7 5.
+Nxf8+ Kh8 6. Qh7#) 4. Ng6+ Kh7 5. Nxf8+ Kh8 6. Qh7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2017.04.03"]
+[Round "?"]
+[White "Luzhin"]
+[Black "Turati"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k2/5p1p/p5p1/2b5/P4P2/1PN1rK2/4B1PP/2R5 w - - 0 1"]
+[PlyCount "10"]
+
+{[pgndiagram] Black is a piece down, but is winning nevertheless.} 1. Kg4 (1.
+Kf2 Rxc3+ 2. Kf1 Rxc1+ {Picks up a whole rook}) 1... f5+ 2. Kg5 Kg7 3. Nd5 {
+[pgndiagram] On any other move, there comes Be7 mate} (3. Kh4 Be7#) 3... Rh3 $3
+{Quite a brilliant move. Preventing Kh4 and also g3 in response to Bf2} 4. gxh3
+h6+ 5. Kh4 Bf2# {[pgndiagram] Thus, Luzhin ensures his immortality with a
+brilliant rook sacrifice.} 1-0
+
+[Event "US Primary Championship"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Jeff Sarwer"]
+[Black "Joshua Waitzkin"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[BlackElo "2464"]
+[PlyCount "126"]
+[EventDate "1986.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 Nbd7 7. e5 Ne8 8. Bd3
+c5 9. dxc5 Nxc5 10. Bc2 a5 11. O-O b6 12. Be3 Bb7 13. Qd4 dxe5 14. Nxe5 Qxd4
+15. Bxd4 Rd8 16. Bxc5 bxc5 17. Na4 Bxe5 18. fxe5 Rd2 19. Rf2 Rxf2 20. Kxf2 f6
+21. e6 Nd6 22. Nxc5 Rc8 23. Nxb7 Nxb7 24. b3 Nc5 25. Re1 Rc6 26. Be4 Ra6 27.
+Bc2 Rxe6 28. Rxe6 Nxe6 29. Ke3 Kf8 30. Ke4 Ke8 31. g3 Kd7 32. Kd5 f5 33. a3 h6
+34. b4 axb4 35. axb4 Nc7+ 36. Kc5 e5 37. Ba4+ Kc8 38. Bc6 e4 39. b5 e3 40. Bf3
+Ne6+ 41. Kd5 Ng5 42. Be2 Kc7 43. Ke5 Ne4 44. Kd4 Kd6 45. Kxe3 Kc5 46. g4 Nd6
+47. Kf4 g5+ 48. Ke5 fxg4 49. Kf6 g3 50. hxg3 Ne4+ 51. Kg6 Nxg3 52. Bd3 Nh1 53.
+Kxh6 g4 54. Kg5 g3 55. Be4 Nf2 56. Bd5 Nd1 57. Kf4 Nc3 58. Bc6 Ne2+ 59. Kf3
+Nd4+ 60. Kxg3 Nxc6 61. bxc6 Kxc6 62. Kf3 Kc5 63. Ke3 Kxc4 1/2-1/2
+
+[Event "USSR Championship"]
+[Site "Leningrad URS"]
+[Date "1960.02.20"]
+[Round "16"]
+[White "Boris Spassky"]
+[Black "David Bronstein"]
+[Result "1-0"]
+[ECO "C36"]
+[PlyCount "45"]
+[EventDate "1960.??.??"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Bd6 5. Nc3 Ne7 6. d4 O-O 7. Bd3 Nd7 8.
+O-O h6 9. Ne4 Nxd5 10. c4 Ne3 11. Bxe3 fxe3 12. c5 Be7 13. Bc2 Re8 14. Qd3 e2
+15. Nd6 {One of the deepest sacrifices this side of The Evergreen Game --
+Soltis} Nf8 16. Nxf7 exf1=Q+ 17. Rxf1 Bf5 18. Qxf5 Qd7 19. Qf4 Bf6 20. N3e5 Qe7
+21. Bb3 Bxe5 22. Nxe5+ Kh7 23. Qe4+ 1-0
+

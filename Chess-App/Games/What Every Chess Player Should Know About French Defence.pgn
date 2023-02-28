@@ -1,0 +1,413 @@
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "French Defence "]
+[Black "Basic Moves"]
+[Result "*"]
+[ECO "C06"]
+[PlyCount "2"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 {The starting point of the French Defence} *
+
+[Event "French Defence Stem Game"]
+[Site "London ENG - Paris FRA"]
+[Date "1834.??.??"]
+[Round "?"]
+[White "London Chess Club"]
+[Black "Paris Chess Club"]
+[Result "0-1"]
+[ECO "C01"]
+[PlyCount "54"]
+[EventDate "1834.??.??"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 c5 6. Qe2+ Be7 7. dxc5 O-O 8.
+Be3 Re8 9. Bb5 Nc6 10. Nd4 Bxc5 11. Bxc6 bxc6 12. c3 Bxd4 13. cxd4 c5 14. Qd3
+Qb6 15. O-O Ba6 16. Qb3 Qxb3 17. axb3 Bxf1 18. Kxf1 Ng4 19. dxc5 Nxe3+ 20. fxe3
+Rxe3 21. Nd2 Rae8 22. b4 Rd3 23. Rxa7 Rxd2 24. b5 Rxb2 25. b6 d4 26. b7 d3 27.
+Ra8 Kf8 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "French Defence"]
+[Black "Starting position"]
+[Result "*"]
+[ECO "C01"]
+[PlyCount "4"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 {Other 2nd moves are possible, but rare (and objectively not
+very good).} d5 {Now we see that White has two pawns in the center and Black
+"only" has one. That is why the French Defence is also classified as a
+"semi-open" game.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "French Defence"]
+[Black "3 Nc3 "]
+[Result "*"]
+[ECO "C10"]
+[PlyCount "5"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 {[%csl Gc3][%cal Gc3d5,Gc3e4] The most logical move,
+placing the knight on a square where he exerts max influence, but making it
+vulnerable to the Bb4 pin. The alternative is to put it to the "more passive"
+d2 square with 3 Nd2, leading to the Tarrasch variation, which will be
+examined slightly later. The debate revolving around 3 Nc3 and 3 Nd2 (whether
+one move is better or another) has been raging forever among those trying to
+beat the French and general verdict is that 3 Nc3 is more critical, but also
+more double-edged.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "French Defence"]
+[Black "The Winawer variation"]
+[Result "*"]
+[ECO "C15"]
+[PlyCount "6"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 {Pinning the knight - the starting point of the
+Winawer variation.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "French Defence"]
+[Black "The Classical Variation"]
+[Result "*"]
+[ECO "C11"]
+[PlyCount "6"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 {Attacking the e4 pawn at once - the starting
+point of the Classical Variation.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "French Defence"]
+[Black "The Steinitz Variation"]
+[Result "*"]
+[ECO "C11"]
+[PlyCount "8"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 {The most logical reply.} Nfd7 {The
+alternate move is 4...Ne4?!, allowing White to capture on e4, which is
+objectively dubious (but may be effective as a surprise). On the board, we
+have the starting position of the so-called Steinitz variation.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "French Defence"]
+[Black "The Steinitz Variation"]
+[Result "*"]
+[ECO "C11"]
+[PlyCount "8"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 {By far the most common move, although not
+the only one.} Nfd7 {The starting point of the Steinitz variation} *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "The French Defence"]
+[Black "Alekhine - Chatard attack"]
+[Result "*"]
+[ECO "C14"]
+[PlyCount "11"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 {Alternative to e5. White pins the knight
+and prevents the capture on e4.} Be7 {Breaking the pin, but by no means is it
+an only move.} (4... Bb4 {Leads to the sharp McCutcheon variation.}) (4... dxe4
+{Is the more solid Burn Variation.}) 5. e5 Nfd7 6. h4 {A fascinating
+Alekhine-Chatard attack, where White sacrifices a pawn to open the h-file for
+his rook. General verdict is that this is rather dangerous for Black.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "The French Defence"]
+[Black "Tarrasch Variation"]
+[Result "*"]
+[ECO "C03"]
+[PlyCount "5"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. Nd2 {As mentioned earlier, this is the alternative to Nc3.
+White doesn't allow the annoying ping with Bb4 (which would be now met with c3)
+, but his knight does not attack the d5 pawn from d2.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "French Defence"]
+[Black "The Advance Variation"]
+[Result "*"]
+[ECO "C10"]
+[PlyCount "6"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 (3. Nd2 dxe4 {Comes to the same}) 3... dxe4 {White
+doesn't have a better move than taking on e4, and it doesn't matter where his
+knight initially was.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "French Defence"]
+[Black "Exchange Variation"]
+[Result "*"]
+[ECO "C01"]
+[PlyCount "5"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. exd5 {The starting point of the Exchange Variation. A
+bulletproof way to annoy the Black player.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "The French Defence"]
+[Black "Sidelines"]
+[Result "*"]
+[ECO "C00"]
+[PlyCount "3"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d3 {Fischer's favourite move, leading to the so-called King's
+Indian Attack formation (which can be reached from various other openings, as
+well).} (2. b3 {Is an enterprising sideline that has every right to exist.}) (
+2. f4 {Was played in some blitz games by none other but Magnus Carlsen}) (2.
+Nf3 d5 3. e5 c5 4. b4 {Is the ingenious Wing Gambit, which is probably not
+fully correct, but leads to a lot of fun.}) *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "The French Defence"]
+[Black "Pawn Structure 1"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/pp3ppp/4p3/2ppP3/3P4/2P5/PP3PPP/4K3 w - - 0 0"]
+[PlyCount "0"]
+[SourceDate "2020.03.20"]
+
+{[%csl Rd4,Re5][%cal Gf7f6,Gc5d4]}  *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "The French Defence 2"]
+[Black "Pawn Structure 2"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/pp3ppp/4p3/3pP3/2pP4/P1P5/1P3PPP/4K3 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2020.03.20"]
+
+{[%csl Rc4,Re6][%cal Gf2f4,Gf4f5,Gb2b3]}  *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "French Defence "]
+[Black "Pawn Structure 3"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pp3ppp/4p3/3pP3/5P2/2P5/PP4PP/1K6 w - - 0 0"]
+[PlyCount "0"]
+[SourceDate "2020.03.20"]
+
+{[%csl Gd4][%cal Gf4f5,Gf5f6,Gb7b5,Gb5b4,Ga7a5,Ga5a4,Ga4a3,Gb4b3,Gb4c3]}  *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "The French Defence"]
+[Black "Pawn Structure 4"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pp3ppp/2p1p3/8/2PP4/8/PP3PPP/6K1 w - - 0 0"]
+[PlyCount "0"]
+[SourceDate "2020.03.20"]
+
+{[%cal Gd4d5,Gb2b4,Gb4b5,Gc6c5,Ge6e5]}  *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "French Defence"]
+[Black "Pawn Structures 5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pp3ppp/2p5/3p4/3P4/8/PPP2PPP/6K1 w - - 0 0"]
+[PlyCount "0"]
+[SourceDate "2020.03.20"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "The French Defence"]
+[Black "Middlegame plans and ideas 1"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k1nr/1pq2ppp/p1n1p3/2ppP3/3P4/2PB4/P1P2PPP/R1BQK1NR w KQkq - 0 1"]
+[PlyCount "0"]
+[SourceDate "2020.03.20"]
+
+{[%cal Gd1g4,Gg1h3,Gh3f4,Gh2h4,Gh4h5,Gh1h3]}  *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "The French Defence"]
+[Black "Middlegame plans and ideas 2"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqk1nr/ppp2ppp/4p3/3pP3/3P4/2PB4/P1P2PPP/R1BQK1NR w KQkq - 0 1"]
+[PlyCount "0"]
+[SourceDate "2020.03.20"]
+
+{[%csl Rc3,Rd4,Re5][%cal Gc7c5,Gf7f6]}  *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "The French Defence"]
+[Black "Middlegame plans and ideas 3"]
+[Result "*"]
+[ECO "C11"]
+[PlyCount "29"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 Nxd4 10. Bxd4 Bxd4 11. Qxd4 Qb6 12. Qxb6 Nxb6 13. Nb5 Ke7 14. O-O-O
+a6 15. Nd4 {One example variation of the Steinitz line. Due to his very good
+knight on d4 (and the fact enemy bishop is somewhat passive), White has some
+slight advantage in this endgame, which he as managed to convert in many games.
+} *
+
+[Event "Botvinnik - Tal World Championship Matc"]
+[Site "Moscow URS"]
+[Date "1960.03.15"]
+[Round "1"]
+[White "Mikhail Tal"]
+[Black "Mikhail Botvinnik"]
+[Result "1-0"]
+[ECO "C18"]
+[PlyCount "63"]
+[EventDate "1960.??.??"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f5 8. Qg3
+Ne7 9. Qxg7 Rg8 10. Qxh7 cxd4 11. Kd1 Bd7 12. Qh5+ Ng6 13. Ne2 d3 14. cxd3 Ba4+
+15. Ke1 Qxe5 16. Bg5 Nc6 17. d4 Qc7 18. h4 e5 19. Rh3 Qf7 20. dxe5 Ncxe5 21.
+Re3 Kd7 22. Rb1 b6 23. Nf4 Rae8 24. Rb4 Bc6 25. Qd1 Nxf4 26. Rxf4 Ng6 27. Rd4
+Rxe3+ 28. fxe3 Kc7 29. c4 dxc4 30. Bxc4 Qg7 31. Bxg8 Qxg8 32. h5 1-0
+
+[Event "USSR Championship 1961a"]
+[Site "Moscow URS"]
+[Date "1961.01.19"]
+[Round "6"]
+[White "Leonid Stein"]
+[Black "Tigran Vartanovich Petrosian"]
+[Result "1-0"]
+[ECO "C18"]
+[PlyCount "51"]
+[EventDate "1961.??.??"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Nf5 8. Bd3
+h5 9. Qf4 Nc6 10. Ne2 Nce7 11. Ng3 Ng6 12. Qd2 Bd7 13. Rb1 Rb8 14. O-O c4 15.
+Be2 Nxg3 16. fxg3 h4 17. Bg4 hxg3 18. hxg3 Qe7 19. a4 Bxa4 20. Ra1 b5 21. Ba3
+Qd7 22. Rf2 Rb7 23. Raf1 Qd8 24. Qd1 Rh6 25. Bc1 Rh7 26. Bxe6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "The French Defence"]
+[Black "Middlegame plans and ideas 4"]
+[Result "*"]
+[ECO "C18"]
+[PlyCount "14"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Qa4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "The French Defence"]
+[Black "Bad Light Squared bishop"]
+[Result "*"]
+[ECO "C02"]
+[PlyCount "12"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 c4 5. Nf3 b5 6. a3 a6 {[%csl Ra6,Rb5,Rc4,Rd5,
+Re6][%cal Gc8e6,Gc8a6] I have delibaretly taken the most extreme example to
+illustrate the point, but you see how Black's light-squared bishop doesn't
+have anywhere to go and anything to do.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.20"]
+[Round "?"]
+[White "The French Defence"]
+[Black "Caro Kann Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "12"]
+[SourceDate "2020.03.20"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. c3 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.21"]
+[Round "?"]
+[White "The French Defence"]
+[Black "The Rubinstein Variation"]
+[Result "*"]
+[ECO "C10"]
+[PlyCount "6"]
+[SourceDate "2020.03.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 {The starting point of the Rubinstein Variation.
+Note that Black can play this irrespective of whether the White knight is on
+c3 or d2 - White doesn't have a better move than recapturing himself.} *
+

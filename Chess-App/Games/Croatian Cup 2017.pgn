@@ -1,0 +1,546 @@
+[Event "CRO Team Cup"]
+[Site "Mali Losinj"]
+[Date "2017.05.11"]
+[Round "2.34"]
+[White "Kovacevic, Vlatko"]
+[Black "Tomasic, Roland"]
+[Result "0-1"]
+[ECO "A80"]
+[WhiteElo "2454"]
+[BlackElo "2173"]
+[PlyCount "79"]
+[EventDate "2017.??.??"]
+
+1. d4 {Kovacevic is a great expert on Colle and London Systems} f5 {But he
+will have none of that, since Tomasic always plays the dutch defence} 2. Nc3 {
+No mainlines, sorry} Nf6 3. Bg5 d5 4. Bxf6 exf6 5. e3 Be6 6. Bd3 Qd7 7. Qf3 Nc6
+8. a3 a6 9. Nge2 Bd6 10. Nf4 Bxf4 11. Qxf4 {[pgndiagram] White can be
+satisfied with the outcome of the opening. He has the better structure and
+easier play} O-O 12. h4 Ne7 13. Ne2 Nc8 14. f3 $6 {[pgndiagram] The first move
+that probably deserves some criticism. There was no need to weaken the kingside
+} (14. Qf3 {Not fearing the knight on e4, was good} Nd6 15. Nf4 Ne4 16. Qe2
+Rfe8 17. c3 c6 {And White retains better chances}) 14... Nd6 15. h5 Rae8 16.
+O-O-O {Very risky plan. Now Black has counterplay on the queenside. It was
+much better to castle kingside and try to play more slowly} b5 17. Rdg1 a5 {
+[pgndiagram] Black has an easy plan} 18. Kd2 (18. g4 fxg4 19. fxg4 h6 {And
+white has no attack}) 18... Re7 {I am not certain about the idea behind this
+move} (18... Rc8 {Why not this immediately?} 19. g4 fxg4 20. fxg4 b4) 19. Ng3
+Rc8 20. Re1 {Black has initiative now, while White's kingside play is non
+existent and his pieces are misplaced} c5 $6 {Very natural, but probably too
+early} (20... h6 {Black should probably shuffle his pieces a bit before
+embarking on the definite plan} 21. Ke2 a4 22. Kf2 Ree8 23. c3 c5) 21. dxc5
+Rxc5 22. Qd4 (22. Ke2 {Running with the king, was probably a good idea} Ne4 23.
+c3) 22... Qc7 {Now Nc4 and Ne4 are unpleasant threats} 23. Ke2 $2 {[pgndiagram]
+The losing moment} (23. Kc1 {Looks dangerous, though, but it is not clear how
+Black breaks with his attack} b4 24. axb4 axb4 25. Qxb4 Nc4 26. Ne2 Ra5 {And
+the game is not over yet}) 23... Ne4 $1 {Probably overlooked by Kovacevic,
+giving Black a winning position} 24. fxe4 (24. Nf1 {White can't really decline
+the sacrifice since the knight on g3 is undefended with the queen on d4} Rxc2+
+25. Bxc2 Qxc2+ 26. Nd2 Ng3+ 27. Kf2 Nxh1+ 28. Rxh1 Kf7 {And Black has a
+winning position}) 24... fxe4 $2 (24... dxe4 {Was stronger} 25. Nxe4 fxe4) 25.
+Nxe4 $2 {[pgndiagram] Mistakes come in pairs..} (25. Kf2 {Was better defence}
+exd3 26. cxd3 Rc2+ 27. Re2) 25... dxe4 26. Qxe4 Bf5 27. Qa8+ Kf7 {Now the game
+is virtually over. Black has a winning attack} 28. Bxf5 $2 {This merely
+hastens the end} Rxf5 29. Kd2 Rd7+ 30. Kc1 Rf2 31. c3 Rdd2 32. Qe4 f5 33. Qb1
+b4 34. axb4 axb4 35. Rhf1 Rxb2 36. Qxb2 Rxb2 37. Kxb2 Qxc3+ 38. Kb1 b3 39. Rc1
+Qd2 40. Rc6 {A very nice win by Tomasic and not the best game by Vlatko
+Kovacevic} 0-1
+
+[Event "CRO Team Cup"]
+[Site "Mali Losinj"]
+[Date "2017.05.11"]
+[Round "3.13"]
+[White "Kozul, Zdenko"]
+[Black "Golubovic, Boris"]
+[Result "0-1"]
+[ECO "D10"]
+[WhiteElo "2617"]
+[BlackElo "2404"]
+[PlyCount "142"]
+[EventDate "2017.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e5 4. dxe5 d4 5. Ne4 Qa5+ 6. Bd2 Qxe5 7. Ng3 Nf6 8.
+Nf3 Qd6 9. Qc2 Be7 10. e3 dxe3 11. Bxe3 O-O 12. Be2 Re8 13. O-O Qc7 14. Bd4 Bg4
+15. Rfe1 Nbd7 16. h3 Bxf3 17. Bxf3 Bc5 18. Bxc5 Nxc5 19. Qc3 a5 20. Rad1 Rad8
+21. Rxe8+ Nxe8 22. Re1 Nf6 23. Nf5 Re8 24. Rxe8+ Nxe8 25. g3 Nd7 26. Qd4 Ne5
+27. Bg2 g6 28. Nh6+ Kg7 29. Ng4 f6 30. Ne3 Qd6 31. Qa7 Qb4 32. b3 Kf8 33. f4
+Nd3 34. Qd4 Qd6 35. Qc3 Qd8 36. c5 Nb4 37. a3 Qd3 38. Qxd3 Nxd3 39. Nc4 Nxc5
+40. Nxa5 Nd6 41. b4 Ne6 42. Nb3 Ke7 {[pgndiagram] So far nothing too exciting
+happened in this game, and the most logical outcome should be a draw.} 43. Bf1
+Nc7 44. Na5 $6 {First step in the wrong direction} (44. Kf2 Ncb5 45. Bxb5 Nxb5
+46. a4 Nc3 47. a5 Kd7 48. Nc5+ Kc7 49. Nd3 Nd5 {Was around equal}) 44... Ncb5
+45. Bxb5 cxb5 (45... Nxb5 46. a4 (46. Nxb7 Nxa3 47. Nc5 Nc2) 46... Nd6 $1 (
+46... Nc3 47. Nxb7 Nxa4 48. Kf2 Nc3 49. Nc5 Nd5 50. Na6 Kd7 {And probably
+White can defend this as well}) 47. Kf1 Ke6 {And White has very unpleasant
+endgame}) 46. Kf2 Ke6 47. Nb3 $6 {[pgndiagram] The second mistake} (47. Ke3 Kd5
+48. g4 f5 49. Kd3 {And nothing terrible for White is apparent. For instance}
+fxg4 50. hxg4 h5 51. f5 hxg4 52. fxg6) 47... Kd5 48. Kf3 b6 49. Na1 Kc4 {Now
+Black should be winning} 50. Nc2 Nf5 51. Ne1 Kd4 (51... Kb3 {Why not?} 52. g4
+Ne7 53. Ke4 Kxa3 54. Nd3 Kb3 55. f5 gxf5+ 56. gxf5 Kc4 {And wins}) 52. g4 Nd6
+$4 {A big mistake, that lets white back in the game} (52... Ne7 {Preventing
+future Nd5, was winning} 53. Nc2+ Kc3 54. Ne3 Kb3) 53. Nc2+ Kc3 54. Ne3 Kd4 55.
+Nc2+ Kc3 56. Ne3 Kb3 57. Nd5 $1 {[pgndiagram] Now White should be fine} Kxa3
+58. Ke3 Kb3 59. Kd4 f5 60. g5 $2 {Not yet losing, but aggravating White's task}
+(60. Ke5 $1 {Was easiest, when Black can't win} fxg4 61. hxg4 Nf7+ 62. Kf6 Nh6
+63. Kg5 Ng8 64. f5 {And White is fine}) 60... Nf7 {Now White's king can't
+advance} 61. h4 Nd8 62. Nxb6 $2 {This is the real losing moment} (62. Ke5 {Was
+the only way of drawing this game, but it is very hard to find that over the
+board} Nc6+ (62... Kc4 63. Kd6) 63. Kf6 Nxb4 64. Nxb4 Kxb4 65. Kg7 {
+[pgndiagram] And amazingly, Black can't win this} Ka3 66. Kxh7 b4 67. Kxg6 b3
+68. h5 b2 69. Kh7 b1=Q 70. g6 {And my computer evaluates this endgame as dead
+equal}) 62... Kxb4 {[pgndiagram] Now Black is indeed winning} 63. Nd5+ Ka4 64.
+Ke5 b4 65. Kf6 b3 66. Nc3+ Kb4 67. Nd1 Ka3 68. h5 gxh5 69. Kxf5 b2 70. Nxb2
+Kxb2 71. Ke4 $2 (71. Kf6 {Might have complicated the winning taks somewhat} h4
+72. f5 h3 73. g6 h2 74. g7 h1=Q 75. g8=Q Qh6+ 76. Ke7 Nc6+ 77. Kf7 {And Black
+still has some work to do}) 71... Nf7 {An amazingly complicated endgame} 0-1
+
+[Event "CRO Team Cup"]
+[Site "Mali Losinj"]
+[Date "2017.05.11"]
+[Round "3.11"]
+[White "Stevic, Hrvoje"]
+[Black "Bosiocic, Marin"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2600"]
+[BlackElo "2603"]
+[PlyCount "43"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 {Once again, the same
+variation of the Scotch as in Croatian Championship} bxc6 {[pgndiagram]
+Bosiocic is the first to deviate} (5... Qf6 {Was played in Stevic - Bosiocic,
+Croatian Championship, 2017}) 6. Bd3 d6 7. O-O Nf6 8. Nc3 Ng4 9. h3 Ne5 10. Na4
+Bb6 {[pgndiagram] Everything has been played up to this point already} 11. b3
+$5 {The first new move, intending to fianchetto the bishop} g5 $2 {This early
+agression is a mistake; Black is not in the position to launch an attack} 12.
+Nxb6 (12. Qh5 {Immediately was probably even more precise.} g4 13. Bg5 Qd7 14.
+Bf6 {Because now Black doesn't have the move Ra5}) 12... axb6 13. Qh5 {A great
+move. White eyes the f7 and h7 pawns and places the queen on the dominant
+position} g4 14. Bg5 Qd7 15. f4 $5 {I remember seeing this at the board and
+being impressed with Stevic's play... This is certainly very imaginative move,
+although objectively probably not the strongest} (15. Bf6 Ra5 16. Qh4 {Is
+better for White}) 15... gxf3 16. Bf6 Rg8 17. Bxe5 $1 {[pgndiagram] An amazing
+position. White lets Black take his g2 pawn with check.} Ra5 $2 {In very
+complicated position, Black commits the decisive mistake} (17... dxe5 18. Rxf3
+{Leaves White with a considerable advantage} Qd4+ {Fails to} 19. Kh2 Qxa1 20.
+Qxf7+ Kd8 21. Qxg8+ {With mate coming soon}) (17... fxg2 {Was the only chance}
+18. Rf2 dxe5 19. Bc4 Rf8 20. Rd1 Qe7 {And although White has definite
+compensation for the pawns, nothing terrible for Black is apparent}) 18. Qxh7
+Rxg2+ 19. Kh1 Rxe5 (19... Qxh3+ {Was comparatively better} 20. Qxh3 Bxh3 21.
+Rxf3 Rg4 22. Rxh3 Rxe5 {Although naturally White is also winning here}) 20.
+Qh8+ Ke7 21. Rxf3 Rg6 22. Bc4 {Amazing demolishment of the fellow 2600 player
+by Stevic} 1-0
+
+[Event "CRO Team Cup"]
+[Site "Mali Losinj"]
+[Date "2017.05.12"]
+[Round "4.12"]
+[White "Palac, Mladen"]
+[Black "Markus, Robert"]
+[Result "0-1"]
+[ECO "B04"]
+[WhiteElo "2573"]
+[BlackElo "2673"]
+[PlyCount "100"]
+[EventDate "2017.??.??"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Be2 Bf5 7. O-O Nd7 8.
+Nf3 e6 9. c4 N5f6 10. Bf4 Qb6 11. Qc1 Be7 12. Rd1 h6 13. Nc3 O-O 14. c5 Qd8 15.
+b4 a6 16. Nd2 Nd5 17. Nxd5 exd5 18. Nb3 Re8 19. a4 Nf8 20. Qb2 Ne6 21. Bg3 Bf6
+22. Bf1 h5 23. h3 h4 24. Bh2 Ng5 25. b5 Be4 26. Qc3 Qd7 27. bxa6 bxa6 28. Re1
+Qf5 29. Rac1 Qg6 30. Kh1 Bf5 31. Rxe8+ Rxe8 32. f3 Bc8 33. Na5 Bd8 34. Nb3 Qe6
+35. Bd3 g6 36. Qd2 Nh7 37. Bf4 Nf6 38. Bg5 Nh5 39. Bxd8 Rxd8 40. Re1 Qf6 41.
+Qe3 Bf5 42. Bxa6 Bc2 43. a5 Ng3+ 44. Kh2 Nf5 45. Qc3 Bxb3 46. Qxb3 Qxd4 47. Qb6
+Rf8 48. Bb7 Qd2 49. Rb1 Re8 50. Qxc6 $4 {[pgndiagram] After a titanic battle,
+White blunders with his flag about to fall} (50. Qb4 Qf2 51. Ba6 {Would keep
+White very much in the game, but it is hard to find Ba6 with 30 seconds on the
+clock}) 50... Re2 0-1
+
+[Event "CRO Team Cup"]
+[Site "Mali Losinj"]
+[Date "2017.05.12"]
+[Round "4.13"]
+[White "Jovanic, Ognjen"]
+[Black "Kozul, Zdenko"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2492"]
+[BlackElo "2617"]
+[PlyCount "114"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c3 g6 3. Bf4 Bg7 4. e3 {In the Croatian Championship Jovanic had
+the winning position right out of the opening with the London System, so there
+is no reason not to try it once again} O-O 5. Nf3 d6 6. h3 Nbd7 7. Be2 c5 8.
+O-O b6 9. Nbd2 Bb7 10. a4 a6 11. Bh2 Qc7 {[pgndiagram] The tabiya of the
+King's Indian London system has been reached} 12. Bd3 Rfe8 (12... e5 {Comes
+into consideration}) 13. Qb3 (13. e4 {Was interesting now. It is doubtful
+whether Black should go for e5} e5 14. d5 {With pleasant position}) 13... Bd5 (
+13... e5 14. Bc4 {Is slightly unpleasant and the point behind 12 Qb3}) 14. c4
+Bxf3 15. Nxf3 e5 $6 (15... cxd4 {Was better first, opening the c-file for the
+heavy pieces and opening c5 square for the knight} 16. exd4 e5 17. dxe5 dxe5
+18. Rad1 Nc5 {With equality}) 16. dxe5 dxe5 {Now White has a pleasant position}
+17. Nd2 {Not strictly neccessary yet, since e5 pawn is pinned} (17. Rfd1 Rad8 (
+17... Nb8 {Is impossible due to} 18. a5 Nc6 (18... bxa5 19. Nxe5 Rxe5 20. Bxe5
+Qxe5 21. Qb7) 19. axb6 Qb7 20. Bc2 {And White is obviously better}) 18. Bc2 {
+And it is hard to suggest a move for Black here, due to the e5 weakness}) 17...
+Nb8 18. Ne4 {[pgndiagram]} (18. a5 bxa5 {Now leads nowhere}) 18... Nc6 19.
+Nxf6+ Bxf6 {Now the position should be equal, but a lot of play remains} 20.
+Be4 Rad8 21. Rad1 (21. Bxc6 {Not allowing Nb4, came into consideration,
+although it is not natural to give up such a wonderful bishop}) 21... Nb4 22.
+g4 Bh4 23. Qc3 Rxd1 24. Rxd1 Qe7 25. Kf1 Qe6 26. b3 h5 27. f3 hxg4 28. hxg4 Kg7
+29. Bd5 Qe7 30. Kg2 Bf6 31. Be4 Kg8 {[pgndiagram] The combination of Bf6 and
+Kg8 was not very successful, and now White can again gain the upper hand} 32.
+Qd2 Bg5 33. Bg1 (33. Bg1 Qf8 34. Qd6 Qh6 35. Qxb6 $5 (35. a5) 35... Bxe3 36.
+Rd8 Rxd8 37. Qxd8+ Kg7 38. Bh2 Bf4 39. Bg1 Be3 40. Qe7 Bd4 41. g5 Qh4 42. Bxd4
+exd4 43. Qxc5 Kh7 44. Qxb4 Qxg5+ 45. Kf1 f5 46. Qa5 Qf4 47. Bc6 Kh6 48. c5 d3
+49. Qc3 Qe3 50. Qe1 Qxc5 51. Qd2+ Kh5 52. Bb7 Qc2 53. Ke1 Qxb3 54. Bxa6 Qe6+
+55. Kf2 Qxa6 56. a5 Qc4 57. Ke1 Qd4) 33... Qf8 34. Qd6 Qh6 35. Qxb6 $2 {
+[pgndiagram] The queen ends up too far away} (35. a5) 35... Bxe3 36. Rd8 Rxd8
+37. Qxd8+ Kg7 38. Bh2 Bf4 39. Bg1 Be3 40. Qe7 Bd4 $2 {The mistake just before
+the time control..once again Kozul goes over the mark} 41. g5 Qh4 42. Bxd4 exd4
+43. Qxc5 {White is simply winning here, but this is not the end of the game}
+Kh7 44. Qxb4 Qxg5+ 45. Kf1 f5 46. Qa5 Qf4 47. Bc6 Kh6 48. c5 d3 49. Qc3 Qe3 50.
+Qe1 Qxc5 {[pgndiagram] White has complicated his task here} 51. Qd2+ (51. Bb7 {
+Was most precise, but Jovanic was playing on increment here, and the winning
+path is not that simple anymore} Qc2 52. Bxa6 d2 53. Qh4+ Kg7 54. Qd4+ Kh7 55.
+Be2) 51... Kh5 52. Bb7 Qc2 53. Ke1 Qxb3 {Now the position is no longer clear}
+54. Bxa6 Qe6+ 55. Kf2 (55. Kd1 {It was time to settle for a draw} Qxa6 56. Qh2+
+Kg5 57. Qd2+) 55... Qxa6 56. a5 Qc4 57. Ke1 Qd4 {And here Jovanic lost on time.
+An amazing turnaround that kept Zagreb's hopes of ultimate success in the
+tournament} 0-1
+
+[Event "CRO Team Cup"]
+[Site "Mali Losinj"]
+[Date "2017.05.14"]
+[Round "6.12"]
+[White "Kozul, Zdenko"]
+[Black "Saric, Ibro"]
+[Result "0-1"]
+[ECO "D30"]
+[WhiteElo "2617"]
+[BlackElo "2555"]
+[PlyCount "102"]
+[EventDate "2017.??.??"]
+[WhiteClock "1:30:00"]
+[BlackClock "1:30:00"]
+
+1. d4 d5 2. c4 e6 3. Nf3 a6 4. Bg5 Be7 5. Bxe7 Qxe7 6. e3 Nf6 7. Nbd2 O-O 8.
+Rc1 Nc6 9. cxd5 exd5 10. Be2 Bg4 11. O-O Na7 12. Qc2 c6 13. Bd3 Bxf3 14. gxf3
+$5 {[pgndiagram] Another typical Kozul decision} (14. Nxf3 Nb5 15. Ne5 Nd6 16.
+Rfd1 {Was around equal}) 14... Nb5 15. Kh1 Rfc8 16. Rg1 Kh8 17. a4 Nc7 18. f4
+a5 19. Nf3 Nce8 (19... Na6 {Was interesting} 20. Ne5 Nb4 21. Qc5 Qxc5 22. Rxc5
+Nxd3 23. Nxd3 g6 {With approximate equality}) 20. Ne5 Rc7 21. f3 b6 22. Qf2 (
+22. e4 {Was more consistent, with big complications} c5 23. exd5 Nxd5 24. Bxh7
+cxd4 25. Qf5 {And here Black has to find the accurate} Qf6 26. Ng6+ fxg6 27.
+Qxd5 Kxh7 28. Qxa8 Rxc1 29. Rxc1 Nd6 {And he probably has adequate
+compensation for the exchange}) 22... c5 {[pgndiagram] Now Black creates some
+counterplay} 23. Rce1 cxd4 24. exd4 Qb4 25. Bb5 Rac8 26. Nd3 Qf8 27. Ne5 Qb4
+28. Qe3 {Kozul avoids the repetition and wants to take risks in order to win}
+Nd6 29. Nd3 Nc4 30. Nxb4 Nxe3 31. Rxe3 axb4 32. Rb3 Rc2 33. Rxb4 $2 {
+[pgndiagram] Going over the top} (33. Rg2 {Would lead to a draw} Rc1+ 34. Rg1
+R1c2 35. Rg2) 33... Rd2 34. Rb1 (34. Re1 {Was the only chance, trying to give
+up a piece for the 2 pawns} Rcc2 35. Re2 Rxe2 36. Bxe2 Rxe2 37. Rxb6) 34...
+Rcc2 {Now Black is winning} 35. Bf1 Rxh2+ 36. Kg1 g6 37. Rxb6 Nh5 38. Rc1 Rcd2
+39. Rd1 Rc2 40. Rc1 Rxc1 41. Kxh2 Rxf1 42. f5 Ra1 {[pgndiagram] White has only
+one pawn for the piece and no compensation. The game is over} 43. f6 h6 44. b3
+g5 45. Rb7 Ra2+ 46. Kg1 Kh7 47. Rxf7+ Kg6 48. Ra7 Kxf6 49. b4 Nf4 50. b5 h5 51.
+Ra8 g4 0-1
+
+[Event "CRO Team Cup"]
+[Site "Mali Losinj"]
+[Date "2017.05.14"]
+[Round "6.23"]
+[White "Kovacevic, Blazimir"]
+[Black "Djurovic, Goran"]
+[Result "1-0"]
+[ECO "A31"]
+[WhiteElo "2479"]
+[BlackElo "2389"]
+[PlyCount "79"]
+[EventDate "2017.??.??"]
+[WhiteClock "1:30:00"]
+[BlackClock "1:30:00"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 e6 6. a3 Nf6 7. Nc3 a6 8. e4
+Qc7 9. f4 d6 10. Be3 b6 11. Be2 Rb8 (11... Be7 {Was more normal} 12. O-O O-O
+13. Rc1 Bb7) 12. Rc1 Be7 {[pgndiagram] The game has transposed from the
+English opening to a favourable hedgehog for White} 13. Nd5 $1 {A
+characteristic sacrifice} Qd8 $1 (13... exd5 {Is not advisable} 14. cxd5 Nxe4
+15. Nd4) 14. Nxe7 Qxe7 15. Bf3 e5 16. f5 {White is markedly better, he has
+more space and the two bishops} Nd7 17. Na1 a5 18. b4 $6 {This pawn push is
+too hasty} (18. O-O O-O 19. Qd2 Ba6 20. b4 {Was more normal. White is better})
+18... axb4 19. Qa4 Bb7 20. axb4 Ra8 21. Qb3 Nd4 22. Bxd4 exd4 {[pgndiagram]
+Situation has improved for Black, White hasn't completed his development yet,
+and Black has a strong outpost on e5} 23. O-O (23. Nc2 d3 24. Qxd3 Ne5 25. Qe2
+O-O 26. O-O Ra2 {Gives Black fantastic compensation for the pawn}) 23... O-O $2
+(23... Ne5 {Was very unpleasant for White} 24. Nc2 d3 25. Ne3 Qg5) 24. Nc2 {
+Suddenly everything is in order for White} Nf6 (24... Ne5 {Was better
+nevertheless} 25. Nxd4 Qg5 26. Rcd1 Rfd8) 25. Rfe1 Qe5 26. Rcd1 Bc6 27. b5 Bxe4
+28. Bxe4 Nxe4 29. Rxd4 Nc5 30. Qf3 Qf6 31. Qf4 (31. Red1 $5) 31... Rfe8 32.
+Rxe8+ Rxe8 33. Ne3 Ra8 $2 {[pgndiagram] The decisive mistake of the game} (
+33... h6 34. Nd5 Qd8 {Would given some chance of resisting}) 34. h3 h6 35. Qxd6
+{One pawn falls, and the 2nd will soon follow} Qg5 36. Qf4 Qe7 37. Kh2 Ra1 38.
+Qb8+ Kh7 39. Rd8 g5 40. Rh8+ {The game that brought the Cup to Liburnija} 1-0
+
+[Event "CRO Team Cup"]
+[Site "Mali Losinj"]
+[Date "2017.05.12"]
+[Round "4.21"]
+[White "Bosiocic, Marin"]
+[Black "Brkic, Ante"]
+[Result "1/2-1/2"]
+[ECO "B97"]
+[WhiteElo "2603"]
+[BlackElo "2553"]
+[PlyCount "99"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Be7 9. Qf3 Nbd7 10. O-O-O Qc7 11. Bd3 b5 12. a3 Rb8 13. Bh4 b4 14. axb4 Rxb4
+15. Be1 Bb7 16. Kb1 Nc5 17. Nxc5 dxc5 18. Qe3 c4 19. Be2 Bc5 20. Qg3 O-O 21. e5
+Nd7 22. Na2 Ra4 23. f5 Rb8 24. fxe6 fxe6 25. Bg4 Bd5 26. Bc3 Ba3 27. Rxd5 exd5
+28. Bxd7 Bxb2 29. Bxb2 Qb6 30. Bb5 Qxb5 31. Qc3 Qc5 32. Ka1 Rb5 33. e6 d4 34.
+Qxd4 Qxd4 35. Bxd4 Rba5 36. Bc3 Rxa2+ 37. Kb1 R2a4 38. Bxa5 Rxa5 39. Rd1 Kf8
+40. Rd8+ Ke7 41. Rd7+ Kf6 42. Rf7+ Kg6 43. Rc7 Re5 44. Rxc4 Rxe6 45. Rg4+ Kf7
+46. Kb2 Re2 47. Kb3 g6 48. Rg3 Ke6 49. Rh3 Rxg2 50. Rxh7 1/2-1/2
+
+[Event "CRO Team Cup"]
+[Site "Mali Losinj"]
+[Date "2017.05.12"]
+[Round "4.21"]
+[White "Bosiocic, Marin"]
+[Black "Brkic, Ante"]
+[Result "1/2-1/2"]
+[ECO "B97"]
+[WhiteElo "2603"]
+[BlackElo "2553"]
+[PlyCount "99"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+{[pgndiagram] No poisoned pawn, thank you very much} Be7 9. Qf3 Nbd7 10. O-O-O
+Qc7 11. Bd3 b5 12. a3 $6 (12. Kb1 b4 13. Ne2 Bb7 14. Rhe1 Rc8 15. Ned4 Nc5 {
+And it seems that here also Black has a good game}) 12... Rb8 13. Bh4 {I don't
+think that this retreat of the bishop is critical.} b4 (13... Nxe4 {This
+tactical trick also came into consideration} 14. Nxe4 Bxh4 15. Qg4 d5 16. Qxh4
+(16. Nc3 Bf6) 16... dxe4 17. Bxe4 Nf6 18. Bd3 O-O {And Black is clearly better}
+) 14. axb4 Rxb4 {Now Black has an easy game} 15. Be1 $2 {I think that here the
+bishop merely hinders the coordination of the White's pieces} (15. Kb1 Bb7 16.
+Qe2 O-O 17. g4 Nc5 18. Nxc5 dxc5) 15... Bb7 16. Kb1 Nc5 17. Nxc5 dxc5 18. Qe3
+c4 19. Be2 Bc5 $5 {[pgndiagram]It is clear that Black already has the
+initiative} 20. Qg3 O-O 21. e5 Nd7 $2 {But this is a mistake} (21... Ng4 {Was
+a fantastic winning shot} 22. Bxg4 (22. Qxg4 Qb6 23. Ka1 Rb8) (22. Na2 {Also
+doesn't work, due to} Rxb2+ 23. Kxb2 Qb6+ 24. Kc1 Ne3 $3 {[pgndiagram] And the
+knight joins the attack as well} 25. Bc3 Ba3+ 26. Kd2 Rd8+ 27. Ke1 (27. Bd3)
+27... Nxc2+ 28. Kf1 Ne3+ 29. Ke1) 22... Qb6 23. Ka1 Rb8 {And Black will soon
+win} (23... Rxb2 $4 24. Na4)) (21... Qb6 {Probably also wins} 22. exf6 g6 23.
+Ka1 Rb8 24. f5 Bd5 25. Qxb8+ Qxb8 26. Nxd5 exd5 27. Bxb4 Qxb4 28. Rxd5 c3 {And
+Black wins}) 22. Na2 Ra4 (22... Rxb2+ {Now doesn't work} 23. Kxb2 Qb6+ 24. Ka1
+{And there is no Ne3 follow up}) 23. f5 {[pgndiagram] Overstepping the mark} (
+23. Nc3 {Would probably lead to a draw} Rb4 24. Na2) 23... Rb8 24. fxe6 fxe6
+25. Bg4 Bd5 $2 (25... Nf8 {Defending the king with the knight, and winning
+with the remaining pieces on the queenside, was correct.}) 26. Bc3 Ba3 27. Rxd5
+{[pgndiagram] Highlighting the main drawback of the Bd5 move. The players are
+exchanging heavy punches, and it was a pleasure to watch this live} exd5 28.
+Bxd7 Bxb2 29. Bxb2 Qb6 30. Bb5 $3 {An amazing move; diverting the Black queen}
+(30. Qc3 d4) 30... Qxb5 31. Qc3 {Now d4 leads nowhere} Qc5 32. Ka1 Rb5 33. e6 {
+[pgndiagram]} d4 {Transposing to a drawn rook endgame} (33... Rb7 {Playing for
+the endgame, would allow Black to keep some chances} 34. Rd1 h6 35. e7 Rxe7 36.
+Kb1) 34. Qxd4 Qxd4 35. Bxd4 Rba5 36. Bc3 Rxa2+ 37. Kb1 R2a4 38. Bxa5 Rxa5 39.
+Rd1 {The endgame is drawn now.} Kf8 40. Rd8+ Ke7 41. Rd7+ Kf6 42. Rf7+ Kg6 43.
+Rc7 Re5 44. Rxc4 Rxe6 45. Rg4+ Kf7 46. Kb2 Re2 47. Kb3 g6 48. Rg3 Ke6 49. Rh3
+Rxg2 50. Rxh7 {A fantastic game full of interesting variations, fighting
+spirit and mistakes in complicated position.} 1/2-1/2
+
+[Event "CRO Team Cup"]
+[Site "Mali Losinj"]
+[Date "2017.05.13"]
+[Round "5.11"]
+[White "Brkic, Ante"]
+[Black "Saric, Ivan"]
+[Result "1-0"]
+[ECO "B18"]
+[WhiteElo "2553"]
+[BlackElo "2618"]
+[PlyCount "113"]
+[EventDate "2017.??.??"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 e6 7. Bd3 Nf6 8.
+O-O {[pgndiagram] The variation without h4-h5 is not considered as the most
+dangerous for Black. But still, White retains a slight advantage} Bd6 9. b3 O-O
+10. Bb2 Nbd7 11. c4 Re8 12. Bxg6 hxg6 13. Qe2 a5 14. Ne5 (14. a4 {Preventing
+a4, came into consideration}) 14... a4 15. Bc3 Qe7 16. b4 $5 {Very imaginative}
+Bxb4 17. Bxb4 Qxb4 18. Rab1 Qd6 19. Rxb7 Red8 20. Rfb1 Rab8 21. Rxb8 Nxb8 22.
+Qe3 (22. Ne4 {It is very hard to judge which pieces to exchange} Nxe4 23. Qxe4
+{And White retains some advantage, for instance} c5 24. dxc5 Qd1+ 25. Qe1 Qxe1+
+26. Rxe1 f6 (26... Rc8 27. Rb1) 27. Nxg6 Kf7 28. Nf4 Na6 29. c6 g5 30. Ne2 Rd6
+31. c7 Rc6) 22... Nbd7 {[pgndiagram] Now c5 is coming and White has nothing
+any more} (22... Qxd4 $4 23. Qxd4 Rxd4 24. Rxb8+) 23. h3 c5 24. Qa3 $6 (24.
+Nxd7 Nxd7 25. dxc5 Nxc5 {Was wiser}) 24... Nxe5 25. dxe5 Qxe5 26. Qxa4 Qf4 27.
+Qb3 g5 {Now Black is the one who has greater chances} 28. Qb6 $2 {Not very
+careful} (28. a4 Rd2 29. Rf1 Qc7) 28... Rd2 {Capturing the a pawn for the
+c-pawn should be in Black's favour} 29. Qxc5 Rxa2 30. Rf1 Rb2 $6 {[pgndiagram]
+Not the most precise} (30... Rc2 31. Qc8+ Kh7 32. Qb7) (30... g6 {Creating
+space for the king on g7 was the best} 31. Qc8+ Kg7) 31. Qa3 Rb8 32. Rc1 g4 33.
+h4 Rc8 34. c5 Nd5 35. c6 {The c pawn is slightly annoying for Black,
+especially with the time trouble approaching} Nb4 36. Rc3 Nd5 {The c pawn is
+taboo} (36... Rxc6 37. Qa8+) (36... Nxc6 37. Rxc6) 37. Rc1 Kh7 $6 {Once again
+we see the pattern of players ignoring the three fold repetition and getting
+punished for it} 38. Qc5 Rc7 $6 (38... Qe5) 39. Rc4 Qd2 $6 40. Ne4 Qe1+ $6 (
+40... Qd1+) 41. Kh2 {[pgndiagram]With the last couple of moves before the time
+trouble Black has landed into unpleasant position} Kg6 $2 {But this move
+hastens the end} (41... Qb1 $5 42. Qf8 $1 {And the computer finds a nice
+variation in which White ends up in a queen endgame with a pawn up} f6 43. Qe8
+Re7 44. Nxf6+ gxf6 45. Qh5+ Kg8 46. Rxg4+ Rg7 47. Qe8+ Kh7 48. c7 Nxc7 49.
+Rxg7+ Kxg7 50. Qe7+ Kg6 51. Qxc7 {And it is very unpleasant to defend this
+endgame}) 42. Qf8 $1 Ne3 43. h5+ Kh7 44. Ng5+ Kh6 45. fxe3 f5 46. Nf3 gxf3 47.
+Qh8+ (47. Qe8 {Was winning immediately} Kh7 48. Rd4) 47... Kg5 48. Qd8+ Kh6 49.
+Qh8+ Kg5 50. Qd8+ Kh6 51. Qxc7 f2 52. Qf4+ Kh7 53. c7 Qg1+ 54. Kg3 f1=Q 55.
+Qxf1 Qxf1 56. c8=Q e5 57. Qe6 {A fascinating battle} 1-0
+
+[Event "Croatian Chess Cup Final 2017"]
+[Site "?"]
+[Date "2017.05.20"]
+[Round "?"]
+[White "Stocko, Josip"]
+[Black "Pikula, Dejan"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4q2k/4Npbn/ppb5/4P1BQ/1P1p4/3PR3/P4N1K/2r5 w - - 0 1"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "Croatian Chess Cup Final 2017"]
+[Site "?"]
+[Date "2017.05.20"]
+[Round "?"]
+[White "Stocko, Josip"]
+[Black "Pikula, Dejan"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4q2k/4Npbn/ppb5/4P1BQ/1P1p4/3PR3/P4N1K/2r5 w - - 0 1"]
+[PlyCount "0"]
+
+ 1-0
+
+[Event "CRO Team Cup"]
+[Site "Mali Losinj"]
+[Date "2017.05.12"]
+[Round "4.31"]
+[White "Livaic, Leon"]
+[Black "Martinovic, Sasa"]
+[Result "0-1"]
+[ECO "E73"]
+[WhiteElo "2464"]
+[BlackElo "2552"]
+[PlyCount "74"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Be3 {[pgndiagram] This
+variation has recently become popular on the highest level as Wesley So played
+it in couple of games} e5 7. d5 Na6 8. g4 Nc5 9. Bf3 c6 {A novelty by Sasa in
+this position} 10. b4 cxd5 11. cxd5 (11. bxc5 d4) 11... Ncxe4 $1 {[pgndiagram]
+A great piece sacrifice} 12. Nxe4 Nxe4 13. Bxe4 f5 14. gxf5 gxf5 15. Bc2 f4 {
+I think that Sasa had 1 hour and 35 minutes on his clock.} 16. Bd2 (16. Qh5 {
+Is the best move in the position. Leon said he didn't see what to do after
+Black goes e4} e4 {Attacking the rook} 17. Bxe4 Rf7 18. Bxh7+ Kf8 19. Bd2 Qe7+
+20. Kf1 {And the position is highly unpleasant for White} Qe5 21. Qxe5 Bxe5 22.
+Bg6 Rf6 23. Rc1 Rxg6 24. Nf3 Bf5 {And Black has great compensation for the
+missing pawn. I guess that Sasa thought that there is little risk in playing
+this variation, because even if White finds the best moves, Black isn't worse})
+16... e4 17. Bxe4 (17. Rc1 Qh4 18. Bxe4 Bg4 19. Qc2 Rae8 {Is clearly better
+for Black}) 17... Qe7 18. f3 Bf5 19. Rc1 Bxe4 20. Qe2 Qh4+ 21. Qf2 Qxf2+ 22.
+Kxf2 Bd4+ 23. Kg2 Bxd5 {[pgndiagram] And just like that, Black ends up with
+the two bishops and a pawn more. The game is virtually decided} 24. Ne2 Bb6 25.
+a4 Rf7 26. Bxf4 Re8 27. Nc3 Bc6 28. b5 Rxf4 29. bxc6 bxc6 30. Kg3 Ref8 31. Rhf1
+Be3 32. Rc2 Rc4 33. Re1 Bf4+ 34. Kg2 d5 35. Ree2 Rf6 36. Nd1 Rg6+ 37. Kf1 Rxa4
+{Another impressive piece of preparation by Sasa} 0-1
+
+[Event "CRO Team Cup"]
+[Site "Mali Losinj"]
+[Date "2017.05.13"]
+[Round "5.53"]
+[White "Golubovic, Boris"]
+[Black "Podravec, Kresimir"]
+[Result "0-1"]
+[ECO "B14"]
+[WhiteElo "2404"]
+[BlackElo "2171"]
+[PlyCount "88"]
+[EventDate "2017.??.??"]
+
+1. c4 c6 2. e4 e6 3. Nc3 d5 4. exd5 exd5 5. cxd5 cxd5 6. d4 Nc6 7. Nf3 Nf6 8.
+Bb5 a6 9. Bxc6+ bxc6 10. Ne5 Bb7 11. O-O Be7 12. Bg5 O-O 13. Rc1 Nd7 14. Bxe7
+Qxe7 15. Nxd7 Qxd7 16. Na4 Qd6 17. Nc5 Bc8 18. Qd3 g6 19. Rfe1 Bf5 20. Qg3 Qb8
+21. Qxb8 Rfxb8 22. b3 Ra7 23. f3 Kf8 24. g4 Bc8 25. Nd3 Rc7 26. Kf2 Rb6 27. Nf4
+Rd7 28. Re5 Rd8 29. g5 Bf5 30. Rc5 Re8 31. Rxe8+ Kxe8 32. Ke3 Kd7 33. Ra5 Kd6
+34. Ne2 Bc8 35. Nc3 Rb7 36. Rc5 Re7+ 37. Kd2 f6 38. gxf6 Rf7 39. Nxd5 Bb7 40.
+Nc3 Ke6 41. Ne4 Rd7 42. Re5+ Kf7 43. Re7+ {[pgndiagram] Embarking on a non
+existent combination} Rxe7 44. Nd6+ $4 {Just blundering the rook away} Kxf6 {
+And White can only resign} (44... Ke6 {Golubovic probably imagined he could
+win a piece} 45. fxe7 Kxe7 46. Nxb7) 0-1
+
+[Event "CRO Team Cup 2017"]
+[Site "?"]
+[Date "2017.05.21"]
+[Round "?"]
+[White "Kos, Bruno"]
+[Black "Štrukelj, Zlatko"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/b7/8/p1P1p3/P3Nk1p/5P1P/4K3/8 w - - 0 0"]
+[PlyCount "0"]
+
+ 0-1
+
+[Event "CRO Team Cup 2017"]
+[Site "?"]
+[Date "2017.05.21"]
+[Round "?"]
+[White "Kos, Bruno"]
+[Black "Štrukelj, Zlatko"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/b7/8/p1P1p3/P3Nk1p/5P1P/4K3/8 w - - 0 0"]
+[PlyCount "12"]
+
+{[pgndiagram] White is completely winning here, but it is not that easy.} 1.
+Kf2 $2 {Losing most part of the advantage} (1. c6 {Was winning, but White has
+to be careful with his next knight jump} Bb6 (1... Bb8 2. Nc5 $1 {Only this
+move wins now, White has to gain a tempo on the bishop} (2. Nf6 Kg3 3. Nd5 Kxh3
+4. c7 Bxc7 5. Nxc7 Kg2 {Is equal})) 2. Nf6 Kg3 3. Nd5 {Gaining a tempo on the
+bishop} Bd8 4. c7 Bxc7 5. Nxc7 Kxh3 6. Kf2 {And White is winning}) 1... Kf5 2.
+Ke2 $2 {Losing another tempo} (2. Ke3 Ke6 3. f4 {Would still allow White to
+play for the win} exf4+ 4. Kd4 Kd7 5. Nd2 Kc6 6. Nb3 f3 7. Nxa5+ Kd7 8. Ke3
+Bxc5+ 9. Kxf3 {Although even here Black should draw with precise play}) 2...
+Ke6 3. Ke3 Kd5 {Now the logical outcome is draw} 4. f4 $4 {[pgndiagram]
+Throwing the game away} Bxc5+ 5. Nxc5 exf4+ 6. Kxf4 Kxc5 {And Black wins the
+race and the game} 0-1
+
+[Event "27th CRO-Cup"]
+[Site "Mali Losinj"]
+[Date "2018.05.17"]
+[Round "2.31"]
+[White "Biti, Ozren"]
+[Black "Bosiocic, Marin"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2362"]
+[BlackElo "2597"]
+[PlyCount "125"]
+[EventDate "2018.05.16"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 c6 7. Bd3 Qc7 8. O-O
+Nbd7 9. a4 b6 10. Re1 e5 11. Qd2 a6 12. Bh6 Bb7 13. Bf1 Rfe8 14. Bxg7 Kxg7 15.
+Rad1 b5 16. dxe5 dxe5 17. Qe3 Rad8 18. Rd2 Nf8 19. Red1 Rxd2 20. Rxd2 N6d7 21.
+Rd1 Nb6 22. b3 f6 23. h4 Rd8 24. Rxd8 Qxd8 25. Qd2 Qxd2 26. Nxd2 Kf7 27. axb5
+cxb5 28. b4 Ke7 29. f3 Ne6 30. Nd1 Nd4 31. c3 Nc6 32. Kf2 Bc8 33. Ke3 Be6 34.
+g3 Nd8 35. Nb2 Nc6 36. Nd1 Na4 37. Be2 Kd6 38. Kd3 f5 39. Ke3 Ne7 40. Bf1 Kc6
+41. Be2 Kb6 42. Bf1 Nc8 43. f4 exf4+ 44. Kxf4 fxe4 45. Nxe4 Ne7 46. Ke5 Bg4 47.
+Ndf2 Bf3 48. Bh3 Kc6 49. Be6 h5 50. Bf7 Be2 51. Ke6 Nf5 52. Bxg6 Ne3 53. Ke5
+Kb6 54. Nh3 Ng4+ 55. Kd4 Nh6 56. Nf4 Bg4 57. Bxh5 Bxh5 58. Nxh5 a5 59. Nhf6
+Nf5+ 60. Ke5 Ng7 61. g4 Nb2 62. bxa5+ Kxa5 63. Nd5 1-0
+
