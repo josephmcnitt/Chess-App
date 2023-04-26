@@ -1,5 +1,5 @@
 Chess Analysis App
-This is a Python application that analyzes chess games and provides insights into the players' moves. It uses the python-chess library to read Portable Game Notation (PGN) files and extract positions and moves, and a machine learning model based on BERT to classify moves as good or bad.
+This is a Python application that analyzes chess games and provides insights into the players' moves. It uses the python-chess library to read Portable Game Notation (PGN) files and extract positions and moves, and a machine learning model based on BERT to give commentary on moves.
 
 #Setup
 To use this application, you will need to install the required Python packages:
